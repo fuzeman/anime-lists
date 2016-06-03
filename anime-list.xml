@@ -4348,7 +4348,7 @@
     <name>Fujimi 2-choume Koukyougakudan</name>
   </anime>
   <anime anidbid="1270" tvdbid="OVA" defaulttvdbseason="1">
-    <name>Ryokunohara Meikyuu</name>
+    <name>Ryokunohara Labyrinth</name>
   </anime>
   <anime anidbid="1271" tvdbid="112541" defaulttvdbseason="1">
     <name>Getter Robo G</name>
@@ -10910,7 +10910,7 @@
     <name>Yume no Kakera</name>
   </anime>
   <anime anidbid="4391" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0469611">
-    <name>Super Mario Brothers: Peach Hime Kyuushutsu Dai Sakusen</name>
+    <name>Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!</name>
   </anime>
   <anime anidbid="4392" tvdbid="79410" defaulttvdbseason="1">
     <name>Kemonozume</name>
@@ -18901,7 +18901,7 @@
     <name>Out of Sight</name>
   </anime>
   <anime anidbid="8274" tvdbid="75869" defaulttvdbseason="0" tmdbid="102070">
-    <name>Gekijouban Mahou Sensei Negima! Anime Final</name>
+    <name>Mahou Sensei Negima! Anime Final Gekijouban</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
@@ -24865,7 +24865,7 @@
     <name>Kowabon</name>
   </anime>
   <anime anidbid="11286" tvdbid="279040" defaulttvdbseason="0" episodeoffset="1">
-    <name>Futsuu no Joshikousei ga [Locodol] Yattemita. Minna de Oiwai Shite Mita.</name>
+    <name>Futsuu no Joshikousei ga [Locodol] Yattemita. (2015)</name>
   </anime>
   <anime anidbid="11287" tvdbid="293121" defaulttvdbseason="0" episodeoffset="12">
     <name>Himouto! Umaru-chan OAD</name>
@@ -24883,7 +24883,7 @@
     <name>Ushio to Tora (2016)</name>
   </anime>
   <anime anidbid="11321" tvdbid="299499" defaulttvdbseason="1">
-    <name>Unhappy</name>
+    <name>Anne Happy</name>
   </anime>
   <anime anidbid="11322" tvdbid="304493" defaulttvdbseason="1">
     <name>Ojisan to Marshmallow</name>

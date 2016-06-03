@@ -4462,7 +4462,7 @@
     <name>Fujimi 2-choume Koukyougakudan</name>
   </anime>
   <anime anidbid="1270" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ryokunohara Meikyuu</name>
+    <name>Ryokunohara Labyrinth</name>
   </anime>
   <anime anidbid="1271" tvdbid="112541" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Getter Robo G</name>
@@ -12587,7 +12587,7 @@
     <name>Yume no Kakera</name>
   </anime>
   <anime anidbid="4391" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt0469611">
-    <name>Super Mario Brothers: Peach Hime Kyuushutsu Dai Sakusen</name>
+    <name>Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!</name>
   </anime>
   <anime anidbid="4392" tvdbid="79410" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Kemonozume</name>
@@ -22621,7 +22621,7 @@
     <name>Out of Sight</name>
   </anime>
   <anime anidbid="8274" tvdbid="75869" defaulttvdbseason="0" episodeoffset="" tmdbid="102070" imdbid="">
-    <name>Gekijouban Mahou Sensei Negima! Anime Final</name>
+    <name>Mahou Sensei Negima! Anime Final Gekijouban</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-15;</mapping>
     </mapping-list>
@@ -30547,7 +30547,7 @@
     <name>Jakusansei Million Arthur</name>
   </anime>
   <anime anidbid="11286" tvdbid="279040" defaulttvdbseason="0" episodeoffset="1" tmdbid="" imdbid="">
-    <name>Futsuu no Joshikousei ga [Locodol] Yattemita. Minna de Oiwai Shite Mita.</name>
+    <name>Futsuu no Joshikousei ga [Locodol] Yattemita. (2015)</name>
   </anime>
   <anime anidbid="11287" tvdbid="293121" defaulttvdbseason="0" episodeoffset="12" tmdbid="" imdbid="">
     <name>Himouto! Umaru-chan OAD</name>
@@ -30649,7 +30649,7 @@
     <name>Washimo 3</name>
   </anime>
   <anime anidbid="11321" tvdbid="299499" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
-    <name>Unhappy</name>
+    <name>Anne Happy</name>
   </anime>
   <anime anidbid="11322" tvdbid="304493" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Ojisan to Marshmallow</name>
@@ -32804,5 +32804,53 @@
   </anime>
   <anime anidbid="12131" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Rocket-dan</name>
+  </anime>
+  <anime anidbid="12132" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Digimon Universe: Appli Monsters</name>
+  </anime>
+  <anime anidbid="12133" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>OVA JK Bitch ni Shiboraretai</name>
+  </anime>
+  <anime anidbid="12135" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chibi Neko Tomu no Daibouken: Chikyuu wo Sukue! Nakama-tachi</name>
+  </anime>
+  <anime anidbid="12136" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>ACCA 13-ku Kansatsu-ka</name>
+  </anime>
+  <anime anidbid="12137" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi</name>
+  </anime>
+  <anime anidbid="12138" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Violet Evergarden</name>
+  </anime>
+  <anime anidbid="12140" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Cardcaptor Sakura (Shinsaku)</name>
+  </anime>
+  <anime anidbid="12141" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Starmyu (2017)</name>
+  </anime>
+  <anime anidbid="12142" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>"Eiyuu" Kaitai</name>
+  </anime>
+  <anime anidbid="12143" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xiyue Qi Tong</name>
+  </anime>
+  <anime anidbid="12146" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Xiyue Qi Tong (2006)</name>
+  </anime>
+  <anime anidbid="12147" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Pure Pure Pleiades</name>
+  </anime>
+  <anime anidbid="12148" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Atom: The Beginning</name>
+  </anime>
+  <anime anidbid="12149" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Gekijou Haikara-san ga Tooru</name>
+  </anime>
+  <anime anidbid="12150" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Trickster: Edogawa Ranpo "Shounen Tanteidan" yori</name>
+  </anime>
+  <anime anidbid="12151" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chikatetsu ni Noru</name>
   </anime>
 </anime-list>
