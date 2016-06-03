@@ -619,9 +619,6 @@
   <anime anidbid="7924" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Transformers: Robot Masters</name>
   </anime>
-  <anime anidbid="7926" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kodomo no Jikan OAD</name>
-  </anime>
   <anime anidbid="7928" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Onna Spy Goumon: Teki no Ajito wa Jotai Goumonsho</name>
   </anime>
@@ -1344,9 +1341,6 @@
   </anime>
   <anime anidbid="10174" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>100 Banme no Saru</name>
-  </anime>
-  <anime anidbid="10179" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Noragami OAD</name>
   </anime>
   <anime anidbid="10180" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Merry X'mas Mr. Lonelyman</name>
@@ -3508,9 +3502,6 @@
   <anime anidbid="11859" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Nirvana</name>
   </anime>
-  <anime anidbid="11860" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Noragami Aragoto OAD</name>
-  </anime>
   <anime anidbid="11861" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Mim Mam Mint</name>
   </anime>
@@ -3952,9 +3943,6 @@
   <anime anidbid="12053" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Brotherhood: Final Fantasy XV</name>
   </anime>
-  <anime anidbid="12054" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Kingsglaive: Final Fantasy XV</name>
-  </anime>
   <anime anidbid="12055" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Uchuu Neko: Mardock no Bouken</name>
   </anime>
@@ -4223,4 +4211,4 @@
     <name>Chikatetsu ni Noru</name>
   </anime>
 </anime-list>
-<!--1401 titles remaining-->
+<!--1397 titles remaining-->

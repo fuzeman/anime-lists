@@ -18097,6 +18097,9 @@
   <anime anidbid="7925" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1748267">
     <name>Tobidasu Ehon 3D</name>
   </anime>
+  <anime anidbid="7926" tvdbid="80811" defaulttvdbseason="0">
+    <name>Kodomo no Jikan OAD</name>
+  </anime>
   <anime anidbid="7927" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0471945">
     <name>Tie Shan Gongzhu</name>
   </anime>
@@ -23104,6 +23107,9 @@
   <anime anidbid="10178" tvdbid="286856" defaulttvdbseason="1">
     <name>Junketsu no Maria</name>
   </anime>
+  <anime anidbid="10179" tvdbid="275610" defaulttvdbseason="0">
+    <name>Noragami OAD</name>
+  </anime>
   <anime anidbid="10181" tvdbid="276890" defaulttvdbseason="1">
     <name>Black Bullet</name>
   </anime>
@@ -25224,6 +25230,9 @@
   <anime anidbid="11858" tvdbid="hentai" defaulttvdbseason="1">
     <name>Pretty x Cation The Animation</name>
   </anime>
+  <anime anidbid="11860" tvdbid="275610" defaulttvdbseason="0" episodeoffset="2">
+    <name>Noragami Aragoto OAD</name>
+  </anime>
   <anime anidbid="11863" tvdbid="305099" defaulttvdbseason="1">
     <name>Mayoiga</name>
   </anime>
@@ -25289,5 +25298,8 @@
   </anime>
   <anime anidbid="11986" tvdbid="movie" defaulttvdbseason="1" imdbid="tt5532262">
     <name>Kaze no You ni</name>
+  </anime>
+  <anime anidbid="12054" tvdbid="movie" defaulttvdbseason="1" tmdbid="390734">
+    <name>Kingsglaive: Final Fantasy XV</name>
   </anime>
 </anime-list>
