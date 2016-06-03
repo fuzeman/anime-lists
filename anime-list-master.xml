@@ -28649,8 +28649,11 @@
   <anime anidbid="10562" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Master of Torque</name>
   </anime>
-  <anime anidbid="10563" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10563" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>Pocket Monsters XY: Mega Evolution</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-50;2-55;3-56;4-59;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="10564" tvdbid="276050" defaulttvdbseason="0" episodeoffset="" tmdbid="" imdbid="">
     <name>D-Frag! OAD</name>

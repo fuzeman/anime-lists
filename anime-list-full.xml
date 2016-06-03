@@ -27119,6 +27119,12 @@
   <anime anidbid="10555" tvdbid="282688" defaulttvdbseason="1">
     <name>Minarai Diva</name>
   </anime>
+  <anime anidbid="10563" tvdbid="76703" defaulttvdbseason="0">
+    <name>Pocket Monsters XY: Mega Evolution</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-50;2-55;3-56;4-59;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="10564" tvdbid="276050" defaulttvdbseason="0">
     <name>D-Frag! OAD</name>
   </anime>
