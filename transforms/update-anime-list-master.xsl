@@ -19,8 +19,10 @@
             <xsl:attribute name="tvdbid"><xsl:value-of select="$done/@tvdbid" /></xsl:attribute>
             <xsl:attribute name="defaulttvdbseason"><xsl:value-of select="$done/@defaulttvdbseason" /></xsl:attribute>
             <xsl:attribute name="episodeoffset"><xsl:value-of select="$done/@episodeoffset" /></xsl:attribute>
-            <xsl:attribute name="tmdbid"><xsl:value-of select="$done/@tmdbid" /></xsl:attribute>
             <xsl:attribute name="imdbid"><xsl:value-of select="$done/@imdbid" /></xsl:attribute>
+            <xsl:attribute name="tmdbid"><xsl:value-of select="$done/@tmdbid" /></xsl:attribute>
+            <xsl:attribute name="tmdbmid"><xsl:value-of select="$done/@tmdbmid" /></xsl:attribute>
+            <xsl:attribute name="tmdbsid"><xsl:value-of select="$done/@tmdbsid" /></xsl:attribute>
             <xsl:copy-of select="$done/comment()" />
             <name><xsl:value-of select="$name" /></name>
             <xsl:for-each select="$done/mapping-list">
