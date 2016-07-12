@@ -24591,6 +24591,9 @@
   <anime anidbid="11034" tvdbid="hentai" defaulttvdbseason="1">
     <name>Shoujo Kyouiku</name>
   </anime>
+  <anime anidbid="11039" tvdbid="311537" defaulttvdbseason="1">
+    <name>Taboo-Tattoo</name>
+  </anime>
   <anime anidbid="11040" tvdbid="278157" defaulttvdbseason="0">
     <name>Gekijouban Haikyuu!!</name>
     <mapping-list>
@@ -25086,6 +25089,9 @@
   <anime anidbid="11673" tvdbid="277063" defaulttvdbseason="1" episodeoffset="12">
     <name>Gakusen Toshi Asterisk (2016)</name>
   </anime>
+  <anime anidbid="11683" tvdbid="304900" defaulttvdbseason="1">
+    <name>Amanchu!</name>
+  </anime>
   <anime anidbid="11686" tvdbid="hentai" defaulttvdbseason="1">
     <name>Ero Manga! H mo Manga mo Step-up</name>
   </anime>
@@ -25227,6 +25233,9 @@
   <anime anidbid="11844" tvdbid="254653" defaulttvdbseason="0" episodeoffset="14">
     <name>High School DxD Born: Yomigaeranai Fushichou</name>
   </anime>
+  <anime anidbid="11848" tvdbid="312878" defaulttvdbseason="1">
+    <name>D.Gray-man Hallow</name>
+  </anime>
   <anime anidbid="11858" tvdbid="hentai" defaulttvdbseason="1">
     <name>Pretty x Cation The Animation</name>
   </anime>
@@ -25298,6 +25307,9 @@
   </anime>
   <anime anidbid="11986" tvdbid="movie" defaulttvdbseason="1" imdbid="tt5532262">
     <name>Kaze no You ni</name>
+  </anime>
+  <anime anidbid="12014" tvdbid="309530" defaulttvdbseason="1">
+    <name>91 Days</name>
   </anime>
   <anime anidbid="12054" tvdbid="movie" defaulttvdbseason="1" imdbid="tt5595168" tmdbid="390734" tmdbmid="390734">
     <name>Kingsglaive: Final Fantasy XV</name>
