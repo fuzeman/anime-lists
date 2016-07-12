@@ -6059,7 +6059,7 @@
     </mapping-list>
     <before>;1-1;2-3;3-4;</before>
   </anime>
-  <anime anidbid="1958" tvdbid="79448" defaulttvdbseason="a">
+  <anime anidbid="1958" tvdbid="189841" defaulttvdbseason="a">
     <name>Otogizoushi</name>
   </anime>
   <anime anidbid="1959" tvdbid="83587" defaulttvdbseason="1">
@@ -8373,10 +8373,10 @@
     </mapping-list>
     <before>;1-25;2-26;</before>
   </anime>
-  <anime anidbid="2859" tvdbid="235591" defaulttvdbseason="a">
+  <anime anidbid="2859" tvdbid="163721" defaulttvdbseason="a">
     <name>Otogi-Juushi Akazukin (2006)</name>
   </anime>
-  <anime anidbid="2860" tvdbid="235591" defaulttvdbseason="0">
+  <anime anidbid="2860" tvdbid="163721" defaulttvdbseason="0">
     <name>Otogi-Juushi Akazukin</name>
   </anime>
   <anime anidbid="2862" tvdbid="201561" defaulttvdbseason="1">
