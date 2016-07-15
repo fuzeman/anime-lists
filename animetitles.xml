@@ -36711,7 +36711,7 @@
 	</anime>
 	<anime aid="4989">
 		<title type="main" xml:lang="x-jat">Sirius no Densetsu</title>
-		<title type="official" xml:lang="en">The Sea Prince and the Fire Child</title>
+		<title type="official" xml:lang="en">Sea Prince and the Fire Child</title>
 		<title type="official" xml:lang="ja">シリウスの伝説</title>
 		<title type="syn" xml:lang="en">Legend of Sirius</title>
 		<title type="syn" xml:lang="en">Legend of Syrius</title>
@@ -64724,6 +64724,7 @@
 	</anime>
 	<anime aid="10952">
 		<title type="main" xml:lang="x-jat">Shisha no Teikoku</title>
+		<title type="official" xml:lang="en">The Empire of Corpses</title>
 		<title type="official" xml:lang="fr">The Empire of Corpses</title>
 		<title type="official" xml:lang="ja">屍者の帝国 The Empire of Corpses</title>
 		<title type="syn" xml:lang="ja">ししゃのていこく</title>
@@ -68363,11 +68364,13 @@
 	</anime>
 	<anime aid="11803">
 		<title type="main" xml:lang="x-jat">Mob Psycho 100</title>
+		<title type="official" xml:lang="en">Mob Psycho 100</title>
 		<title type="official" xml:lang="ja">モブサイコ100</title>
 		<title type="syn" xml:lang="bg">Моб Психо 100</title>
 	</anime>
 	<anime aid="11804">
 		<title type="main" xml:lang="x-jat">Danganronpa 3: The End of Kibougamine Gakuen - Mirai Hen</title>
+		<title type="official" xml:lang="en">Danganronpa 3: The End of Hope`s Peak High School - Future Arc</title>
 		<title type="official" xml:lang="ja">ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編</title>
 	</anime>
 	<anime aid="11805">
@@ -68646,6 +68649,7 @@
 	<anime aid="11875">
 		<title type="main" xml:lang="x-jat">Days</title>
 		<title type="official" xml:lang="en">Days</title>
+		<title type="official" xml:lang="fr">Days</title>
 		<title type="official" xml:lang="ja">DAYS</title>
 		<title type="syn" xml:lang="bg">Ден след ден</title>
 		<title type="syn" xml:lang="ja">デイズ</title>
@@ -69273,6 +69277,7 @@
 	</anime>
 	<anime aid="12035">
 		<title type="main" xml:lang="x-jat">Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou Hen</title>
+		<title type="official" xml:lang="en">Danganronpa 3: The End of Hope`s Peak High School - Despair Arc</title>
 		<title type="official" xml:lang="ja">ダンガンロンパ3 -The End of 希望ヶ峰学園-　絶望編</title>
 	</anime>
 	<anime aid="12036">
@@ -69623,8 +69628,8 @@
 		<title type="official" xml:lang="ja">芋川椋三宙返りの巻</title>
 	</anime>
 	<anime aid="12123">
-		<title type="main" xml:lang="x-jat">Gundam Build Fighters Try (2016)</title>
-		<title type="official" xml:lang="ja">ガンダムビルドファイターズトライ (2016)</title>
+		<title type="main" xml:lang="x-jat">Gundam Build Fighters Try: Island Wars</title>
+		<title type="official" xml:lang="ja">ガンダムビルドファイターズトライ アイランド・ウォーズ</title>
 	</anime>
 	<anime aid="12124">
 		<title type="main" xml:lang="x-jat">Shounen Ashibe OVA</title>
@@ -69745,6 +69750,7 @@
 	</anime>
 	<anime aid="12158">
 		<title type="main" xml:lang="x-jat">Mahou Shoujo? Naria Girls</title>
+		<title type="official" xml:lang="en">Mahou Shoujo? Naria Girls</title>
 		<title type="official" xml:lang="ja">魔法少女? なりあ☆がーるず</title>
 	</anime>
 	<anime aid="12191">
@@ -70038,6 +70044,22 @@
 		<title type="main" xml:lang="x-kot">Jebulchalssi Iyagi</title>
 		<title type="official" xml:lang="ja">제불찰씨 이야기</title>
 	</anime>
+	<anime aid="12266">
+		<title type="main" xml:lang="x-jat">Hitorijime My Hero</title>
+		<title type="official" xml:lang="ja">ひとりじめマイヒーロー</title>
+	</anime>
+	<anime aid="12267">
+		<title type="main" xml:lang="x-jat">Alps no Shoujo Heidi? Chara Onji</title>
+		<title type="official" xml:lang="ja">アルプスの少女ハイジ? ちゃらおんじ</title>
+	</anime>
+	<anime aid="12268">
+		<title type="main" xml:lang="x-jat">Choujuu Giga</title>
+		<title type="official" xml:lang="ja">鳥獣戯画</title>
+	</anime>
+	<anime aid="12269">
+		<title type="main" xml:lang="x-jat">Eiga Mahou Tsukai Precure! Kiseki no Henshin! Cure Mofurun!</title>
+		<title type="official" xml:lang="ja">映画 魔法つかいプリキュア! 奇跡の変身! キュアモフルン!</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Mon Jul 11 03:00:19 2016 (9605 anime, 50828 titles) -->
+<!-- Created: Thu Jul 14 03:00:17 2016 (9609 anime, 50842 titles) -->
