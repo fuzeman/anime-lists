@@ -20031,7 +20031,7 @@
   <anime anidbid="7507" tvdbid="movie" defaulttvdbseason="1" imdbid="tt1686865">
     <name>Tezuka Osamu no Buddha</name>
   </anime>
-  <anime anidbid="7508" tvdbid="79525" defaulttvdbseason="0">
+  <anime anidbid="7508" tvdbid="79525" defaulttvdbseason="0" imdbid="tt3354096,tt3354254,tt3354302,tt3354306,tt5920384" tmdbid="185526,212161,347200,347187,372751" tmdbmid="185526,212161,347200,347187,372751">
     <name>Code Geass: Boukoku no Akito</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-25;2-26;3-27;4-28;</mapping>
