@@ -3373,7 +3373,7 @@
   <anime anidbid="920" tvdbid="unknown" defaulttvdbseason="1">
     <name>Bakutou Sengen Daigander</name>
   </anime>
-  <anime anidbid="921" tvdbid="76703" defaulttvdbseason="0" imdbid="tt0347791">
+  <anime anidbid="921" tvdbid="76703" defaulttvdbseason="0" imdbid="tt0347791" tmdbid="33875" tmdbmid="33875">
     <name>Gekijouban Pocket Monsters: Mizu no Miyako no Mamorigami Latias to Latios</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;2-6;3-6;</mapping>
@@ -3612,17 +3612,17 @@
       <mapping anidbseason="1" tvdbseason="0">;1-7;2-7;3-7;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="990" tvdbid="76703" defaulttvdbseason="0" imdbid="tt0210232">
+  <anime anidbid="990" tvdbid="76703" defaulttvdbseason="0" imdbid="tt0190641" tmdbid="10228" tmdbmid="10228">
     <name>Gekijouban Pocket Monsters: Mewtwo no Gyakushuu</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-41;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;2-1;3-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="991" tvdbid="76703" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0313487">
+  <anime anidbid="991" tvdbid="76703" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0287635" tmdbid="12600" tmdbmid="12600">
     <name>Gekijouban Pocket Monsters: Celebi Toki o Koeta Deai</name>
   </anime>
-  <anime anidbid="992" tvdbid="76703" defaulttvdbseason="0" imdbid="tt0266860">
+  <anime anidbid="992" tvdbid="76703" defaulttvdbseason="0" imdbid="tt0266860" tmdbid="10991" tmdbmid="10991">
     <name>Gekijouban Pocket Monsters: Kesshoutou no Teiou</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
@@ -3704,7 +3704,7 @@
   <anime anidbid="1018" tvdbid="84915" defaulttvdbseason="1">
     <name>Crying Freeman</name>
   </anime>
-  <anime anidbid="1020" tvdbid="76703" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0210234">
+  <anime anidbid="1020" tvdbid="76703" defaulttvdbseason="0" episodeoffset="1" imdbid="tt0210234" tmdbid="12599" tmdbmid="12599">
     <name>Gekijouban Pocket Monsters: Maboroshi no Pokemon Lugia Bakutan</name>
   </anime>
   <anime anidbid="1021" tvdbid="hentai" defaulttvdbseason="1">
