@@ -1124,7 +1124,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="285" tvdbid="79544" defaulttvdbseason="a">
-    <name>Kodomo no Omocha</name>
+    <name>Kodomo no Omocha (1995)</name>
   </anime>
   <anime anidbid="286" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0097814">
     <name>Majo no Takkyuubin</name>
@@ -1499,7 +1499,7 @@
     </supplemental-info>
   </anime>
   <anime anidbid="384" tvdbid="75113" defaulttvdbseason="0" episodeoffset="7">
-    <name>Urusei Yatsura OVA</name>
+    <name>Urusei Yatsura (1985)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-6;2-8;3-9;</mapping>
     </mapping-list>
@@ -1595,7 +1595,7 @@
     <name>From I''s: Mou Hitotsu no Natsu no Monogatari</name>
   </anime>
   <anime anidbid="405" tvdbid="76932" defaulttvdbseason="0" episodeoffset="2">
-    <name>Ranma 1/2 OVA</name>
+    <name>Ranma 1/2 (1993)</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
@@ -10048,7 +10048,7 @@
     <name>Bakuten Shoot Beyblade The Movie: Gekitou!! Takao vs Daichi</name>
   </anime>
   <anime anidbid="4017" tvdbid="OVA" defaulttvdbseason="1">
-    <name>Jigoku Sensei Nube OVA</name>
+    <name>Jigoku Sensei Nube (1998)</name>
     <supplemental-info>
       <studio>Toei Douga</studio>
     </supplemental-info>
@@ -11215,7 +11215,7 @@
     <name>Masuda Kousuke Gekijou Gag Manga Biyori 2</name>
   </anime>
   <anime anidbid="4559" tvdbid="81007" defaulttvdbseason="0">
-    <name>Ichigo Marshmallow OVA</name>
+    <name>Ichigo Marshmallow (2007)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-3;3-4;</mapping>
     </mapping-list>
@@ -11709,7 +11709,7 @@
     <name>Dallos Special</name>
   </anime>
   <anime anidbid="4806" tvdbid="81768" defaulttvdbseason="2">
-    <name>To Heart 2 OVA</name>
+    <name>To Heart 2 (2007)</name>
   </anime>
   <anime anidbid="4808" tvdbid="80568" defaulttvdbseason="1">
     <name>Reideen (2007)</name>
@@ -13753,7 +13753,7 @@
     <name>Shoujo Sect: Innocent Lovers</name>
   </anime>
   <anime anidbid="5932" tvdbid="80177" defaulttvdbseason="0">
-    <name>Lucky Star OVA</name>
+    <name>Lucky Star OVA: JK</name>
   </anime>
   <anime anidbid="5934" tvdbid="72454" defaulttvdbseason="0" imdbid="tt1155696">
     <name>Meitantei Conan: Senritsu no Full Score</name>
@@ -14110,7 +14110,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="6126" tvdbid="80236" defaulttvdbseason="0">
-    <name>Seto no Hanayome OVA</name>
+    <name>Seto no Hanayome (2008)</name>
   </anime>
   <anime anidbid="6127" tvdbid="81472" defaulttvdbseason="0" imdbid="tt1317478">
     <name>Dragon Ball: Ossu! Kaette Kita Son Gokuu to Nakama-tachi!!</name>
@@ -15491,7 +15491,7 @@
     <name>Tentai Senshi Sunred 2</name>
   </anime>
   <anime anidbid="6779" tvdbid="80005" defaulttvdbseason="0">
-    <name>Nodame Cantabile OVA</name>
+    <name>Nodame Cantabile (2009)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-2;2-4;</mapping>
     </mapping-list>
@@ -22302,7 +22302,7 @@
     <name>Daitoshokan no Hitsujikai</name>
   </anime>
   <anime anidbid="9770" tvdbid="268055" defaulttvdbseason="0">
-    <name>Namiuchigiwa no Muromi-san OAD</name>
+    <name>Namiuchigiwa no Muromi-san: Pangea Choutairiku no Muromi-san</name>
   </anime>
   <anime anidbid="9771" tvdbid="272138" defaulttvdbseason="1">
     <name>Golden Time</name>
@@ -23417,7 +23417,7 @@
     <name>Kakumei-teki Broadway Shugisha Doumei</name>
   </anime>
   <anime anidbid="10350" tvdbid="275614" defaulttvdbseason="0">
-    <name>Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OAD</name>
+    <name>Saikin, Imouto no Yousu ga Chotto Okashiinda ga. Moa no Hatsukoi Memory? 16 Nenme no Happy Christmas</name>
   </anime>
   <anime anidbid="10351" tvdbid="281948" defaulttvdbseason="1">
     <name>Hanayamata</name>
@@ -25228,7 +25228,7 @@
     <name>Eiga Crayon Shin-chan: Bakusui! Yumemi World Dai Totsugeki</name>
   </anime>
   <anime anidbid="11743" tvdbid="297315" defaulttvdbseason="0">
-    <name>Okusama ga Seitokaichou! OAD</name>
+    <name>Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi</name>
   </anime>
   <anime anidbid="11747" tvdbid="289884" defaulttvdbseason="0" episodeoffset="8" tmdbid="374056" tmdbmid="374056">
     <name>Gekijouban Hibike! Euphonium: Kitauji Koukou Suisougaku Bu e Youkoso</name>
@@ -25300,7 +25300,7 @@
     <name>Danganronpa 3: The End of Kibougamine Gakuen - Mirai Hen</name>
   </anime>
   <anime anidbid="11809" tvdbid="289906" defaulttvdbseason="0" episodeoffset="11">
-    <name>Owari no Seraph OAD</name>
+    <name>Owari no Seraph (2016)</name>
   </anime>
   <anime anidbid="11815" tvdbid="304107" defaulttvdbseason="1">
     <name>Koukaku no Pandora: Ghost Urn</name>

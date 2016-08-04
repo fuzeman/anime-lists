@@ -1291,7 +1291,7 @@
 		<title type="main" xml:lang="x-jat">Fushigi Yuugi</title>
 		<title type="official" xml:lang="ar">السراب</title>
 		<title type="official" xml:lang="de">Fushigi Yûgi - The Mysterious Play</title>
-		<title type="official" xml:lang="en">The Mysterious Play</title>
+		<title type="official" xml:lang="en">Fushigi Yugi: The Mysterious Play</title>
 		<title type="official" xml:lang="fr">Fushigi Yûgi</title>
 		<title type="official" xml:lang="ja">ふしぎ遊戯</title>
 		<title type="official" xml:lang="pl">Tajemnica przeszłości</title>
@@ -2328,12 +2328,13 @@
 	<anime aid="163">
 		<title type="main" xml:lang="x-jat">Fushigi Yuugi (1996)</title>
 		<title type="official" xml:lang="de">Fushigi Yuugi - The Mysterious Play OVA</title>
-		<title type="official" xml:lang="en">The Mysterious Play - OVA 1</title>
+		<title type="official" xml:lang="en">Fushigi Yugi: The Mysterious Play (1996)</title>
 		<title type="official" xml:lang="fr">Fushigi Yûgi - The Mysterious Play</title>
 		<title type="official" xml:lang="ja">ふしぎ遊戯 (1996)</title>
 		<title type="official" xml:lang="pl">Tajemnica przeszłości OVA</title>
 		<title type="short" xml:lang="x-jat">FY OVA1</title>
 		<title type="syn" xml:lang="en">Fushigi Yugi OVA - The Mysterious Play</title>
+		<title type="syn" xml:lang="en">The Mysterious Play - OVA 1</title>
 		<title type="syn" xml:lang="fr">Fushigi Yûgi OAV</title>
 		<title type="syn" xml:lang="ru">Таинственная игра OVA-1</title>
 		<title type="syn" xml:lang="x-jat">Fushigi Yuugi OVA 1</title>
@@ -2341,21 +2342,23 @@
 	<anime aid="164">
 		<title type="main" xml:lang="x-jat">Fushigi Yuugi: Dai Ni Bu</title>
 		<title type="official" xml:lang="de">Fushigi Yûgi - The Mysterious Play - New OVA</title>
-		<title type="official" xml:lang="en">The Mysterious Play - OVA 2</title>
+		<title type="official" xml:lang="en">Fushigi Yugi: The Mysterious Play (1997)</title>
 		<title type="official" xml:lang="fr">Fushigi Yûgi - The Mysterious Play - 2</title>
 		<title type="official" xml:lang="ja">ふしぎ遊戯 第二部</title>
 		<title type="official" xml:lang="pl">Tajemnica przeszłości OVA 2</title>
 		<title type="short" xml:lang="x-jat">FY OVA2</title>
+		<title type="syn" xml:lang="en">The Mysterious Play - OVA 2</title>
 		<title type="syn" xml:lang="ru">Таинственная игра OVA-2</title>
 		<title type="syn" xml:lang="x-jat">Fushigi Yuugi OVA 2</title>
 	</anime>
 	<anime aid="165">
 		<title type="main" xml:lang="x-jat">Fushigi Yuugi: Eikouden</title>
-		<title type="official" xml:lang="en">The Mysterious Play - Eikoden</title>
+		<title type="official" xml:lang="en">Fushigi Yugi: The Mysterious Play - Eikoden - The Legend of Eternal Light</title>
 		<title type="official" xml:lang="fr">Fushigi Yûgi - Eikoden</title>
 		<title type="official" xml:lang="ja">ふしぎ遊戯 -永光伝-</title>
 		<title type="official" xml:lang="pl">Tajemnica przeszłości OVA 3</title>
 		<title type="short" xml:lang="x-jat">FY OVA3</title>
+		<title type="syn" xml:lang="en">The Mysterious Play - Eikoden</title>
 		<title type="syn" xml:lang="x-jat">Fushigi Yuugi OVA 3</title>
 	</anime>
 	<anime aid="166">
@@ -3986,11 +3989,11 @@
 		<title type="syn" xml:lang="ru">Новые капризы Апельсиновой улицы</title>
 	</anime>
 	<anime aid="285">
-		<title type="main" xml:lang="x-jat">Kodomo no Omocha</title>
+		<title type="main" xml:lang="x-jat">Kodomo no Omocha (1995)</title>
 		<title type="official" xml:lang="en">Kodocha</title>
 		<title type="official" xml:lang="fr">Kodomo no omocha</title>
 		<title type="official" xml:lang="it">Rossana</title>
-		<title type="official" xml:lang="ja">こどものおもちゃ</title>
+		<title type="official" xml:lang="ja">こどものおもちゃ (1995)</title>
 		<title type="short" xml:lang="x-jat">KnO</title>
 		<title type="syn" xml:lang="ar">لعبة طفل</title>
 		<title type="syn" xml:lang="en">Child`s Toy</title>
@@ -5216,8 +5219,8 @@
 		<title type="syn" xml:lang="x-jat">Urusei Yatsura Movie 6</title>
 	</anime>
 	<anime aid="384">
-		<title type="main" xml:lang="x-jat">Urusei Yatsura OVA</title>
-		<title type="official" xml:lang="ja">うる星やつら (OVA)</title>
+		<title type="main" xml:lang="x-jat">Urusei Yatsura (1985)</title>
+		<title type="official" xml:lang="ja">うる星やつら (1985)</title>
 		<title type="short" xml:lang="x-jat">uy ova</title>
 	</anime>
 	<anime aid="385">
@@ -5423,8 +5426,8 @@
 		<title type="syn" xml:lang="pl">I``s: Kolejna wakacyjna opowieść</title>
 	</anime>
 	<anime aid="405">
-		<title type="main" xml:lang="x-jat">Ranma 1/2 OVA</title>
-		<title type="official" xml:lang="ja">らんま1/2 OVA</title>
+		<title type="main" xml:lang="x-jat">Ranma 1/2 (1993)</title>
+		<title type="official" xml:lang="ja">らんま1/2 (1993)</title>
 		<title type="short" xml:lang="x-jat">ranova</title>
 		<title type="syn" xml:lang="x-jat">Ranma OVA</title>
 	</anime>
@@ -27059,6 +27062,7 @@
 	<anime aid="3202">
 		<title type="main" xml:lang="x-jat">Push</title>
 		<title type="official" xml:lang="ja">プッシュ</title>
+		<title type="syn" xml:lang="x-jat">Osu (1987)</title>
 	</anime>
 	<anime aid="3203">
 		<title type="main" xml:lang="x-jat">Suzuka</title>
@@ -30720,9 +30724,9 @@
 		<title type="syn" xml:lang="en">Beyblade the Movie: Fierce Battle</title>
 	</anime>
 	<anime aid="4017">
-		<title type="main" xml:lang="x-jat">Jigoku Sensei Nube OVA</title>
+		<title type="main" xml:lang="x-jat">Jigoku Sensei Nube (1998)</title>
 		<title type="official" xml:lang="en">Hell Teacher Nube OVA</title>
-		<title type="official" xml:lang="ja">地獄先生ぬ~べ~ OVA</title>
+		<title type="official" xml:lang="ja">地獄先生ぬ~べ~ (1998)</title>
 	</anime>
 	<anime aid="4018">
 		<title type="main" xml:lang="x-jat">Jigoku Sensei Nube: Gozen 0 Ji Nube Shisu!</title>
@@ -34108,9 +34112,9 @@
 		<title type="syn" xml:lang="ja">Gyagu Manga Biyori 2</title>
 	</anime>
 	<anime aid="4559">
-		<title type="main" xml:lang="x-jat">Ichigo Marshmallow OVA</title>
+		<title type="main" xml:lang="x-jat">Ichigo Marshmallow (2007)</title>
 		<title type="official" xml:lang="en">Strawberry Marshmallow OVA</title>
-		<title type="official" xml:lang="ja">苺ましまろ OVA</title>
+		<title type="official" xml:lang="ja">苺ましまろ (2007)</title>
 		<title type="syn" xml:lang="en">Ichigo Mashimaro OVA</title>
 		<title type="syn" xml:lang="ru">Клубничный Зефир OVA</title>
 		<title type="syn" xml:lang="tr">Çilek Lokumu OVA</title>
@@ -35676,8 +35680,8 @@
 		<title type="official" xml:lang="ja">ダロス Special</title>
 	</anime>
 	<anime aid="4806">
-		<title type="main" xml:lang="x-jat">To Heart 2 OVA</title>
-		<title type="official" xml:lang="ja">トゥハート2 OVA</title>
+		<title type="main" xml:lang="x-jat">To Heart 2 (2007)</title>
+		<title type="official" xml:lang="ja">トゥハート2 (2007)</title>
 	</anime>
 	<anime aid="4808">
 		<title type="main" xml:lang="x-jat">Reideen (2007)</title>
@@ -41058,9 +41062,9 @@
 		<title type="official" xml:lang="ja">少女セクト ~Innocent Lovers~</title>
 	</anime>
 	<anime aid="5932">
-		<title type="main" xml:lang="x-jat">Lucky Star OVA</title>
+		<title type="main" xml:lang="x-jat">Lucky Star OVA: JK</title>
 		<title type="official" xml:lang="en">Lucky Star OVA</title>
-		<title type="official" xml:lang="ja">らき☆すた OVA</title>
+		<title type="official" xml:lang="ja">らき☆すた OVA JK</title>
 		<title type="official" xml:lang="zh-Hans">幸运☆星 OVA</title>
 		<title type="official" xml:lang="zh-Hant">幸運☆星 OVA</title>
 		<title type="short" xml:lang="x-jat">LS OVA</title>
@@ -42012,8 +42016,8 @@
 		<title type="syn" xml:lang="x-jat">Koukaku Kidoutai 2.0</title>
 	</anime>
 	<anime aid="6126">
-		<title type="main" xml:lang="x-jat">Seto no Hanayome OVA</title>
-		<title type="official" xml:lang="ja">瀬戸の花嫁 OVA</title>
+		<title type="main" xml:lang="x-jat">Seto no Hanayome (2008)</title>
+		<title type="official" xml:lang="ja">瀬戸の花嫁 (2008)</title>
 		<title type="short" xml:lang="x-jat">SetoHana OVA</title>
 		<title type="syn" xml:lang="en">The Inland Sea Bride OVA</title>
 		<title type="syn" xml:lang="it">Ho sposato una sirena OAV</title>
@@ -44594,6 +44598,7 @@
 	<anime aid="6669">
 		<title type="main" xml:lang="x-jat">Tatakae! Chou Robot Seimeitai Transformers: Scramble City Hatsudou Hen</title>
 		<title type="official" xml:lang="ja">戦え!超ロボット生命体トランスフォーマー スクランブルシティ発動編</title>
+		<title type="syn" xml:lang="en">Scramble City: Mobilization</title>
 	</anime>
 	<anime aid="6670">
 		<title type="main" xml:lang="x-jat">Cherry no Manma</title>
@@ -45165,8 +45170,8 @@
 		<title type="syn" xml:lang="zh-Hans">天体战士桑雷德 2</title>
 	</anime>
 	<anime aid="6779">
-		<title type="main" xml:lang="x-jat">Nodame Cantabile OVA</title>
-		<title type="official" xml:lang="ja">のだめカンタービレ OVA</title>
+		<title type="main" xml:lang="x-jat">Nodame Cantabile (2009)</title>
+		<title type="official" xml:lang="ja">のだめカンタービレ (2009)</title>
 		<title type="syn" xml:lang="ru">Нодаме Кантабиле OVA</title>
 		<title type="syn" xml:lang="x-jat">Nodame Cantabile OAD</title>
 	</anime>
@@ -51895,6 +51900,7 @@
 		<title type="official" xml:lang="it">La collina dei papaveri</title>
 		<title type="official" xml:lang="ja">コクリコ坂から</title>
 		<title type="official" xml:lang="pl">Makowe wzgórze</title>
+		<title type="official" xml:lang="pt">Monte das Papoilas</title>
 		<title type="official" xml:lang="pt-BR">Da Colina Kokuriko</title>
 		<title type="official" xml:lang="ru">Со склонов Кокурико</title>
 		<title type="official" xml:lang="sv">Uppe på vallmokullen</title>
@@ -54647,7 +54653,6 @@
 		<title type="official" xml:lang="zh-Hans">刀剑神域</title>
 		<title type="official" xml:lang="zh-Hant">刀劍神域</title>
 		<title type="short" xml:lang="en">SAO1</title>
-		<title type="short" xml:lang="fa">هنر شمشيرزني آنلاين</title>
 		<title type="short" xml:lang="ja">SAO</title>
 		<title type="syn" xml:lang="ar">فن السيف عبر الإنترنت</title>
 		<title type="syn" xml:lang="en">Sword Art Online: Aincrad</title>
@@ -56357,6 +56362,7 @@
 	<anime aid="9045">
 		<title type="main" xml:lang="x-jat">Inazuma Eleven GO: Chrono Stone</title>
 		<title type="official" xml:lang="ja">イナズマイレブンGO クロノ・ストーン</title>
+		<title type="official" xml:lang="pt">Inazuma Eleven GO! Chrono Stone</title>
 		<title type="short" xml:lang="x-jat">inago cs</title>
 		<title type="syn" xml:lang="x-jat">Inazuma Eleven GO 2</title>
 		<title type="syn" xml:lang="x-jat">Inazuma Eleven GO 2: Chrono Stone</title>
@@ -59678,8 +59684,8 @@
 		<title type="syn" xml:lang="x-jat">Sore Ike! Anpanman: Minna de Teasobi: Anpanman to Itazura Obake</title>
 	</anime>
 	<anime aid="9770">
-		<title type="main" xml:lang="x-jat">Namiuchigiwa no Muromi-san OAD</title>
-		<title type="official" xml:lang="ja">波打際のむろみさん OAD</title>
+		<title type="main" xml:lang="x-jat">Namiuchigiwa no Muromi-san: Pangea Choutairiku no Muromi-san</title>
+		<title type="official" xml:lang="ja">波打際のむろみさん パンゲア超大陸のむろみさん</title>
 	</anime>
 	<anime aid="9771">
 		<title type="main" xml:lang="x-jat">Golden Time</title>
@@ -61851,6 +61857,7 @@
 	</anime>
 	<anime aid="10277">
 		<title type="main" xml:lang="x-jat">Tokubetsu Jugyou 3 SLG The Animation</title>
+		<title type="official" xml:lang="de">Special Lesson 3 SLG The Animation</title>
 		<title type="official" xml:lang="ja">特別授業3SLG THE ANIMATION</title>
 		<title type="syn" xml:lang="ko">특별수업3SLG</title>
 	</anime>
@@ -62094,8 +62101,8 @@
 		<title type="official" xml:lang="ja">電波教師</title>
 	</anime>
 	<anime aid="10350">
-		<title type="main" xml:lang="x-jat">Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OAD</title>
-		<title type="official" xml:lang="ja">最近, 妹のようすがちょっとおかしいんだが. OAD</title>
+		<title type="main" xml:lang="x-jat">Saikin, Imouto no Yousu ga Chotto Okashiinda ga. Moa no Hatsukoi Memory? 16 Nenme no Happy Christmas</title>
+		<title type="official" xml:lang="ja">最近, 妹のようすがちょっとおかしいんだが. 萌亜の初恋メモリー? 16年目のハッピークリスマス</title>
 	</anime>
 	<anime aid="10351">
 		<title type="main" xml:lang="x-jat">Hanayamata</title>
@@ -64796,7 +64803,7 @@
 	</anime>
 	<anime aid="10963">
 		<title type="main" xml:lang="x-jat">Yuu Gi Ou: The Dark Side of Dimensions</title>
-		<title type="official" xml:lang="ja">遊☆戯☆王 THE DARK SIDE OF DIMENTSIONS</title>
+		<title type="official" xml:lang="ja">遊☆戯☆王 THE DARK SIDE OF DIMENSIONS</title>
 		<title type="syn" xml:lang="bg">Ю-Ги-О: Тъмната страна на измеренията</title>
 	</anime>
 	<anime aid="10964">
@@ -65574,8 +65581,8 @@
 		<title type="syn" xml:lang="x-jat">Shinmai Maou no Keiyakusha Burst</title>
 	</anime>
 	<anime aid="11143">
-		<title type="main" xml:lang="x-jat">Akatsuki no Yona OAD</title>
-		<title type="official" xml:lang="ja">暁のヨナ OAD</title>
+		<title type="main" xml:lang="x-jat">Akatsuki no Yona (2015)</title>
+		<title type="official" xml:lang="ja">暁のヨナ (2015)</title>
 	</anime>
 	<anime aid="11144">
 		<title type="main" xml:lang="x-jat">Starmyu</title>
@@ -66642,8 +66649,8 @@
 		<title type="official" xml:lang="ja">TATAMP</title>
 	</anime>
 	<anime aid="11385">
-		<title type="main" xml:lang="x-jat">Kuusen Madoushi Kouhosei no Kyoukan OAD</title>
-		<title type="official" xml:lang="ja">空戦魔導士候補生の教官 OAD</title>
+		<title type="main" xml:lang="x-jat">Kuusen Madoushi Kouhosei no Kyoukan: Lecty no, Ikimonogatari</title>
+		<title type="official" xml:lang="ja">空戦魔導士候補生の教官 レクティの, いきものがたり</title>
 	</anime>
 	<anime aid="11386">
 		<title type="main" xml:lang="x-jat">Bloody Bunny</title>
@@ -68121,8 +68128,8 @@
 		<title type="official" xml:lang="ja">映画クレヨンしんちゃん 爆睡! ユメミーワールド大突撃</title>
 	</anime>
 	<anime aid="11743">
-		<title type="main" xml:lang="x-jat">Okusama ga Seitokaichou! OAD</title>
-		<title type="official" xml:lang="ja">おくさまが生徒会長! OAD</title>
+		<title type="main" xml:lang="x-jat">Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi</title>
+		<title type="official" xml:lang="ja">おくさまが生徒会長! 生徒会長とお風呂遊び</title>
 	</anime>
 	<anime aid="11744">
 		<title type="main" xml:lang="x-jat">Too Many Cooks Spoil the Broth.</title>
@@ -68386,8 +68393,8 @@
 		<title type="official" xml:lang="ja">ダンガンロンパ3 -The End of 希望ヶ峰学園- 未来編</title>
 	</anime>
 	<anime aid="11805">
-		<title type="main" xml:lang="x-jat">Prison School OAD</title>
-		<title type="official" xml:lang="ja">監獄学園[プリズンスクール] OAD</title>
+		<title type="main" xml:lang="x-jat">Prison School (2016)</title>
+		<title type="official" xml:lang="ja">監獄学園[プリズンスクール] (2016)</title>
 	</anime>
 	<anime aid="11806">
 		<title type="main" xml:lang="x-jat">Gaegujang-i Cheonsadeul</title>
@@ -68399,8 +68406,8 @@
 		<title type="official" xml:lang="ja">サザエさん　ドーンと一家でハワイ旅行</title>
 	</anime>
 	<anime aid="11809">
-		<title type="main" xml:lang="x-jat">Owari no Seraph OAD</title>
-		<title type="official" xml:lang="ja">終わりのセラフ OAD</title>
+		<title type="main" xml:lang="x-jat">Owari no Seraph (2016)</title>
+		<title type="official" xml:lang="ja">終わりのセラフ (2016)</title>
 	</anime>
 	<anime aid="11810">
 		<title type="main" xml:lang="x-jat">Ensemble Stars!</title>
@@ -68722,8 +68729,8 @@
 		<title type="official" xml:lang="ja">血界戦線 王様のレストランの王様</title>
 	</anime>
 	<anime aid="11890">
-		<title type="main" xml:lang="x-jat">Shinmai Maou no Testament Burst OAD</title>
-		<title type="official" xml:lang="ja">新妹魔王の契約者 BURST OAD</title>
+		<title type="main" xml:lang="x-jat">Shinmai Maou no Testament Burst (2016)</title>
+		<title type="official" xml:lang="ja">新妹魔王の契約者 BURST (2016)</title>
 		<title type="syn" xml:lang="en">The Testament of Sister New Devil Burst OAD</title>
 		<title type="syn" xml:lang="x-jat">Shinmai Maou no Keiyakusha Burst OAD</title>
 	</anime>
@@ -68869,6 +68876,7 @@
 	<anime aid="11922">
 		<title type="main" xml:lang="x-jat">Keijo!!!!!!!!</title>
 		<title type="official" xml:lang="ja">競女!!!!!!!!</title>
+		<title type="syn" xml:lang="en">Hip Whip Girl</title>
 	</anime>
 	<anime aid="11924">
 		<title type="main" xml:lang="x-jat">Fukigen na Mononokean</title>
@@ -68883,8 +68891,8 @@
 		<title type="syn" xml:lang="ja">オズマフィア</title>
 	</anime>
 	<anime aid="11926">
-		<title type="main" xml:lang="x-jat">Monster Musume no Iru Nichijou OAD</title>
-		<title type="official" xml:lang="ja">モンスター娘のいる日常 OAD</title>
+		<title type="main" xml:lang="x-jat">Monster Musume no Iru Nichijou (2016)</title>
+		<title type="official" xml:lang="ja">モンスター娘のいる日常 (2016)</title>
 	</anime>
 	<anime aid="11927">
 		<title type="main" xml:lang="x-jat">PazuDora Cross</title>
@@ -69037,6 +69045,7 @@
 	<anime aid="11965">
 		<title type="main" xml:lang="x-jat">Bungou Stray Dogs (2016)</title>
 		<title type="official" xml:lang="ja">文豪ストレイドッグス (2016)</title>
+		<title type="syn" xml:lang="en">Bungou Stray Dogs 2nd Season</title>
 	</anime>
 	<anime aid="11966">
 		<title type="main" xml:lang="x-jat">Kuroko no Baske: Extra Game</title>
@@ -69213,6 +69222,7 @@
 	<anime aid="12012">
 		<title type="main" xml:lang="x-jat">Yuri!!! on Ice</title>
 		<title type="official" xml:lang="ja">ユーリ!!! on ICE</title>
+		<title type="syn" xml:lang="cs">Júri!!! na LEDĚ</title>
 	</anime>
 	<anime aid="12013">
 		<title type="main" xml:lang="x-jat">Lo Re: Pako Sukusuku Mizuki-chan The Animation</title>
@@ -69220,6 +69230,7 @@
 	</anime>
 	<anime aid="12014">
 		<title type="main" xml:lang="x-jat">91 Days</title>
+		<title type="official" xml:lang="bg">91 дни</title>
 		<title type="official" xml:lang="en">91 Days</title>
 		<title type="official" xml:lang="ja">91 Days</title>
 		<title type="syn" xml:lang="ja">91Days</title>
@@ -69322,6 +69333,7 @@
 	<anime aid="12042">
 		<title type="main" xml:lang="x-jat">Dream-Fes!</title>
 		<title type="official" xml:lang="ja">ドリフェス!</title>
+		<title type="syn" xml:lang="en">Dream Festival!</title>
 	</anime>
 	<anime aid="12043">
 		<title type="main" xml:lang="x-jat">Bubuki Buranki 2</title>
@@ -69527,8 +69539,8 @@
 		<title type="official" xml:lang="ja">キミコエ・プロジェクト (仮)</title>
 	</anime>
 	<anime aid="12094">
-		<title type="main" xml:lang="x-jat">Kagerou Daze: In a Days</title>
-		<title type="official" xml:lang="ja">カゲロウデイズ-in a days-</title>
+		<title type="main" xml:lang="x-jat">Kagerou Daze: In a Day`s</title>
+		<title type="official" xml:lang="ja">カゲロウデイズ-in a day`s-</title>
 	</anime>
 	<anime aid="12095">
 		<title type="main" xml:lang="x-jat">Fudanshi Koukou Seikatsu</title>
@@ -70150,6 +70162,82 @@
 		<title type="main" xml:lang="x-jat">Love Bites</title>
 		<title type="official" xml:lang="ja">LOVE BITES</title>
 	</anime>
+	<anime aid="12289">
+		<title type="main" xml:lang="x-jat">Neko no Dayan: Fushigi Gekijou</title>
+		<title type="official" xml:lang="ja">猫のダヤン ふしぎ劇場</title>
+	</anime>
+	<anime aid="12290">
+		<title type="main" xml:lang="x-jat">Gabriel Dropout</title>
+		<title type="official" xml:lang="ja">ガヴリールドロップアウト</title>
+	</anime>
+	<anime aid="12291">
+		<title type="main" xml:lang="x-jat">Chain Chronicle (2016)</title>
+		<title type="official" xml:lang="ja">チェインクロニクル (2016)</title>
+	</anime>
+	<anime aid="12292">
+		<title type="main" xml:lang="x-jat">Inazuma Eleven: Ares no Tenbin</title>
+		<title type="official" xml:lang="ja">イナズマイレブン アレスの天秤</title>
+	</anime>
+	<anime aid="12294">
+		<title type="main" xml:lang="x-jat">Locker Room</title>
+		<title type="official" xml:lang="ja">ロッカールーム</title>
+	</anime>
+	<anime aid="12295">
+		<title type="main" xml:lang="x-jat">After School</title>
+		<title type="official" xml:lang="ja">アフタースクール</title>
+	</anime>
+	<anime aid="12296">
+		<title type="main" xml:lang="x-jat">Megaton-kyuu Musashi</title>
+		<title type="official" xml:lang="ja">メガトン級ムサシ</title>
+	</anime>
+	<anime aid="12297">
+		<title type="main" xml:lang="x-jat">Otome Yuusha</title>
+		<title type="official" xml:lang="ja">オトメ勇者</title>
+	</anime>
+	<anime aid="12298">
+		<title type="main" xml:lang="x-jat">Kidou Keisatsu Patlabor Reboot</title>
+		<title type="official" xml:lang="ja">機動警察パトレイバーREBOOT</title>
+	</anime>
+	<anime aid="12299">
+		<title type="main" xml:lang="x-jat">Karakai Jouzu no Takagi-san</title>
+		<title type="official" xml:lang="ja">からかい上手の高木さん</title>
+	</anime>
+	<anime aid="12300">
+		<title type="main" xml:lang="x-jat">Fuuka</title>
+		<title type="official" xml:lang="ja">風夏</title>
+	</anime>
+	<anime aid="12301">
+		<title type="main" xml:lang="x-jat">Ani Tore! XX</title>
+		<title type="official" xml:lang="ja">あにトレ!!XX</title>
+	</anime>
+	<anime aid="12305">
+		<title type="main" xml:lang="x-jat">Oideyo! Shiritsu Yarima*ri Gakuen</title>
+		<title type="official" xml:lang="ja">おいでよ!  私立ヤリまxり学園</title>
+	</anime>
+	<anime aid="12306">
+		<title type="main" xml:lang="x-jat">Imouto to Sono Yuujin ga Ero Sugite Ore no Kokan ga Yabai</title>
+		<title type="official" xml:lang="ja">妹とその友人がエロすぎて俺の股間がヤバイ</title>
+	</anime>
+	<anime aid="12307">
+		<title type="main" xml:lang="x-jat">Soul Buster</title>
+		<title type="official" xml:lang="ja">侍霊演武[ソウルバスター]</title>
+	</anime>
+	<anime aid="12308">
+		<title type="main" xml:lang="x-jat">One Lesson One Fight</title>
+		<title type="official" xml:lang="ja">一課一練</title>
+	</anime>
+	<anime aid="12309">
+		<title type="main" xml:lang="x-jat">Fastening Days 2</title>
+		<title type="official" xml:lang="ja">FASTENING DAYS 2</title>
+	</anime>
+	<anime aid="12310">
+		<title type="main" xml:lang="x-jat">Watashitachi, Luck Logic Bu! 2</title>
+		<title type="official" xml:lang="ja">私たち、らくろじ部! 2</title>
+	</anime>
+	<anime aid="12311">
+		<title type="main" xml:lang="x-jat">Dragon Ball Z: The Real 4-D</title>
+		<title type="official" xml:lang="ja">ドラゴンボールZ・ザ・リアル 4-D</title>
+	</anime>
 </animetitles>
 
-<!-- Created: Tue Jul 26 03:00:21 2016 (9627 anime, 50896 titles) -->
+<!-- Created: Wed Aug  3 03:00:17 2016 (9646 anime, 50946 titles) -->
