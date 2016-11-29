@@ -1933,9 +1933,6 @@
   <anime anidbid="11027" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Inazuma Eleven: Chou Jigen Dream Match</name>
   </anime>
-  <anime anidbid="11028" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Denpa Kyoushi (2015)</name>
-  </anime>
   <anime anidbid="11029" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Hana</name>
   </anime>
@@ -1992,12 +1989,6 @@
   </anime>
   <anime anidbid="11072" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Super Short Comics</name>
-  </anime>
-  <anime anidbid="11073" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Momokuri</name>
-  </anime>
-  <anime anidbid="11075" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Nambaka</name>
   </anime>
   <anime anidbid="11076" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Jewelpet: Magical Change</name>
@@ -3148,9 +3139,6 @@
   <anime anidbid="11733" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Alice in Dreamland</name>
   </anime>
-  <anime anidbid="11736" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>New Game!</name>
-  </anime>
   <anime anidbid="11737" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Chika Chika Idol</name>
   </anime>
@@ -3442,9 +3430,6 @@
   <anime anidbid="11919" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Sore Ike! Anpanman: Omocha no Hoshi no Nanda to Runda</name>
   </anime>
-  <anime anidbid="11924" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Fukigen na Mononokean</name>
-  </anime>
   <anime anidbid="11926" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Monster Musume no Iru Nichijou (2016)</name>
   </anime>
@@ -3543,9 +3528,6 @@
   </anime>
   <anime anidbid="11981" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Eromanga Sensei</name>
-  </anime>
-  <anime anidbid="11982" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Mahou Tsukai no Yome: Hoshi Matsu Hito</name>
   </anime>
   <anime anidbid="11984" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gundam G no Reconguista: From the Past to the Future</name>
@@ -4574,7 +4556,7 @@
     <name>Qin Shi Ming Yue 4: The Great Wall</name>
   </anime>
   <anime anidbid="12480" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Shou-chan Sora wo Tobu</name>
+    <name>Shou-chan Sora o Tobu</name>
   </anime>
   <anime anidbid="12481" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kai: Geoul Hosuui Jeonseol</name>
@@ -4627,5 +4609,41 @@
   <anime anidbid="12501" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou</name>
   </anime>
+  <anime anidbid="12502" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Schoolgirl Strikers: Animation Channel</name>
+  </anime>
+  <anime anidbid="12503" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Kirakira Precure A La Mode</name>
+  </anime>
+  <anime anidbid="12504" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Hua Jianghu Zhi Buliang Ren Di Er Ji</name>
+  </anime>
+  <anime anidbid="12505" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Kamigami no Ki</name>
+  </anime>
+  <anime anidbid="12506" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ai Mai Mii 3</name>
+  </anime>
+  <anime anidbid="12507" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Mobile Suit Gundam UC: A Phantom World</name>
+  </anime>
+  <anime anidbid="12508" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Trigger-chan</name>
+  </anime>
+  <anime anidbid="12509" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Eiga Precure Dream Stars!</name>
+  </anime>
+  <anime anidbid="12510" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gekijouban PriPara: Minna de Kagayake! Kirarin Star Live!</name>
+  </anime>
+  <anime anidbid="12512" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Saimin Class</name>
+  </anime>
+  <anime anidbid="12513" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ecchi na Shintai Sokutei Anime Edition</name>
+  </anime>
+  <anime anidbid="12514" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari</name>
+  </anime>
 </anime-list>
-<!--1536 titles remaining-->
+<!--1542 titles remaining-->
