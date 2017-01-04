@@ -4273,7 +4273,7 @@
     <name>Iczer-Girl Iczelion</name>
   </anime>
   <anime anidbid="1247" tvdbid="82586" defaulttvdbseason="1">
-    <name>Saber Marionette R</name>
+    <name>SM Girls: Saber Marionette R</name>
   </anime>
   <anime anidbid="1248" tvdbid="hentai" defaulttvdbseason="1">
     <name>Youjuu Kyoushitsu</name>
@@ -5665,7 +5665,7 @@
     <name>Ninin ga Shinobuden: The Nonsense Kunoichi Fiction</name>
   </anime>
   <anime anidbid="1771" tvdbid="85230" defaulttvdbseason="0" episodeoffset="6">
-    <name>Dai Yamato Zero-gou</name>
+    <name>Dai Yamato Zero Gou</name>
   </anime>
   <anime anidbid="1773" tvdbid="87941" defaulttvdbseason="1">
     <name>Eat-Man</name>
@@ -8733,7 +8733,7 @@
     <name>TANK S.W.A.T. 01</name>
   </anime>
   <anime anidbid="3113" tvdbid="252696" defaulttvdbseason="0" imdbid="tt1147507">
-    <name>Doraemon: Boku, Momotarou no Nanna no Sa</name>
+    <name>Doraemon: Boku, Momotarou no Nanna no sa</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -13967,7 +13967,7 @@
     <before>;1-26;</before>
   </anime>
   <anime anidbid="6062" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt1831606">
-    <name>Chiisana Koi no Monogatari - Chichi to Sally Hatsukoi no Shiki</name>
+    <name>Chiisana Koi no Monogatari: Chichi to Sally Hatsukoi no Shiki</name>
   </anime>
   <anime anidbid="6063" tvdbid="79755" defaulttvdbseason="0" imdbid="tt1265998">
     <name>Afro Samurai Resurrection</name>
@@ -16678,12 +16678,6 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7256" tvdbid="72454" defaulttvdbseason="0">
-    <name>Meitantei Conan Magic File</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
-    </mapping-list>
-  </anime>
   <anime anidbid="7257" tvdbid="76703" defaulttvdbseason="0" imdbid="tt1690470">
     <name>Gekijouban Pocket Monsters Diamond &amp; Pearl: Gen'ei no Hasha Zoroark</name>
     <mapping-list>
@@ -18290,9 +18284,6 @@
   </anime>
   <anime anidbid="8030" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Wheels</name>
-  </anime>
-  <anime anidbid="8033" tvdbid="music video" defaulttvdbseason="1">
-    <name>Crystal Children</name>
   </anime>
   <anime anidbid="8034" tvdbid="music video" defaulttvdbseason="1">
     <name>Sora e</name>
@@ -23228,7 +23219,7 @@
     <name>Oppa Infinity! The Animation</name>
   </anime>
   <anime anidbid="10232" tvdbid="272316" defaulttvdbseason="0">
-    <name>Non Non Biyori OAD</name>
+    <name>Non Non Biyori: Okinawa e Iku Koto ni Natta</name>
   </anime>
   <anime anidbid="10233" tvdbid="hentai" defaulttvdbseason="1">
     <name>Amanee!</name>
@@ -24673,7 +24664,7 @@
     <name>Relife</name>
   </anime>
   <anime anidbid="11075" tvdbid="315103" defaulttvdbseason="1">
-    <name>Nambaka</name>
+    <name>Nanbaka</name>
   </anime>
   <anime anidbid="11080" tvdbid="296764" defaulttvdbseason="1">
     <name>Chaos Dragon: Sekiryuu Sen'eki</name>
@@ -25030,7 +25021,7 @@
     <name>Kidou Senshi Gundam: Tekketsu no Orphans</name>
   </anime>
   <anime anidbid="11376" tvdbid="movie" defaulttvdbseason="1" tmdbid="374853" tmdbmid="374853">
-    <name>Zutto Mae kara Suki Deshita. Kokuhaku Jikkou Iinkai</name>
+    <name>Zutto Mae kara Suki Deshita. Kokuhaku Jikkouiinkai</name>
   </anime>
   <anime anidbid="11453" tvdbid="299489" defaulttvdbseason="1">
     <name>Comet Lucifer</name>
