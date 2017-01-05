@@ -21645,6 +21645,7 @@
     <title type="official" xml:lang="fr">Les contes de la forêt verte</title>
     <title type="official" xml:lang="he">סיפורי היער הירוק</title>
     <title type="official" xml:lang="ja">山ねずみ ロッキーチャック</title>
+    <title type="official" xml:lang="nl">Dieren van het Groene Woud</title>
     <title type="official" xml:lang="pt">As Fábulas da Floresta Verde</title>
     <title type="syn" xml:lang="en">Rocky Chuck the Mountain Rat</title>
     <title type="syn" xml:lang="en">Rocky Chuck the Woodchuck</title>
@@ -46866,7 +46867,7 @@
   </anime>
   <anime aid="7073">
     <title type="main" xml:lang="x-jat">Bamboo Bears</title>
-    <title type="official" xml:lang="de">Bambus Bären Bande</title>
+    <title type="official" xml:lang="de">Die Bambus-Bären-Bande</title>
     <title type="official" xml:lang="fi">Bambukarhut</title>
     <title type="official" xml:lang="ja">バンブー・ベアーズ</title>
     <title type="syn" xml:lang="es">Los Osos del Bambú</title>
@@ -70477,6 +70478,7 @@
   </anime>
   <anime aid="12234">
     <title type="main" xml:lang="x-jat">Masamune-kun no Revenge</title>
+    <title type="official" xml:lang="en">Masamune-kun`s Revenge</title>
     <title type="official" xml:lang="ja">政宗くんのリベンジ</title>
   </anime>
   <anime aid="12235">
@@ -71119,6 +71121,7 @@
   </anime>
   <anime aid="12411">
     <title type="main" xml:lang="x-jat">Akiba`s Trip The Animation</title>
+    <title type="official" xml:lang="en">Akiba`s Trip the Animation</title>
     <title type="official" xml:lang="ja">AKIBA`S TRIP THE ANIMATION</title>
   </anime>
   <anime aid="12413">
@@ -72273,6 +72276,14 @@
     <title type="main" xml:lang="x-jat">Chou Yuu Sekai: Being the Reality</title>
     <title type="official" xml:lang="ja">超游世界 BEING THE REALITY</title>
   </anime>
+  <anime aid="12710">
+    <title type="main" xml:lang="x-jat">Hizukuri</title>
+    <title type="official" xml:lang="ja">火づくり</title>
+  </anime>
+  <anime aid="12711">
+    <title type="main" xml:lang="x-jat">Saboten ga Nikui</title>
+    <title type="official" xml:lang="ja">サボテンがにくい</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Wed Jan  4 03:00:16 2017 (9984 anime, 52305 titles) -->
+<!-- Created: Thu Jan  5 03:00:21 2017 (9986 anime, 52312 titles) -->
