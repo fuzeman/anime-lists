@@ -1,9 +1,20 @@
 #!/usr/bin/env groovy
 
+import java.util.zip.*
 import javax.xml.transform.*
 import javax.xml.transform.stream.*
 import groovy.xml.*
 
+
+def downloadGzipped = { out, url ->
+	def file = new File(out).newOutputStream()
+
+	def decoder = new GZIPInputStream(new URL(url).openStream())
+	file << decoder
+    decoder.close()
+
+    file.close()
+}
 
 def transform = { out, xs, xml -> 
     // Create transformer
@@ -27,6 +38,15 @@ def transform = { out, xs, xml ->
 	    writer << buffer
 	}
 }
+
+// Download titles from AniDB
+downloadGzipped('.anidb/animetitles.xml', 'http://anidb.net/api/animetitles.xml.gz')
+
+// Update titles
+transform('anime-titles.xml', 'transforms/sort-animetitles.xsl', '.anidb/animetitles.xml')
+
+// Update master
+transform('anime-list-master.xml', 'transforms/update-anime-list-master.xsl', 'animetitles.xml')
 
 // Update children
 transform('anime-list.xml', 'transforms/create-anime-list.xsl', 'anime-list-master.xml')

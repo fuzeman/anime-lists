@@ -3,7 +3,8 @@
   xmlns:math="http://exslt.org/math"
   extension-element-prefixes="math" version="1.0">
 
-  <xsl:output encoding="utf-8" indent="yes" />
+  <xsl:output method="xml" indent="yes" encoding="utf-8" omit-xml-declaration="yes" />
+  <xsl:strip-space elements="*"/>
 
   <xsl:param name="doc2" select="'../animetitles.xml'" />
 
