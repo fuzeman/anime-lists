@@ -7,13 +7,20 @@ import groovy.xml.*
 
 
 def downloadGzipped = { out, url ->
-	def file = new File(out).newOutputStream()
+    def file = new File(out)
+
+    if(System.currentTimeMillis() - file.lastModified() < 24 * 60 * 60 * 1000) {
+        println("Using existing animetitles (less than 24 hours old)")
+        return
+    }
+
+	def stream = file.newOutputStream()
 
 	def decoder = new GZIPInputStream(new URL(url).openStream())
 	file << decoder
     decoder.close()
 
-    file.close()
+    stream.close()
 }
 
 def transform = { out, xs, xml -> 
@@ -40,13 +47,13 @@ def transform = { out, xs, xml ->
 }
 
 // Download titles from AniDB
-downloadGzipped('.anidb/animetitles.xml', 'http://anidb.net/api/animetitles.xml.gz')
+downloadGzipped('.animetitles.xml', 'http://anidb.net/api/animetitles.xml.gz')
 
 // Update titles
-transform('anime-titles.xml', 'transforms/sort-animetitles.xsl', '.anidb/animetitles.xml')
+transform('anime-titles.xml', 'transforms/sort-animetitles.xsl', '.animetitles.xml')
 
 // Update master
-transform('anime-list-master.xml', 'transforms/update-anime-list-master.xsl', 'animetitles.xml')
+transform('anime-list-master.xml', 'transforms/update-anime-list-master.xsl', 'anime-titles.xml')
 
 // Update children
 transform('anime-list.xml', 'transforms/create-anime-list.xsl', 'anime-list-master.xml')

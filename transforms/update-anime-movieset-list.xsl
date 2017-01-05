@@ -6,7 +6,7 @@
   <xsl:output method="xml" indent="yes" encoding="utf-8" omit-xml-declaration="yes" />
   <xsl:strip-space elements="*"/>
 
-  <xsl:param name="doc2" select="'../animetitles.xml'" />
+  <xsl:param name="doc2" select="'../anime-titles.xml'" />
 
   <xsl:key name="animebyid" match="anime" use="@aid"/>
 
