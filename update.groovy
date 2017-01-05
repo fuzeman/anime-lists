@@ -9,8 +9,8 @@ import groovy.xml.*
 def downloadGzipped = { out, url ->
     def file = new File(out)
 
-    if(System.currentTimeMillis() - file.lastModified() < 24 * 60 * 60 * 1000) {
-        println("Using existing animetitles (less than 24 hours old)")
+    if(file.exists() && file.length() > 0 && System.currentTimeMillis() - file.lastModified() < 24 * 60 * 60 * 1000) {
+        println("Using cached anime titles (less than 24 hours old)")
         return
     }
 
