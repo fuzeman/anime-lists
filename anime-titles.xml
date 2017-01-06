@@ -21647,6 +21647,7 @@
     <title type="official" xml:lang="ja">山ねずみ ロッキーチャック</title>
     <title type="official" xml:lang="nl">Dieren van het Groene Woud</title>
     <title type="official" xml:lang="pt">As Fábulas da Floresta Verde</title>
+    <title type="official" xml:lang="ro">Povestiri din Padurea Verde</title>
     <title type="syn" xml:lang="en">Rocky Chuck the Mountain Rat</title>
     <title type="syn" xml:lang="en">Rocky Chuck the Woodchuck</title>
   </anime>
@@ -67490,6 +67491,7 @@
   </anime>
   <anime aid="11492">
     <title type="main" xml:lang="x-jat">Minami Kamakura Koukou Joshi Jitensha Bu</title>
+    <title type="official" xml:lang="en">Minami Kamakura High School Girls Cycling Club</title>
     <title type="official" xml:lang="ja">南鎌倉高校女子自転車部</title>
   </anime>
   <anime aid="11493">
@@ -69244,8 +69246,8 @@
   </anime>
   <anime aid="11905">
     <title type="main" xml:lang="x-jat">Youjo Senki</title>
+    <title type="official" xml:lang="en">Saga of Tanya the Evil</title>
     <title type="official" xml:lang="ja">幼女戦記</title>
-    <title type="syn" xml:lang="en">Saga of Tanya the Evil</title>
   </anime>
   <anime aid="11906">
     <title type="main" xml:lang="x-jat">Koinaka: Koinaka de Hatsukoi x Nakadashi Sexual Life The Animation</title>
@@ -69702,6 +69704,7 @@
     <title type="official" xml:lang="ja">夏目友人帳 伍</title>
     <title type="short" xml:lang="x-jat">natsume5</title>
     <title type="syn" xml:lang="en">Natsume`s Book of Friends (5)</title>
+    <title type="syn" xml:lang="en">Natsume Yujin-cho 5</title>
   </anime>
   <anime aid="12010">
     <title type="main" xml:lang="x-jat">Kushimitama Samurai</title>
@@ -71005,6 +71008,7 @@
   </anime>
   <anime aid="12374">
     <title type="main" xml:lang="x-jat">Demi-chan wa Kataritai</title>
+    <title type="official" xml:lang="en">Interviews with Monster Girls</title>
     <title type="official" xml:lang="ja">亜人ちゃんは語りたい</title>
   </anime>
   <anime aid="12380">
@@ -72284,6 +72288,14 @@
     <title type="main" xml:lang="x-jat">Saboten ga Nikui</title>
     <title type="official" xml:lang="ja">サボテンがにくい</title>
   </anime>
+  <anime aid="12712">
+    <title type="main" xml:lang="x-jat">Kujira no Kora wa Sajou ni Utau</title>
+    <title type="official" xml:lang="ja">クジラの子らは砂上に歌う</title>
+  </anime>
+  <anime aid="12713">
+    <title type="main" xml:lang="x-jat">Kud Wafter</title>
+    <title type="official" xml:lang="ja">クドわふたー</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Thu Jan  5 03:00:21 2017 (9986 anime, 52312 titles) -->
+<!-- Created: Fri Jan  6 03:00:21 2017 (9988 anime, 52320 titles) -->
