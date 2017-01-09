@@ -51814,6 +51814,7 @@
     <title type="official" xml:lang="hu">A kaptár: Kárhozat</title>
     <title type="official" xml:lang="ja">バイオハザード ダムネーション</title>
     <title type="official" xml:lang="pl">Resident Evil: Potępienie</title>
+    <title type="syn" xml:lang="ja">biohazard DAMNATION</title>
     <title type="syn" xml:lang="ru">Обитель зла: Проклятие</title>
   </anime>
   <anime aid="8080">
@@ -64590,6 +64591,8 @@
   <anime aid="10843">
     <title type="main" xml:lang="x-jat">Eiga Crayon Shin-chan: Ora no Hikkoshi Monogatari - Saboten Dai Shuugeki</title>
     <title type="official" xml:lang="ja">映画 クレヨンしんちゃん オラの引越し物語 ~サボテン大襲撃~</title>
+    <title type="short" xml:lang="x-unk">Crayon Shin-chan - Movie 23</title>
+    <title type="syn" xml:lang="en">Crayon Shin-chan: My Moving Story - The Great Cactus Attack!</title>
   </anime>
   <anime aid="10846">
     <title type="main" xml:lang="x-jat">Aldnoah.Zero (2015)</title>
@@ -69033,7 +69036,9 @@
   </anime>
   <anime aid="11850">
     <title type="main" xml:lang="x-jat">Gintama (2016)</title>
-    <title type="official" xml:lang="ja">銀魂 (2016)</title>
+    <title type="official" xml:lang="ja">銀魂゜(2016)</title>
+    <title type="syn" xml:lang="ja">銀魂° (2016)</title>
+    <title type="syn" xml:lang="x-jat">Gintama° (2016)</title>
   </anime>
   <anime aid="11851">
     <title type="main" xml:lang="x-jat">Berserk</title>
@@ -70029,6 +70034,7 @@
     <title type="main" xml:lang="x-jat">Battle Girl High School</title>
     <title type="official" xml:lang="ja">バトルガール ハイスクール</title>
     <title type="short" xml:lang="x-jat">bghs</title>
+    <title type="syn" xml:lang="ja">バトルガールハイスクール</title>
   </anime>
   <anime aid="12081">
     <title type="main" xml:lang="x-jat">Peace Maker Kurogane (Shinsaku)</title>
@@ -70838,13 +70844,9 @@
     <title type="syn" xml:lang="ja">アイディーゼロ</title>
   </anime>
   <anime aid="12319">
-    <title type="main" xml:lang="x-jat">Sengoku Choujuu Giga</title>
+    <title type="main" xml:lang="x-jat">Sengoku Choujuu Giga: Kou</title>
     <title type="official" xml:lang="en">Sengokuchojyugiga</title>
-    <title type="official" xml:lang="ja">戦国鳥獣戯画</title>
-    <title type="syn" xml:lang="ja">戦国鳥獣戯画~乙~</title>
-    <title type="syn" xml:lang="ja">戦国鳥獣戯画~甲~</title>
-    <title type="syn" xml:lang="x-jat">Sengoku Choujuu Giga: Kou</title>
-    <title type="syn" xml:lang="x-jat">Sengoku Choujuu Giga: Otsu</title>
+    <title type="official" xml:lang="ja">戦国鳥獣戯画~甲~</title>
   </anime>
   <anime aid="12320">
     <title type="main" xml:lang="x-jat">Girl Friend (Onpu)</title>
@@ -70874,6 +70876,7 @@
   </anime>
   <anime aid="12327">
     <title type="main" xml:lang="x-jat">Seiren</title>
+    <title type="official" xml:lang="en">Seiren</title>
     <title type="official" xml:lang="ja">セイレン</title>
     <title type="official" xml:lang="x-kot">세이렌</title>
   </anime>
@@ -71192,8 +71195,8 @@
     <title type="official" xml:lang="ja">ちるらん にぶんの壱</title>
   </anime>
   <anime aid="12419">
-    <title type="main" xml:lang="x-jat">Gintama (2017)</title>
-    <title type="official" xml:lang="ja">銀魂 (2017)</title>
+    <title type="main" xml:lang="x-jat">Gintama.</title>
+    <title type="official" xml:lang="ja">銀魂.</title>
     <title type="short" xml:lang="en">gintama5</title>
   </anime>
   <anime aid="12420">
@@ -71337,7 +71340,7 @@
     <title type="syn" xml:lang="ja">コカラス</title>
   </anime>
   <anime aid="12458">
-    <title type="main" xml:lang="x-jat">GJ8 Man</title>
+    <title type="main" xml:lang="x-jat">GJ8man</title>
     <title type="official" xml:lang="ja">GJ8マン</title>
   </anime>
   <anime aid="12459">
@@ -72109,6 +72112,7 @@
   </anime>
   <anime aid="12656">
     <title type="main" xml:lang="x-jat">Spirit Pact</title>
+    <title type="official" xml:lang="en">Spiritpact</title>
     <title type="official" xml:lang="ja">SPIRITPACT</title>
     <title type="syn" xml:lang="ja">スピリットパクト</title>
   </anime>
@@ -72338,8 +72342,25 @@
   </anime>
   <anime aid="12714">
     <title type="main" xml:lang="x-jat">Forest Fairy Five</title>
+    <title type="official" xml:lang="en">Forest Fairy Five</title>
     <title type="official" xml:lang="ja">FOREST FAIRY FIVE</title>
+  </anime>
+  <anime aid="12715">
+    <title type="main" xml:lang="x-jat">Minna no Okayama-ken</title>
+    <title type="official" xml:lang="ja">みんなのおかやま犬</title>
+  </anime>
+  <anime aid="12716">
+    <title type="main" xml:lang="x-jat">Nazotokine 2</title>
+    <title type="official" xml:lang="ja">ナゾトキネ 2</title>
+  </anime>
+  <anime aid="12717">
+    <title type="main" xml:lang="x-jat">Terajima-chou Kidan: Ginnagashi</title>
+    <title type="official" xml:lang="ja">寺島町奇譚 ぎんながし</title>
+  </anime>
+  <anime aid="12718">
+    <title type="main" xml:lang="x-jat">Sengoku Choujuu Giga: Otsu</title>
+    <title type="official" xml:lang="ja">戦国鳥獣戯画~乙~</title>
   </anime>
 </animetitles>
 
-<!-- Created: Sat Jan  7 03:00:22 2017 (9989 anime, 52362 titles) -->
+<!-- Created: Mon Jan  9 03:00:18 2017 (9993 anime, 52375 titles) -->
