@@ -56101,6 +56101,7 @@
   <anime aid="8931">
     <title type="main" xml:lang="x-jat">Sora no Otoshimono Final: Eternal My Master</title>
     <title type="official" xml:lang="ja">そらのおとしもの Final 永遠の私の鳥籠[エターナルマイマスター]</title>
+    <title type="syn" xml:lang="en">Heaven`s Lost Property Final: Eternal My Master</title>
   </anime>
   <anime aid="8932">
     <title type="main" xml:lang="x-jat">Nekogami Yaoyorozu: Ohanami Ghostbusters</title>
@@ -60581,11 +60582,12 @@
   </anime>
   <anime aid="9900">
     <title type="main" xml:lang="x-jat">Fate/Kaleid Liner Prisma Illya (2014)</title>
-    <title type="official" xml:lang="en">Fate/Kaleid Liner Prisma Illya: Dance at the Sports Festival!</title>
+    <title type="official" xml:lang="en">Fate/Kaleid Liner Prisma Illya: Sports Day</title>
     <title type="official" xml:lang="ja">Fate/kaleid liner プリズマ☆イリヤ (2014)</title>
     <title type="short" xml:lang="en">Fate Kaleid OVA</title>
     <title type="short" xml:lang="en">F/K OVA</title>
     <title type="short" xml:lang="en">fk OVA</title>
+    <title type="syn" xml:lang="en">Fate/Kaleid Liner Prisma Illya: Dance at the Sports Festival!</title>
     <title type="syn" xml:lang="ja">Fate/kaleid liner プリズマ☆イリヤ: 運動会 DE ダンス!</title>
     <title type="syn" xml:lang="x-jat">Fate/Kaleid Liner Prisma Illya: Undoukai de Dance!</title>
   </anime>
@@ -64403,10 +64405,10 @@
   </anime>
   <anime aid="10804">
     <title type="main" xml:lang="x-jat">Fate/Kaleid Liner Prisma Illya Zwei! (2015)</title>
-    <title type="official" xml:lang="en">Fate/Kaleid Liner Prisma Illya 2wei!: Magical Girl in Hot Springs Inn</title>
     <title type="official" xml:lang="ja">Fate/kaleid liner プリズマ☆イリヤ 2wei! (2015)</title>
     <title type="short" xml:lang="x-jat">F/K OVA2</title>
     <title type="short" xml:lang="x-jat">fk OVA2</title>
+    <title type="syn" xml:lang="en">Fate/Kaleid Liner Prisma Illya 2wei!: Magical Girl in Hot Springs Inn</title>
     <title type="syn" xml:lang="ja">Fate/kaleid liner プリズマ☆イリヤ 2wei! 魔法少女in温泉旅行</title>
     <title type="syn" xml:lang="x-jat">Fate/Kaleid Liner Prisma Illya Zwei!: Mahou Shoujo in Onsen Ryokou</title>
   </anime>
@@ -68101,6 +68103,7 @@
   <anime aid="11633">
     <title type="main" xml:lang="x-jat">Ari Ningen Monogatari</title>
     <title type="official" xml:lang="ja">蟻人間物語</title>
+    <title type="syn" xml:lang="en">Future Man</title>
   </anime>
   <anime aid="11634">
     <title type="main" xml:lang="x-jat">Milpom</title>
@@ -68329,6 +68332,7 @@
   </anime>
   <anime aid="11689">
     <title type="main" xml:lang="x-jat">Yowamushi Pedal: New Generation</title>
+    <title type="official" xml:lang="en">Yowamushi Pedal New Generation</title>
     <title type="official" xml:lang="ja">弱虫ペダル NEW GENERATION</title>
     <title type="official" xml:lang="x-kot">겁쟁이 페달: New Generation</title>
   </anime>
@@ -68945,7 +68949,8 @@
   <anime aid="11829">
     <title type="main" xml:lang="x-jat">Kimi no Na wa.</title>
     <title type="official" xml:lang="en">Your Name.</title>
-    <title type="official" xml:lang="ja">君の名は.</title>
+    <title type="official" xml:lang="fr">Your Name.</title>
+    <title type="official" xml:lang="ja">君の名は. your name.</title>
     <title type="official" xml:lang="ko">너의 이름은.</title>
     <title type="official" xml:lang="zh-Hant">你的名字。</title>
     <title type="syn" xml:lang="zh-Hant">你的名字</title>
@@ -69181,6 +69186,7 @@
   <anime aid="11884">
     <title type="main" xml:lang="x-jat">Meow no Hoshi</title>
     <title type="official" xml:lang="ja">ミャウの星</title>
+    <title type="syn" xml:lang="en">Meow`s Star</title>
   </anime>
   <anime aid="11886">
     <title type="main" xml:lang="x-jat">Kamiwaza Wanda</title>
@@ -69559,6 +69565,7 @@
   </anime>
   <anime aid="11970">
     <title type="main" xml:lang="x-jat">Eldlive</title>
+    <title type="official" xml:lang="en">Eldlive</title>
     <title type="official" xml:lang="ja">elDLIVE</title>
     <title type="syn" xml:lang="ja">エルドライブ</title>
   </anime>
@@ -69683,6 +69690,8 @@
     <title type="main" xml:lang="x-jat">Fune o Amu</title>
     <title type="official" xml:lang="en">The Great Passage</title>
     <title type="official" xml:lang="ja">舟を編む</title>
+    <title type="official" xml:lang="zh-Hans">编舟记</title>
+    <title type="official" xml:lang="zh-Hant">起航吧！編舟計劃</title>
     <title type="syn" xml:lang="bg">Големият брод</title>
     <title type="syn" xml:lang="x-jat">Fune wo Amu</title>
   </anime>
@@ -69726,6 +69735,7 @@
   </anime>
   <anime aid="12008">
     <title type="main" xml:lang="x-jat">Hand Shakers</title>
+    <title type="official" xml:lang="en">Hand Shakers</title>
     <title type="official" xml:lang="ja">ハンドシェイカー</title>
     <title type="official" xml:lang="x-kot">핸드 셰이커</title>
     <title type="syn" xml:lang="bg">Гостоприемните</title>
@@ -69928,6 +69938,7 @@
   </anime>
   <anime aid="12057">
     <title type="main" xml:lang="x-jat">Kemono Friends</title>
+    <title type="official" xml:lang="en">Kemono Friends</title>
     <title type="official" xml:lang="ja">けものフレンズ</title>
     <title type="syn" xml:lang="x-kot">케모노 프렌즈</title>
   </anime>
@@ -70260,6 +70271,7 @@
   </anime>
   <anime aid="12136">
     <title type="main" xml:lang="x-jat">ACCA 13-ku Kansatsu-ka</title>
+    <title type="official" xml:lang="en">ACCA: 13-Territory Inspection Dept.</title>
     <title type="official" xml:lang="ja">ACCA13区監察課</title>
     <title type="official" xml:lang="x-kot">ACCA 13구 감찰과</title>
   </anime>
@@ -70525,6 +70537,7 @@
   <anime aid="12235">
     <title type="main" xml:lang="x-jat">Little Witch Academia (2017)</title>
     <title type="official" xml:lang="ja">リトルウィッチアカデミア (2017)</title>
+    <title type="short" xml:lang="x-jat">lwatv</title>
   </anime>
   <anime aid="12237">
     <title type="main" xml:lang="x-jat">Kaitou Joker 4</title>
@@ -70611,6 +70624,7 @@
   </anime>
   <anime aid="12256">
     <title type="main" xml:lang="x-jat">Tales of Zestiria the Cross (2017)</title>
+    <title type="official" xml:lang="en">Tales of Zestiria the X (2017)</title>
     <title type="official" xml:lang="ja">Tales of Zestiria the X (2017)</title>
     <title type="syn" xml:lang="ja">テイルズ オブ ゼスティリア ザ クロス (2017)</title>
   </anime>
@@ -70734,6 +70748,7 @@
   </anime>
   <anime aid="12290">
     <title type="main" xml:lang="x-jat">Gabriel Dropout</title>
+    <title type="official" xml:lang="en">Gabriel Dropout</title>
     <title type="official" xml:lang="ja">ガヴリールドロップアウト</title>
     <title type="official" xml:lang="x-kot">가브릴 드롭아웃</title>
   </anime>
@@ -71128,6 +71143,7 @@
   </anime>
   <anime aid="12400">
     <title type="main" xml:lang="x-jat">Idol Jihen</title>
+    <title type="official" xml:lang="en">Idol Incidents</title>
     <title type="official" xml:lang="ja">アイドル事変</title>
   </anime>
   <anime aid="12402">
@@ -71192,10 +71208,13 @@
   </anime>
   <anime aid="12418">
     <title type="main" xml:lang="x-jat">Chiruran: Nibun no Ichi</title>
+    <title type="official" xml:lang="en">Chiruran One-Half</title>
     <title type="official" xml:lang="ja">ちるらん にぶんの壱</title>
+    <title type="syn" xml:lang="en">Chiruran 1/2</title>
   </anime>
   <anime aid="12419">
     <title type="main" xml:lang="x-jat">Gintama.</title>
+    <title type="official" xml:lang="en">Gintama Season 4</title>
     <title type="official" xml:lang="ja">銀魂.</title>
     <title type="short" xml:lang="en">gintama5</title>
   </anime>
@@ -71256,6 +71275,7 @@
   </anime>
   <anime aid="12433">
     <title type="main" xml:lang="x-jat">Nyanko Days</title>
+    <title type="official" xml:lang="en">Nyanko Days</title>
     <title type="official" xml:lang="ja">にゃんこデイズ</title>
   </anime>
   <anime aid="12434">
@@ -71574,9 +71594,8 @@
     <title type="official" xml:lang="ja">フライングベイビーズ</title>
   </anime>
   <anime aid="12523">
-    <title type="main" xml:lang="x-jat">Finis</title>
-    <title type="official" xml:lang="ja">フィニス</title>
-    <title type="syn" xml:lang="ja">フィーニス</title>
+    <title type="main" xml:lang="x-jat">Lost Song</title>
+    <title type="official" xml:lang="ja">LOST SONG</title>
   </anime>
   <anime aid="12524">
     <title type="main" xml:lang="x-jat">Ikemen Sengoku</title>
@@ -71966,10 +71985,6 @@
   <anime aid="12618">
     <title type="main" xml:lang="x-jat">Gekijouban Seitokai Yakuindomo</title>
     <title type="official" xml:lang="ja">劇場版 生徒会役員共</title>
-  </anime>
-  <anime aid="12620">
-    <title type="main" xml:lang="x-jat">Rin</title>
-    <title type="official" xml:lang="ja">リン</title>
   </anime>
   <anime aid="12621">
     <title type="main" xml:lang="x-jat">Days 2</title>
@@ -72361,6 +72376,26 @@
     <title type="main" xml:lang="x-jat">Sengoku Choujuu Giga: Otsu</title>
     <title type="official" xml:lang="ja">戦国鳥獣戯画~乙~</title>
   </anime>
+  <anime aid="12719">
+    <title type="main" xml:lang="x-jat">Tenkousei wa Uchuujin</title>
+    <title type="official" xml:lang="ja">転校生は宇宙人</title>
+  </anime>
+  <anime aid="12720">
+    <title type="main" xml:lang="x-jat">Aikodesho</title>
+    <title type="official" xml:lang="ja">あいこでしょ</title>
+  </anime>
+  <anime aid="12721">
+    <title type="main" xml:lang="x-jat">Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu</title>
+    <title type="official" xml:lang="ja">トミカハイパーレスキュー ドライブヘッド 機動救急警察</title>
+  </anime>
+  <anime aid="12722">
+    <title type="main" xml:lang="x-kot">Kkoma-beoseu Tayo</title>
+    <title type="official" xml:lang="ko">꼬마버스 타요</title>
+  </anime>
+  <anime aid="12723">
+    <title type="main" xml:lang="x-jat">Mahoujin Guru Guru (Shinsaku)</title>
+    <title type="official" xml:lang="ja">魔法陣グルグル (新作)</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Mon Jan  9 03:00:18 2017 (9993 anime, 52375 titles) -->
+<!-- Created: Wed Jan 11 03:00:20 2017 (9997 anime, 52402 titles) -->
