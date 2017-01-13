@@ -69663,6 +69663,7 @@
   </anime>
   <anime aid="11992">
     <title type="main" xml:lang="x-jat">Kono Subarashii Sekai ni Shukufuku o! 2</title>
+    <title type="official" xml:lang="en">Konosuba: God`s Blessing on This Wonderful World! 2</title>
     <title type="official" xml:lang="ja">この素晴らしい世界に祝福を! 2</title>
     <title type="official" xml:lang="ko">이 멋진 세계에 축복을! 2</title>
     <title type="short" xml:lang="x-jat">konosuba 2</title>
@@ -70088,10 +70089,10 @@
   </anime>
   <anime aid="12091">
     <title type="main" xml:lang="x-jat">Kobayashi-san Chi no Maid Dragon</title>
+    <title type="official" xml:lang="en">Miss Kobayashi`s Dragon Maid</title>
     <title type="official" xml:lang="ja">小林さんちのメイドラゴン</title>
     <title type="official" xml:lang="ko">고바야시네 메이드래곤</title>
-    <title type="syn" xml:lang="en">Miss Kobayashi`s Dragon Maid</title>
-    <title type="syn" xml:lang="en">The maid dragon of Kobayashi-san</title>
+    <title type="syn" xml:lang="en">The Maid Dragon of Kobayashi-san</title>
   </anime>
   <anime aid="12092">
     <title type="main" xml:lang="x-jat">Onizushi</title>
@@ -70181,6 +70182,8 @@
   <anime aid="12113">
     <title type="main" xml:lang="x-jat">Arslan Senki (2016)</title>
     <title type="official" xml:lang="ja">アルスラーン戦記 THE HEROIC LEGEND OF ARSLAN (2016)</title>
+    <title type="syn" xml:lang="ja">アルスラーン戦記 外伝</title>
+    <title type="syn" xml:lang="x-jat">Arslan Senki: Gaiden</title>
   </anime>
   <anime aid="12114">
     <title type="main" xml:lang="x-jat">Ieiri Leo x Jungle Taitei `a boy`</title>
@@ -70482,9 +70485,9 @@
   </anime>
   <anime aid="12223">
     <title type="main" xml:lang="x-jat">Piace: Watashi no Italian</title>
+    <title type="official" xml:lang="en">Piacevole: My Italian Dining</title>
     <title type="official" xml:lang="ja">ピアシェ~私のイタリアン~</title>
     <title type="syn" xml:lang="ja">ピアシェーヴォレ</title>
-    <title type="syn" xml:lang="x-jat">Piacevole</title>
   </anime>
   <anime aid="12224">
     <title type="main" xml:lang="x-jat">Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kakichi Saigo no Hi</title>
@@ -71706,6 +71709,7 @@
   </anime>
   <anime aid="12550">
     <title type="main" xml:lang="x-jat">One Room</title>
+    <title type="official" xml:lang="en">One Room</title>
     <title type="official" xml:lang="ja">One Room</title>
     <title type="syn" xml:lang="ja">ワンルーム</title>
   </anime>
@@ -72396,6 +72400,10 @@
     <title type="main" xml:lang="x-jat">Mahoujin Guru Guru (Shinsaku)</title>
     <title type="official" xml:lang="ja">魔法陣グルグル (新作)</title>
   </anime>
+  <anime aid="12724">
+    <title type="main" xml:lang="x-jat">Meikoku Gakuen Jutai Hen</title>
+    <title type="official" xml:lang="ja">冥刻學園 受胎編</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Wed Jan 11 03:00:20 2017 (9997 anime, 52402 titles) -->
+<!-- Created: Thu Jan 12 03:00:20 2017 (9998 anime, 52408 titles) -->
