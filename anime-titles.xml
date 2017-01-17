@@ -71410,10 +71410,6 @@
     <title type="official" xml:lang="ja">月曜日のたわわ</title>
     <title type="syn" xml:lang="en">Tawawa on Monday</title>
   </anime>
-  <anime aid="12463">
-    <title type="main" xml:lang="x-jat">Mori no Yousei: Kinoko no Musume</title>
-    <title type="official" xml:lang="ja">森の妖精 キノコの娘</title>
-  </anime>
   <anime aid="12465">
     <title type="main" xml:lang="x-jat">Higanjima X</title>
     <title type="official" xml:lang="ja">彼岸島X</title>
@@ -72352,10 +72348,6 @@
     <title type="main" xml:lang="x-jat">Fate/Apocrypha</title>
     <title type="official" xml:lang="ja">Fate/Apocrypha</title>
   </anime>
-  <anime aid="12705">
-    <title type="main" xml:lang="x-jat">Fate Project 2016: First &amp; Next Order</title>
-    <title type="official" xml:lang="ja">「Fate Project 大晦日TVスペシャル First &amp; Next Order</title>
-  </anime>
   <anime aid="12706">
     <title type="main" xml:lang="x-jat">Kiss Shite Hoshii</title>
     <title type="official" xml:lang="ja">スしてほしい</title>
@@ -72462,6 +72454,10 @@
     <title type="main" xml:lang="x-jat">Dynamic Chord</title>
     <title type="official" xml:lang="ja">DYNAMIC CHORD</title>
   </anime>
+  <anime aid="12732">
+    <title type="main" xml:lang="x-kot">Seoulyeok</title>
+    <title type="official" xml:lang="ko">서울역</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Mon Jan 16 03:00:23 2017 (10005 anime, 52452 titles) -->
+<!-- Created: Tue Jan 17 03:00:24 2017 (10004 anime, 52450 titles) -->

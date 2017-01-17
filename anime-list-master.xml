@@ -33528,9 +33528,6 @@
   <anime anidbid="12462" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Getsuyoubi no Tawawa</name>
   </anime>
-  <anime anidbid="12463" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Mori no Yousei: Kinoko no Musume</name>
-  </anime>
   <anime anidbid="12465" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Higanjima X</name>
   </anime>
@@ -34200,9 +34197,6 @@
   <anime anidbid="12704" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Fate/Apocrypha</name>
   </anime>
-  <anime anidbid="12705" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Fate Project 2016: First &amp; Next Order</name>
-  </anime>
   <anime anidbid="12706" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kiss Shite Hoshii</name>
   </anime>
@@ -34280,5 +34274,8 @@
   </anime>
   <anime anidbid="12731" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Dynamic Chord</name>
+  </anime>
+  <anime anidbid="12732" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Seoulyeok</name>
   </anime>
 </anime-list>
