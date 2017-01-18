@@ -1662,6 +1662,7 @@
   </anime>
   <anime aid="108">
     <title type="main" xml:lang="x-jat">Galaxy Angel</title>
+    <title type="official" xml:lang="en">Galaxy Angel</title>
     <title type="official" xml:lang="ja">ギャラクシーエンジェル</title>
     <title type="official" xml:lang="pt-BR">Galaxy Angel</title>
     <title type="official" xml:lang="th">แองเจิ้ลสาว พิทักษ์จักรวาล</title>
@@ -7840,7 +7841,7 @@
   </anime>
   <anime aid="635">
     <title type="main" xml:lang="x-jat">Kaleido Star</title>
-    <title type="official" xml:lang="bg">Звездата на “Калейдо”</title>
+    <title type="official" xml:lang="bg">Звездата на "Калейдо"</title>
     <title type="official" xml:lang="cs">Kaleido Star</title>
     <title type="official" xml:lang="en">Kaleido Star</title>
     <title type="official" xml:lang="fr">Kaleido Star</title>
@@ -9549,7 +9550,7 @@
     <title type="official" xml:lang="ja">ルパン三世EPISODE: 0 (ゼロ) 『ファーストコンタクト』</title>
     <title type="syn" xml:lang="bg">Люпен Трети Епизод 0: Конспирацията Фума</title>
     <title type="syn" xml:lang="en">Lupin Sansei Special 14</title>
-    <title type="syn" xml:lang="it">Lupin III: C’era una volta... Lupin</title>
+    <title type="syn" xml:lang="it">Lupin III: C`era una volta... Lupin</title>
     <title type="syn" xml:lang="x-jat">Rupan Sansei Episode: 0 `First Contact`</title>
   </anime>
   <anime aid="822">
@@ -9987,7 +9988,7 @@
   <anime aid="877">
     <title type="main" xml:lang="x-jat">Choujin Densetsu Urotsukidouji: Inferno Road</title>
     <title type="official" xml:lang="en">Urotsukidoji IV: Inferno Road</title>
-    <title type="official" xml:lang="fr">Urotsukidōji IV - L’apocalypse continue !</title>
+    <title type="official" xml:lang="fr">Urotsukidōji IV - L`apocalypse continue !</title>
     <title type="official" xml:lang="ja">超神伝説うろつき童子 放浪篇[インフェルノ·ロード]</title>
     <title type="official" xml:lang="ru">Уроцукидодзи: Возрождение сверхдемона</title>
     <title type="short" xml:lang="x-jat">Urotsukidouji 4</title>
@@ -10091,7 +10092,7 @@
     <title type="official" xml:lang="et">Hing anumas 2: Süütus</title>
     <title type="official" xml:lang="fi">Ghost in the Shell 2: Innocence</title>
     <title type="official" xml:lang="fr">Ghost in the Shell 2 - Innocence</title>
-    <title type="official" xml:lang="it">Ghost in the Shell 2 - L’attacco dei cyborg</title>
+    <title type="official" xml:lang="it">Ghost in the Shell 2 - L`attacco dei cyborg</title>
     <title type="official" xml:lang="ja">Innocence</title>
     <title type="official" xml:lang="ko">공각기동대 2 이노센트</title>
     <title type="official" xml:lang="lt">Dvasia šarvuose 2: Nekaltybė</title>
@@ -10139,7 +10140,7 @@
     <title type="main" xml:lang="x-jat">One Piece: Nejimakijima no Bouken</title>
     <title type="official" xml:lang="de">One Piece - 2. Film: Abenteuer auf der Spiralinsel</title>
     <title type="official" xml:lang="en">One Piece: Adventure of Spiral Island</title>
-    <title type="official" xml:lang="fr">One Piece : L’Aventure de l’île de l’horloge</title>
+    <title type="official" xml:lang="fr">One Piece : L`Aventure de l`île de l`horloge</title>
     <title type="official" xml:lang="it">One Piece: Avventura all`Isola Spirale</title>
     <title type="official" xml:lang="ja">ONE PIECE ねじまき島の冒険</title>
     <title type="short" xml:lang="en">One Piece Movie 2</title>
@@ -13409,7 +13410,7 @@
     <title type="main" xml:lang="x-jat">One Piece: Chinjuujima no Chopper Oukoku</title>
     <title type="official" xml:lang="de">One Piece - 3. Film: Chopper auf der Insel der seltsamen Tiere</title>
     <title type="official" xml:lang="en">One Piece: Chopper`s Kingdom in the Strange Animal Island</title>
-    <title type="official" xml:lang="fr">One Piece : Le Royaume de Chopper, l’étrange île des animaux</title>
+    <title type="official" xml:lang="fr">One Piece : Le Royaume de Chopper, l`étrange île des animaux</title>
     <title type="official" xml:lang="it">One Piece: Il Tesoro del Re</title>
     <title type="official" xml:lang="ja">ONE PIECE 珍獣島のチョッパー王国</title>
     <title type="short" xml:lang="en">One Piece Movie 3</title>
@@ -14907,7 +14908,7 @@
   </anime>
   <anime aid="1441">
     <title type="main" xml:lang="x-jat">Pikkoman no Kichikumichi: Mayonaka no Milk Party</title>
-    <title type="official" xml:lang="de">Akiho´s Teuflischer Leidensweg</title>
+    <title type="official" xml:lang="de">Akiho`s Teuflischer Leidensweg</title>
     <title type="official" xml:lang="en">Midnight Milk Party</title>
     <title type="official" xml:lang="fr">Pire qu`une chienne</title>
     <title type="official" xml:lang="ja">ピッコマンの鬼畜道 ~真夜中のみるくパーティー~</title>
@@ -15965,7 +15966,7 @@
     <title type="main" xml:lang="x-jat">City Hunter `91</title>
     <title type="official" xml:lang="en">City Hunter `91</title>
     <title type="official" xml:lang="fr">Nicky Larson - Saison 4</title>
-    <title type="official" xml:lang="it">City Hunter ´91</title>
+    <title type="official" xml:lang="it">City Hunter `91</title>
     <title type="official" xml:lang="ja">CITY HUNTER`91</title>
     <title type="short" xml:lang="x-jat">CHun91</title>
     <title type="syn" xml:lang="ja">シティーハンター`91</title>
@@ -16618,7 +16619,7 @@
     <title type="official" xml:lang="en">Devilman: The Demon Bird</title>
     <title type="official" xml:lang="fi">Devilman - Demonilintu</title>
     <title type="official" xml:lang="fr">Devilman - La sorcière oiseau</title>
-    <title type="official" xml:lang="it">Devilman - L’Arpia Silen</title>
+    <title type="official" xml:lang="it">Devilman - L`Arpia Silen</title>
     <title type="official" xml:lang="ja">デビルマン 妖鳥シレーヌ編</title>
     <title type="syn" xml:lang="en">Devilman (1990)</title>
     <title type="syn" xml:lang="ja">デビルマン (1990)</title>
@@ -19444,7 +19445,7 @@
     <title type="main" xml:lang="x-jat">One Piece: Norowareta Seiken</title>
     <title type="official" xml:lang="de">One Piece - 5. Film: Der Fluch des heiligen Schwerts</title>
     <title type="official" xml:lang="en">One Piece: The Curse of the Sacred Sword</title>
-    <title type="official" xml:lang="fr">One Piece : La Malédiction de l’épée sacrée</title>
+    <title type="official" xml:lang="fr">One Piece : La Malédiction de l`épée sacrée</title>
     <title type="official" xml:lang="it">One Piece: La spada delle sette stelle</title>
     <title type="official" xml:lang="ja">ONE PIECE 呪われた聖剣</title>
     <title type="short" xml:lang="en">One Piece Movie 5</title>
@@ -19663,7 +19664,7 @@
   <anime aid="2064">
     <title type="main" xml:lang="x-jat">Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary</title>
     <title type="official" xml:lang="ja">月は東に日は西に Operation Sanctuary</title>
-    <title type="official" xml:lang="ko">달은 동쪽으로 해는 서쪽으로〜OperationSanctuary〜</title>
+    <title type="official" xml:lang="ko">달은 동쪽으로 해는 서쪽으로 ~OperationSanctuary~</title>
     <title type="short" xml:lang="x-jat">Hanihani</title>
     <title type="short" xml:lang="x-jat">hani hani</title>
     <title type="syn" xml:lang="en">The Moon is East, The Sun is West: Operation Sanctuary</title>
@@ -20624,7 +20625,7 @@
     <title type="main" xml:lang="x-jat">Gekijouban xxxHOLiC: Manatsu no Yo no Yume</title>
     <title type="official" xml:lang="de">xxxHolic: Der Film</title>
     <title type="official" xml:lang="en">xxxHolic: The Movie - A Midsummer Night`s Dream</title>
-    <title type="official" xml:lang="fr">XXX Holic, songe d’une nuit d’été</title>
+    <title type="official" xml:lang="fr">XXX Holic, songe d`une nuit d`été</title>
     <title type="official" xml:lang="ja">劇場版 XXX HOLiC 真夏ノ夜ノ夢</title>
     <title type="official" xml:lang="ko">XXX HOLIC - 한 여름밤의 꿈</title>
     <title type="official" xml:lang="pl">xxxHolic the Movie</title>
@@ -21011,7 +21012,7 @@
     <title type="official" xml:lang="de">Taro, der kleine Drachenjunge</title>
     <title type="official" xml:lang="el">Tάρο, ο Γιος της Δράκαινας</title>
     <title type="official" xml:lang="en">Taro the Dragon Boy</title>
-    <title type="official" xml:lang="fr">Tarô, l’enfant dragon</title>
+    <title type="official" xml:lang="fr">Tarô, l`enfant dragon</title>
     <title type="official" xml:lang="ja">龍の子太郎</title>
     <title type="syn" xml:lang="de">Taro, der Drachenboy</title>
     <title type="syn" xml:lang="de">Taro, der Drachenjunge</title>
@@ -22153,7 +22154,7 @@
     <title type="main" xml:lang="x-jat">Yuuguu Settai: Kotou no Gokuraku e Youkoso</title>
     <title type="official" xml:lang="de">Yogusettai</title>
     <title type="official" xml:lang="en">Fruits Cup</title>
-    <title type="official" xml:lang="fr">Bienvenue à l’ île de la jouissance</title>
+    <title type="official" xml:lang="fr">Bienvenue à l`île de la jouissance</title>
     <title type="official" xml:lang="ja">優遇接待 孤島の極楽へようこそ</title>
   </anime>
   <anime aid="2374">
@@ -24292,13 +24293,13 @@
     <title type="official" xml:lang="de">D`Artagnan und die 3 MuskeTiere</title>
     <title type="official" xml:lang="el">Οι 3 Σωματοφύλακες</title>
     <title type="official" xml:lang="en">Dogtanian and the Three Muskehounds</title>
-    <title type="official" xml:lang="es">D’Artacan y los tres mosqueperros</title>
+    <title type="official" xml:lang="es">D`Artacan y los tres mosqueperros</title>
     <title type="official" xml:lang="fi">Kolme muskettikoiraa</title>
     <title type="official" xml:lang="fr">Les 3 mousquetaires</title>
     <title type="official" xml:lang="he">שלושת המוסקטרים</title>
     <title type="official" xml:lang="it">D`Artacan</title>
     <title type="official" xml:lang="ja">ワンワン三銃士</title>
-    <title type="official" xml:lang="pl">D’Artagnan i trzej muszkieterowie</title>
+    <title type="official" xml:lang="pl">D`Artagnan i trzej muszkieterowie</title>
     <title type="official" xml:lang="pt">Dartacão e os Três Moscãoteiros</title>
     <title type="official" xml:lang="pt-BR">D`Artagnan e os Três Mosqueteiros</title>
     <title type="official" xml:lang="ro">D`Artagnan şi cei trei muşchetari</title>
@@ -25081,7 +25082,7 @@
     <title type="syn" xml:lang="en">Space Cruiser: Guardian of the Galaxy</title>
     <title type="syn" xml:lang="en">Space Cruiser Yamato</title>
     <title type="syn" xml:lang="en">Star Blazers: The Quest for Iscandar (movie)</title>
-    <title type="syn" xml:lang="fr">Yamato, le cuirassé de l’espace</title>
+    <title type="syn" xml:lang="fr">Yamato, le cuirassé de l`espace</title>
   </anime>
   <anime aid="2815">
     <title type="main" xml:lang="x-jat">Loveless</title>
@@ -25474,7 +25475,7 @@
   <anime aid="2862">
     <title type="main" xml:lang="x-jat">Eien no Aseria</title>
     <title type="official" xml:lang="en">The Eternal Aseria</title>
-    <title type="official" xml:lang="fr">Aseria l’éternelle</title>
+    <title type="official" xml:lang="fr">Aseria l`éternelle</title>
     <title type="official" xml:lang="ja">永遠のアセリア</title>
     <title type="short" xml:lang="x-jat">EnA</title>
     <title type="syn" xml:lang="bg">Вечната Асерия</title>
@@ -26202,7 +26203,7 @@
   </anime>
   <anime aid="3052">
     <title type="main" xml:lang="x-jat">Makyou Densetsu Acrobunch</title>
-    <title type="official" xml:lang="fr">Askadis - La légende de l’empire perdu</title>
+    <title type="official" xml:lang="fr">Askadis - La légende de l`empire perdu</title>
     <title type="official" xml:lang="ja">魔境伝説アクロバンチ</title>
     <title type="syn" xml:lang="fr">L`empire des cinq</title>
     <title type="syn" xml:lang="it">Acrobunch, la leggenda del paese magico</title>
@@ -27555,7 +27556,7 @@
     <title type="official" xml:lang="de">Futagonohaha Seihonnou</title>
     <title type="official" xml:lang="en">Menage a Twins</title>
     <title type="official" xml:lang="es">Menage de gemelas</title>
-    <title type="official" xml:lang="fr">L’instinct sexuel des mères jumelles</title>
+    <title type="official" xml:lang="fr">L`instinct sexuel des mères jumelles</title>
     <title type="official" xml:lang="ja">双子(フタゴ)ノ母(ハハ)性本能</title>
     <title type="syn" xml:lang="ja">双子ノ母性本能</title>
     <title type="syn" xml:lang="ko">쌍둥이의 모성본능</title>
@@ -27596,7 +27597,7 @@
     <title type="main" xml:lang="x-jat">Tsubasa Chronicle: Tori Kago no Kuni no Himegimi</title>
     <title type="official" xml:lang="de">Tsubasa Chronicle - Die Prinzessin des Vogelkäfiglandes</title>
     <title type="official" xml:lang="en">Tsubasa: RESERVoir CHRoNiCLE - The Princess in the Birdcage Kingdom</title>
-    <title type="official" xml:lang="fr">Tsubasa Chronicle, la princesse du pays de la cage à l’oiseau</title>
+    <title type="official" xml:lang="fr">Tsubasa Chronicle, la princesse du pays de la cage à l`oiseau</title>
     <title type="official" xml:lang="it">Tsubasa Chronicle - La principessa del paese delle gabbie per uccelli</title>
     <title type="official" xml:lang="ja">ツバサ・クロニクル年代記 鳥カゴの国の姫君</title>
     <title type="official" xml:lang="ko">츠바사 클로니클 - 새장 나라의 공주</title>
@@ -28527,7 +28528,7 @@
     <title type="main" xml:lang="x-jat">Mahou Shoujo Lyrical Nanoha A`s</title>
     <title type="official" xml:lang="en">Magical Girl Lyrical Nanoha A`s</title>
     <title type="official" xml:lang="ja">魔法少女リリカルなのはA`s</title>
-    <title type="official" xml:lang="th">สาวน้อยจอมเวทย์ นาโนฮะ A’s</title>
+    <title type="official" xml:lang="th">สาวน้อยจอมเวทย์ นาโนฮะ A`s</title>
     <title type="official" xml:lang="zh-Hans">魔法少女奈叶A`s</title>
     <title type="short" xml:lang="en">na2</title>
     <title type="short" xml:lang="x-jat">mglna</title>
@@ -28536,7 +28537,6 @@
     <title type="short" xml:lang="x-jat">nanoha a`s</title>
     <title type="syn" xml:lang="en">a`s</title>
     <title type="syn" xml:lang="pt-BR">Garota Mágica Lírica Nanoha A`s</title>
-    <title type="syn" xml:lang="zh-Hans">魔法少女奈叶A‘s</title>
   </anime>
   <anime aid="3442">
     <title type="main" xml:lang="x-jat">Last Order: Final Fantasy VII</title>
@@ -33633,7 +33633,7 @@
   <anime aid="4421">
     <title type="main" xml:lang="x-jat">Gekijouban Naruto: Dai Koufun! Mikazukijima no Animal Panic Datte ba yo!</title>
     <title type="official" xml:lang="en">Naruto the Movie 3: Guardians of the Crescent Moon Kingdom</title>
-    <title type="official" xml:lang="fr">Naruto - Film 3 - Panique sur l’île du Croissant de Lune</title>
+    <title type="official" xml:lang="fr">Naruto - Film 3 - Panique sur l`île du Croissant de Lune</title>
     <title type="official" xml:lang="ja">劇場版 NARUTO 大興奮! みかづき島のアニマル騒動[パニック]だってばよ</title>
     <title type="short" xml:lang="en">Naruto Movie 3</title>
     <title type="short" xml:lang="en">Naruto Movie Vol. 3</title>
@@ -37699,7 +37699,7 @@
     <title type="official" xml:lang="en">Aria the OVA: Arietta</title>
     <title type="official" xml:lang="it">Aria the OVA: Arietta</title>
     <title type="official" xml:lang="ja">ARIA The OVA ~ARIETTA~</title>
-    <title type="official" xml:lang="zh-Hans">ARIA The OVA 〜ARIETTA〜</title>
+    <title type="official" xml:lang="zh-Hans">ARIA The OVA ~ARIETTA~</title>
     <title type="short" xml:lang="x-jat">aria3</title>
     <title type="syn" xml:lang="ja">アリア The OVA ~ARIETTA~</title>
   </anime>
@@ -40475,7 +40475,7 @@
   </anime>
   <anime aid="5739">
     <title type="main" xml:lang="x-jat">Yuu Gi Ou 5D`s</title>
-    <title type="official" xml:lang="de">Yu-Gi-Oh! 5D‘s</title>
+    <title type="official" xml:lang="de">Yu-Gi-Oh! 5D`s</title>
     <title type="official" xml:lang="en">Yu-Gi-Oh! 5D`s</title>
     <title type="official" xml:lang="he">יו-גי-הו: המימד החמישי</title>
     <title type="official" xml:lang="ja">遊戯王5D`s</title>
@@ -44688,6 +44688,8 @@
     <title type="short" xml:lang="en">dtb2</title>
     <title type="short" xml:lang="x-jat">dtbrng</title>
     <title type="syn" xml:lang="bg">По-тъмно от черното: Близнаците на Метеора</title>
+    <title type="syn" xml:lang="en">Darker than Black Gaiden</title>
+    <title type="syn" xml:lang="en">Darker than Black OVA</title>
     <title type="syn" xml:lang="lt">Tamsiau už Juodą: Meteoro Dvyniai</title>
     <title type="syn" xml:lang="ru">Темнее черного: Близнецы и падающая звезда</title>
     <title type="syn" xml:lang="tr">Zifiri Karanlık 2</title>
@@ -59582,7 +59584,7 @@
     <title type="main" xml:lang="x-jat">Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku o Ketsui Shimashita.</title>
     <title type="official" xml:lang="en">Yusibu: I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job</title>
     <title type="official" xml:lang="es">Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita</title>
-    <title type="official" xml:lang="fr">Je n’ai pas pu devenir un héros, alors j’ai cherché un boulot à contrecœur</title>
+    <title type="official" xml:lang="fr">Je n`ai pas pu devenir un héros, alors j`ai cherché un boulot à contrecœur</title>
     <title type="official" xml:lang="ja">勇者になれなかった俺はしぶしぶ就職を決意しました.</title>
     <title type="official" xml:lang="zh-Hans">没能成为勇者的我无可奈何决定去工作</title>
     <title type="short" xml:lang="x-jat">Yuushibu</title>
@@ -68224,7 +68226,7 @@
   <anime aid="11660">
     <title type="main" xml:lang="x-jat">Okaasan ni Naisho</title>
     <title type="official" xml:lang="ja">おかあさんにないしょ</title>
-    <title type="syn" xml:lang="en">Don’t tell Mom</title>
+    <title type="syn" xml:lang="en">Don`t tell Mom</title>
   </anime>
   <anime aid="11661">
     <title type="main" xml:lang="x-jat">Master Blaster</title>
@@ -69052,7 +69054,7 @@
     <title type="syn" xml:lang="bg">Сивият (2016)</title>
     <title type="syn" xml:lang="bg">Сивият: Светията</title>
     <title type="syn" xml:lang="ja">ディー・グレイマン (2016)</title>
-    <title type="syn" xml:lang="tr">Akuma’nın Gri Çocuğu: Azizlerin Gecesi</title>
+    <title type="syn" xml:lang="tr">Akuma`nın Gri Çocuğu: Azizlerin Gecesi</title>
   </anime>
   <anime aid="11849">
     <title type="main" xml:lang="x-jat">Monster High: Kowai-ke Girls</title>
@@ -71287,6 +71289,7 @@
   <anime aid="12429">
     <title type="main" xml:lang="x-jat">Rewrite 2nd Season</title>
     <title type="official" xml:lang="ja">Rewrite 2nd Season</title>
+    <title type="short" xml:lang="x-jat">Rewrite S2</title>
     <title type="syn" xml:lang="ja">Rewrite 2nd Season Moon編 / Terra編</title>
     <title type="syn" xml:lang="x-jat">Rewrite 2nd Season: Moon Hen / Terra Hen</title>
   </anime>
@@ -71371,6 +71374,7 @@
   <anime aid="12453">
     <title type="main" xml:lang="x-jat">Ima no Watashi ni Dekiru Koto...</title>
     <title type="official" xml:lang="ja">イマノワタシニデキルコト...</title>
+    <title type="syn" xml:lang="ru">То, что я могу сделать...</title>
   </anime>
   <anime aid="12454">
     <title type="main" xml:lang="x-jat">Akane-chan no Wasuremono</title>
@@ -71778,7 +71782,7 @@
     <title type="main" xml:lang="x-zht">Quanzhi Gaoshou</title>
     <title type="official" xml:lang="zh-Hans">全职高手</title>
     <title type="official" xml:lang="zh-Hant">全職高手</title>
-    <title type="syn" xml:lang="en">The King’s Avatar</title>
+    <title type="syn" xml:lang="en">The King`s Avatar</title>
   </anime>
   <anime aid="12561">
     <title type="main" xml:lang="x-jat">Garo</title>
@@ -72444,7 +72448,7 @@
   </anime>
   <anime aid="12729">
     <title type="main" xml:lang="x-jat">3-D Tengoku</title>
-    <title type="official" xml:lang="ja">３-Ｄ天国</title>
+    <title type="official" xml:lang="ja">3-D天国</title>
   </anime>
   <anime aid="12730">
     <title type="main" xml:lang="x-jat">Otoko no Ko Delivery</title>
@@ -72456,8 +72460,21 @@
   </anime>
   <anime aid="12732">
     <title type="main" xml:lang="x-kot">Seoulyeok</title>
+    <title type="official" xml:lang="en">Seoul Station</title>
     <title type="official" xml:lang="ko">서울역</title>
+  </anime>
+  <anime aid="12733">
+    <title type="main" xml:lang="x-jat">Nameko-ke no Ichizoku</title>
+    <title type="official" xml:lang="ja">なめこ家の一族</title>
+  </anime>
+  <anime aid="12734">
+    <title type="main" xml:lang="x-jat">Tama Pawns</title>
+    <title type="official" xml:lang="ja">たまぽんず</title>
+  </anime>
+  <anime aid="12735">
+    <title type="main" xml:lang="x-jat">Tama Shichi!</title>
+    <title type="official" xml:lang="ja">たましち!</title>
   </anime>
 </animetitles>
 
-<!-- Created: Tue Jan 17 03:00:24 2017 (10004 anime, 52450 titles) -->
+<!-- Created: Wed Jan 18 03:00:17 2017 (10007 anime, 52461 titles) -->
