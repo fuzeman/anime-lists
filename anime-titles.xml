@@ -22740,7 +22740,6 @@
     <title type="official" xml:lang="en">Heritage from Father</title>
     <title type="official" xml:lang="ja">椿色のプリジオーネ</title>
     <title type="syn" xml:lang="en">Camilla-Colored Prison</title>
-    <title type="syn" xml:lang="x-unk">Tsubaki Iro no Purijioone</title>
   </anime>
   <anime aid="2456">
     <title type="main" xml:lang="x-jat">Aquarian Age: Saga II</title>
@@ -29787,6 +29786,7 @@
     <title type="official" xml:lang="ja">ラブ・ポジション THE LEGEND OF HALLEY</title>
     <title type="syn" xml:lang="en">Love Position - The Legend of Halley</title>
     <title type="syn" xml:lang="ja">ラブポジション LEGEND OF HALLEY</title>
+    <title type="syn" xml:lang="ja">ラブ・ポジション ハレー伝説</title>
     <title type="syn" xml:lang="ja">ハレー伝説 ラブ・ポジション</title>
     <title type="syn" xml:lang="x-jat">Love Position Halley Densetsu</title>
   </anime>
@@ -30213,7 +30213,7 @@
     <title type="official" xml:lang="en">The Wizard of Oz</title>
     <title type="official" xml:lang="es">El Mago de Oz</title>
     <title type="official" xml:lang="es-LA">El Mago de Oz</title>
-    <title type="official" xml:lang="fi">Oz-maan taikuri</title>
+    <title type="official" xml:lang="fi">Ihmemaa Oz</title>
     <title type="official" xml:lang="fr">Le magicien d`Oz</title>
     <title type="official" xml:lang="he">הקוסם מארץ עוץ</title>
     <title type="official" xml:lang="hu">Óz a Nagy Varázsló</title>
@@ -33722,8 +33722,9 @@
   </anime>
   <anime aid="4444">
     <title type="main" xml:lang="x-jat">Saint Beast: Ikusen no Hiru to Yoru Hen</title>
-    <title type="official" xml:lang="ja">セイント・ビースト: 幾千の昼と夜 編</title>
+    <title type="official" xml:lang="ja">Saint Beast 四聖獣 ~幾千の昼と夜 編~</title>
     <title type="syn" xml:lang="en">Saint Beast: Thousands of Days and Nights</title>
+    <title type="syn" xml:lang="ja">セイント・ビースト: 幾千の昼と夜 編</title>
     <title type="syn" xml:lang="zh-Hans">四圣兽-几千个昼夜</title>
   </anime>
   <anime aid="4445">
@@ -43839,9 +43840,9 @@
     <title type="official" xml:lang="ja">ラブリー・シリーズ</title>
   </anime>
   <anime aid="6465">
-    <title type="main" xml:lang="x-jat">Ookami to Kohaku-iro no Yuuutsu</title>
+    <title type="main" xml:lang="x-jat">Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu</title>
     <title type="official" xml:lang="en">Spice and Wolf: Wolf and Amber Melancholy</title>
-    <title type="official" xml:lang="ja">狼と琥珀色の憂鬱</title>
+    <title type="official" xml:lang="ja">狼と香辛料II 狼と琥珀色の憂鬱</title>
     <title type="short" xml:lang="en">SaW OVA</title>
     <title type="short" xml:lang="en">s&amp;w ova</title>
     <title type="syn" xml:lang="en">Spice and Wolf II OVA</title>
@@ -46929,9 +46930,11 @@
   <anime aid="7084">
     <title type="main" xml:lang="x-jat">Oz no Mahou Tsukai</title>
     <title type="official" xml:lang="en">The Wizard of Oz (1982)</title>
+    <title type="official" xml:lang="fi">Oz-maan taikuri</title>
     <title type="official" xml:lang="hu">Óz, a nagy varázsló</title>
     <title type="official" xml:lang="ja">オズの魔法使い</title>
     <title type="official" xml:lang="pl">Czarnoksiężnik z krainy OZ</title>
+    <title type="official" xml:lang="sv">Trollkarlen från Oz</title>
   </anime>
   <anime aid="7085">
     <title type="main" xml:lang="x-jat">Captain (1983)</title>
@@ -57746,6 +57749,7 @@
   <anime aid="9302">
     <title type="main" xml:lang="x-jat">Dakara Boku wa, H ga Dekinai. (2013)</title>
     <title type="official" xml:lang="ja">だから僕は, Hができない. (2013)</title>
+    <title type="syn" xml:lang="en">So, I Can`t Play H! (2013)</title>
   </anime>
   <anime aid="9304">
     <title type="main" xml:lang="x-jat">JoJo no Kimyou na Bouken (2012)</title>
@@ -58988,7 +58992,7 @@
     <title type="official" xml:lang="zh-Hans">狐仙的恋爱入门</title>
     <title type="short" xml:lang="ja">いなこん</title>
     <title type="short" xml:lang="x-jat">Inakon</title>
-    <title type="syn" xml:lang="x-unk">Inari Kon Kon</title>
+    <title type="syn" xml:lang="x-jat">Inari Kon Kon</title>
   </anime>
   <anime aid="9537">
     <title type="main" xml:lang="x-jat">Tenshi no Drop</title>
@@ -60445,6 +60449,7 @@
   <anime aid="9873">
     <title type="main" xml:lang="x-jat">Kamisama Hajimemashita (2013)</title>
     <title type="official" xml:lang="ja">神様はじめました (2013)</title>
+    <title type="syn" xml:lang="en">Kamisama Hajimemashita Kako-hen</title>
     <title type="syn" xml:lang="ja">神様はじめました ~過去編~</title>
   </anime>
   <anime aid="9874">
@@ -62409,7 +62414,7 @@
   <anime aid="10320">
     <title type="main" xml:lang="x-jat">Uchuu Kyoudai: Number Zero</title>
     <title type="official" xml:lang="ja">宇宙兄弟#0[ナンバー・ゼロ]</title>
-    <title type="syn" xml:lang="x-unk">Space Brothers #0</title>
+    <title type="syn" xml:lang="en">Space Brothers #0</title>
   </anime>
   <anime aid="10321">
     <title type="main" xml:lang="x-jat">Senki Zesshou Symphogear GX: Believe in Justice and Hold a Determination to Fist.</title>
@@ -68546,6 +68551,7 @@
     <title type="syn" xml:lang="en">fullmetal panic 2016</title>
     <title type="syn" xml:lang="ja">フルメタル・パニック! 4</title>
     <title type="syn" xml:lang="x-jat">Fullmetal Panic! 4</title>
+    <title type="syn" xml:lang="x-jat">Fullmetal Panic! Invisible Victory</title>
   </anime>
   <anime aid="11733">
     <title type="main" xml:lang="x-jat">Alice in Dreamland</title>
@@ -69361,7 +69367,7 @@
     <title type="main" xml:lang="x-jat">Udon no Kuni no Kin`iro Kemari</title>
     <title type="official" xml:lang="en">Poco`s Udon World</title>
     <title type="official" xml:lang="ja">うどんの国の金色毛鞠</title>
-    <title type="short" xml:lang="x-unk">udon kuni</title>
+    <title type="short" xml:lang="x-jat">udon kuni</title>
   </anime>
   <anime aid="11919">
     <title type="main" xml:lang="x-jat">Sore Ike! Anpanman: Omocha no Hoshi no Nanda to Runda</title>
@@ -69382,7 +69388,7 @@
     <title type="main" xml:lang="x-jat">Keijo!!!!!!!!</title>
     <title type="official" xml:lang="en">Keijo!!!!!!!!</title>
     <title type="official" xml:lang="ja">競女!!!!!!!!</title>
-    <title type="short" xml:lang="x-unk">keijo</title>
+    <title type="short" xml:lang="x-jat">keijo</title>
     <title type="syn" xml:lang="en">Hip Whip Girl</title>
     <title type="syn" xml:lang="ja">競女!!!!!!!!: HiP WHiP GiRL</title>
     <title type="syn" xml:lang="ru">Кэйджо!!!!!!!!</title>
@@ -69658,6 +69664,7 @@
   </anime>
   <anime aid="11985">
     <title type="main" xml:lang="x-jat">Urara Meirochou</title>
+    <title type="official" xml:lang="en">Urara Meirocho</title>
     <title type="official" xml:lang="ja">うらら迷路帖</title>
     <title type="official" xml:lang="x-kot">우라라 미로첩</title>
   </anime>
@@ -70103,6 +70110,7 @@
   </anime>
   <anime aid="12089">
     <title type="main" xml:lang="x-jat">Hirune Hime: Shiranai Watashi no Monogatari</title>
+    <title type="official" xml:lang="en">Ancien and the Magic Tablet</title>
     <title type="official" xml:lang="ja">ひるね姫 ~知らないワタシの物語~</title>
   </anime>
   <anime aid="12090">
@@ -70433,7 +70441,7 @@
     <title type="official" xml:lang="de">Izetta, Die Letzte Hexe</title>
     <title type="official" xml:lang="en">Izetta: The Last Witch</title>
     <title type="official" xml:lang="ja">終末のイゼッタ Izetta, Die Letzte Hexe</title>
-    <title type="short" xml:lang="x-unk">izetta</title>
+    <title type="short" xml:lang="x-jat">izetta</title>
     <title type="syn" xml:lang="ru">Изетта, последняя из ведьм</title>
   </anime>
   <anime aid="12202">
@@ -71212,6 +71220,7 @@
     <title type="main" xml:lang="x-jat">Akiba`s Trip The Animation</title>
     <title type="official" xml:lang="en">Akiba`s Trip the Animation</title>
     <title type="official" xml:lang="ja">AKIBA`S TRIP THE ANIMATION</title>
+    <title type="syn" xml:lang="en">Akibas Trip the Animation</title>
   </anime>
   <anime aid="12413">
     <title type="main" xml:lang="x-jat">Tanahashi Hiroshi X Mameshiba Pro Wrestling</title>
@@ -72388,6 +72397,8 @@
     <title type="main" xml:lang="x-jat">Forest Fairy Five</title>
     <title type="official" xml:lang="en">Forest Fairy Five</title>
     <title type="official" xml:lang="ja">FOREST FAIRY FIVE</title>
+    <title type="syn" xml:lang="ja">アニメちゃんに会える国</title>
+    <title type="syn" xml:lang="ja">森の妖精キノコの娘</title>
   </anime>
   <anime aid="12715">
     <title type="main" xml:lang="x-jat">Minna no Okayama-ken</title>
@@ -72475,6 +72486,31 @@
     <title type="main" xml:lang="x-jat">Tama Shichi!</title>
     <title type="official" xml:lang="ja">たましち!</title>
   </anime>
+  <anime aid="12737">
+    <title type="main" xml:lang="x-jat">Idol Time PriPara</title>
+    <title type="official" xml:lang="ja">アイドルタイムプリパラ</title>
+  </anime>
+  <anime aid="12738">
+    <title type="main" xml:lang="x-jat">Yoake Tsugeru Lu no Uta</title>
+    <title type="official" xml:lang="ja">夜明け告げるルーのうた</title>
+    <title type="syn" xml:lang="en">Lu over the Wall</title>
+  </anime>
+  <anime aid="12739">
+    <title type="main" xml:lang="x-zht">Shiyan Pin Jiating</title>
+    <title type="official" xml:lang="zh-Hans">實驗品家庭</title>
+  </anime>
+  <anime aid="12740">
+    <title type="main" xml:lang="x-jat">Yukai na Animal Bus</title>
+    <title type="official" xml:lang="ja">ゆかいなアニマルバス</title>
+  </anime>
+  <anime aid="12741">
+    <title type="main" xml:lang="x-jat">Mizuki Shigeru no Youkai World: Osorezan Monogatari</title>
+    <title type="official" xml:lang="ja">水木しげるの妖怪ワールド 恐山物語</title>
+  </anime>
+  <anime aid="12742">
+    <title type="main" xml:lang="x-jat">Tamashii: Insert</title>
+    <title type="official" xml:lang="ja">魂-INSERT-</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Wed Jan 18 03:00:17 2017 (10007 anime, 52461 titles) -->
+<!-- Created: Fri Jan 20 03:00:19 2017 (10013 anime, 52485 titles) -->

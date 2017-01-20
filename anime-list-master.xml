@@ -17300,7 +17300,7 @@
     <name>Lovely Series</name>
   </anime>
   <anime anidbid="6465" tvdbid="81178" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Ookami to Kohaku-iro no Yuuutsu</name>
+    <name>Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
     </mapping-list>
@@ -34286,5 +34286,23 @@
   </anime>
   <anime anidbid="12735" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tama Shichi!</name>
+  </anime>
+  <anime anidbid="12737" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Idol Time PriPara</name>
+  </anime>
+  <anime anidbid="12738" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yoake Tsugeru Lu no Uta</name>
+  </anime>
+  <anime anidbid="12739" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Shiyan Pin Jiating</name>
+  </anime>
+  <anime anidbid="12740" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yukai na Animal Bus</name>
+  </anime>
+  <anime anidbid="12741" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Mizuki Shigeru no Youkai World: Osorezan Monogatari</name>
+  </anime>
+  <anime anidbid="12742" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Tamashii: Insert</name>
   </anime>
 </anime-list>
