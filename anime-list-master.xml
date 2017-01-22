@@ -33370,7 +33370,7 @@
     <name>Idol Jihen</name>
   </anime>
   <anime anidbid="12402" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Star Beat: Hoshi no Kodou</name>
+    <name>Star Beat! Hoshi no Kodou</name>
   </anime>
   <anime anidbid="12403" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>King of Prism: Pride the Hero</name>
@@ -33972,9 +33972,6 @@
   <anime anidbid="12626" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Qin Shiming Yue 3D: Dianying Longteng Wanli</name>
   </anime>
-  <anime anidbid="12627" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Star Beat! Hoshi no Kodou</name>
-  </anime>
   <anime anidbid="12628" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Hashiri Hajimeta bakari no Kimi ni</name>
   </anime>
@@ -34304,5 +34301,11 @@
   </anime>
   <anime anidbid="12742" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tamashii: Insert</name>
+  </anime>
+  <anime anidbid="12743" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yuru Camp</name>
+  </anime>
+  <anime anidbid="12744" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Zekkyou Gakkyuu</name>
   </anime>
 </anime-list>

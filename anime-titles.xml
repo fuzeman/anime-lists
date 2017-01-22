@@ -16480,6 +16480,7 @@
     <title type="official" xml:lang="en">Sexfriend</title>
     <title type="official" xml:lang="ja">SEXFRIEND ~セックスフレンド~</title>
     <title type="syn" xml:lang="de">Sex Friend</title>
+    <title type="syn" xml:lang="fr">Sexfriend</title>
     <title type="syn" xml:lang="ko">섹스친구</title>
     <title type="syn" xml:lang="x-jat">Sex Friend</title>
     <title type="syn" xml:lang="x-jat">Sex Friends</title>
@@ -37851,6 +37852,7 @@
     <title type="official" xml:lang="de">Tutorial Lessons</title>
     <title type="official" xml:lang="en">Learning the Hard Way</title>
     <title type="official" xml:lang="ja">ドキドキ母娘レッスン~教えて♪Hなお勉強~</title>
+    <title type="syn" xml:lang="fr">Dokidoki Oyako Lesson: Cours d`éducation sexuels</title>
     <title type="syn" xml:lang="ko">두근두근 모녀 레슨</title>
     <title type="syn" xml:lang="x-jat">Dokidoki Haha Musume Lesson: Oshiete H na Obenkyou</title>
   </anime>
@@ -47588,6 +47590,7 @@
   <anime aid="7226">
     <title type="main" xml:lang="x-jat">Issho ni H Shiyo!</title>
     <title type="official" xml:lang="ja">一緒にHしよっ</title>
+    <title type="syn" xml:lang="fr">Faisons l`amour ensemble</title>
     <title type="syn" xml:lang="x-jat">Isshoni H Shiyo!</title>
   </anime>
   <anime aid="7227">
@@ -51447,6 +51450,7 @@
     <title type="main" xml:lang="x-jat">Ore wa Kanojo o Shinjiteru!</title>
     <title type="official" xml:lang="ja">俺は彼女を信じてる!</title>
     <title type="syn" xml:lang="en">I Trust My Girlfriend!</title>
+    <title type="syn" xml:lang="fr">J`ai confiance en ma copine!</title>
   </anime>
   <anime aid="7999">
     <title type="main" xml:lang="x-jat">Ichirin-sha</title>
@@ -68874,6 +68878,7 @@
     <title type="main" xml:lang="x-jat">JK to Ero Konbini Tenchou</title>
     <title type="official" xml:lang="ja">JKとエロコンビニ店長</title>
     <title type="syn" xml:lang="en">JK and the Convenience Store Manager</title>
+    <title type="syn" xml:lang="fr">Les lycéennes et le pervers manager de supérette</title>
   </anime>
   <anime aid="11803">
     <title type="main" xml:lang="x-jat">Mob Psycho 100</title>
@@ -71184,7 +71189,7 @@
     <title type="official" xml:lang="ja">アイドル事変</title>
   </anime>
   <anime aid="12402">
-    <title type="main" xml:lang="x-jat">Star Beat: Hoshi no Kodou</title>
+    <title type="main" xml:lang="x-jat">Star Beat! Hoshi no Kodou</title>
     <title type="official" xml:lang="ja">STAR BEAT! ~ホシノコドウ~</title>
   </anime>
   <anime aid="12403">
@@ -72046,10 +72051,6 @@
     <title type="main" xml:lang="x-zht">Qin Shiming Yue 3D: Dianying Longteng Wanli</title>
     <title type="official" xml:lang="zh">秦时明月3D电影龙腾万里</title>
   </anime>
-  <anime aid="12627">
-    <title type="main" xml:lang="x-jat">Star Beat! Hoshi no Kodou</title>
-    <title type="official" xml:lang="ja">STAR BEAT!〜ホシノコドウ〜</title>
-  </anime>
   <anime aid="12628">
     <title type="main" xml:lang="x-jat">Hashiri Hajimeta bakari no Kimi ni</title>
     <title type="official" xml:lang="ja">走り始めたばかりのキミに</title>
@@ -72511,6 +72512,16 @@
     <title type="main" xml:lang="x-jat">Tamashii: Insert</title>
     <title type="official" xml:lang="ja">魂-INSERT-</title>
   </anime>
+  <anime aid="12743">
+    <title type="main" xml:lang="x-jat">Yuru Camp</title>
+    <title type="official" xml:lang="ja">ゆるキャン△</title>
+    <title type="syn" xml:lang="x-jat">Yurucamp</title>
+    <title type="syn" xml:lang="x-jat">Yurukyan</title>
+  </anime>
+  <anime aid="12744">
+    <title type="main" xml:lang="x-jat">Zekkyou Gakkyuu</title>
+    <title type="official" xml:lang="ja">絶叫学級</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Fri Jan 20 03:00:19 2017 (10013 anime, 52485 titles) -->
+<!-- Created: Sun Jan 22 03:00:19 2017 (10014 anime, 52494 titles) -->
