@@ -62169,6 +62169,7 @@
   <anime aid="10263">
     <title type="main" xml:lang="x-jat">Kichiku: Oyako Choukyou Nikki</title>
     <title type="official" xml:lang="ja">鬼畜 ~母姉妹調教日記~</title>
+    <title type="syn" xml:lang="x-jat">Kichiku: Haha Shimai Choukyou Nikki</title>
   </anime>
   <anime aid="10267">
     <title type="main" xml:lang="x-jat">Trick or Alice</title>
@@ -67976,6 +67977,7 @@
   </anime>
   <anime aid="11597">
     <title type="main" xml:lang="x-jat">Granblue Fantasy The Animation</title>
+    <title type="official" xml:lang="en">Granblue Fantasy the Animation</title>
     <title type="official" xml:lang="ja">GRANBLUE FANTASY The Animation</title>
     <title type="syn" xml:lang="ja">グランブルーファンタジー</title>
   </anime>
@@ -70684,6 +70686,7 @@
   </anime>
   <anime aid="12262">
     <title type="main" xml:lang="x-jat">Bang Dream!</title>
+    <title type="official" xml:lang="en">Bang Dream</title>
     <title type="official" xml:lang="ja">BanG Dream!</title>
   </anime>
   <anime aid="12263">
@@ -70793,6 +70796,7 @@
     <title type="official" xml:lang="en">Gabriel Dropout</title>
     <title type="official" xml:lang="ja">ガヴリールドロップアウト</title>
     <title type="official" xml:lang="x-kot">가브릴 드롭아웃</title>
+    <title type="syn" xml:lang="ja">ガヴリール ドロップアウト</title>
   </anime>
   <anime aid="12291">
     <title type="main" xml:lang="x-jat">Chain Chronicle (2016)</title>
@@ -71302,6 +71306,7 @@
   </anime>
   <anime aid="12429">
     <title type="main" xml:lang="x-jat">Rewrite 2nd Season</title>
+    <title type="official" xml:lang="en">Rewrite 2nd Season</title>
     <title type="official" xml:lang="ja">Rewrite 2nd Season</title>
     <title type="short" xml:lang="x-jat">Rewrite S2</title>
     <title type="syn" xml:lang="ja">Rewrite 2nd Season Moon編 / Terra編</title>
@@ -71310,6 +71315,7 @@
   <anime aid="12430">
     <title type="main" xml:lang="x-jat">One Punch Man 2</title>
     <title type="official" xml:lang="ja">ONE PUNCH MAN ワンパンマン 2</title>
+    <title type="syn" xml:lang="bg">Уанпънч-мен 2</title>
   </anime>
   <anime aid="12431">
     <title type="main" xml:lang="x-jat">Orange: Mirai</title>
@@ -72522,6 +72528,42 @@
     <title type="main" xml:lang="x-jat">Zekkyou Gakkyuu</title>
     <title type="official" xml:lang="ja">絶叫学級</title>
   </anime>
+  <anime aid="12745">
+    <title type="main" xml:lang="x-jat">Puripuri Chii-chan!!</title>
+    <title type="official" xml:lang="ja">プリプリちぃちゃん!!</title>
+  </anime>
+  <anime aid="12746">
+    <title type="main" xml:lang="x-jat">Action Heroine Cheer Fruits</title>
+    <title type="official" xml:lang="ja">アクションヒロイン チアフルーツ</title>
+  </anime>
+  <anime aid="12747">
+    <title type="main" xml:lang="x-zht">Xiyou ji Zhi da Sheng Gualai</title>
+    <title type="official" xml:lang="zh">西游记之大圣归来</title>
+  </anime>
+  <anime aid="12748">
+    <title type="main" xml:lang="x-jat">Kenka no Ato wa</title>
+    <title type="official" xml:lang="ja">ケンカのあとは</title>
+  </anime>
+  <anime aid="12749">
+    <title type="main" xml:lang="x-jat">Itsumademo Tabibito</title>
+    <title type="official" xml:lang="ja">いつまでも旅人</title>
+  </anime>
+  <anime aid="12750">
+    <title type="main" xml:lang="x-jat">Fuyu no Yoru no Ohanashi</title>
+    <title type="official" xml:lang="ja">冬の夜のおはなし</title>
+  </anime>
+  <anime aid="12751">
+    <title type="main" xml:lang="x-jat">Hikaru Genji: Paradise Ginga</title>
+    <title type="official" xml:lang="ja">光GENJI パラダイス銀河</title>
+  </anime>
+  <anime aid="12752">
+    <title type="main" xml:lang="x-jat">Obaa-chan no Takaramono</title>
+    <title type="official" xml:lang="ja">おばあちゃんの宝もの</title>
+  </anime>
+  <anime aid="12753">
+    <title type="main" xml:lang="x-jat">Sonna Boku ga Suki</title>
+    <title type="official" xml:lang="ja">そんなぼくがすき</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Sun Jan 22 03:00:19 2017 (10014 anime, 52494 titles) -->
+<!-- Created: Tue Jan 24 03:00:17 2017 (10023 anime, 52518 titles) -->
