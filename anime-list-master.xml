@@ -152,7 +152,7 @@
   <anime anidbid="35" tvdbid="70861" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Love Hina</name>
     <mapping-list>
-        <mapping anidbseason="0" tvdbseason="1">;1-25;</mapping>
+      <mapping anidbseason="0" tvdbseason="1">;1-25;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>XEBEC</studio>
@@ -206,7 +206,7 @@
   <anime anidbid="49" tvdbid="70861" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Love Hina Again</name>
     <mapping-list>
-        <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;3-7;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;2-6;3-7;</mapping>
     </mapping-list>
     <supplemental-info>
       <studio>XEBEC</studio>
@@ -17370,8 +17370,8 @@
   <anime anidbid="6489" tvdbid="305488" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Mahou Sensei Negima! Mou Hitotsu no Sekai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-8;4-9;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-10;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;3-8;4-9;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="6491" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
@@ -23803,8 +23803,8 @@
   <anime anidbid="8694" tvdbid="83322" defaulttvdbseason="0" episodeoffset="" imdbid="tt3163844" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gekijouban Toaru Majutsu no Index: Endymion no Kiseki</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8695" tvdbid="83348" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -27356,8 +27356,8 @@
   <anime anidbid="10009" tvdbid="262098" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-34;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-35;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-34;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10010" tvdbid="272310" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -28111,7 +28111,7 @@
   <anime anidbid="10314" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Yuki no Taiyou</name>
   </anime>
-  <anime anidbid="10315" tvdbid="280853" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
+  <anime anidbid="10315" tvdbid="280853" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Mou Hitotsu no Mirai o.</name>
   </anime>
   <anime anidbid="10317" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
