@@ -13937,6 +13937,8 @@
     <title type="official" xml:lang="ja">超時空世紀オーガス02</title>
     <title type="official" xml:lang="sv">Orguss 02</title>
     <title type="short" xml:lang="x-jat">orguss ova</title>
+    <title type="syn" xml:lang="ja">ORGUSS 02</title>
+    <title type="syn" xml:lang="ja">SUPER DIMENSION CENTURY ORGUSS TWO</title>
     <title type="syn" xml:lang="ru">Оргусс 2</title>
     <title type="syn" xml:lang="x-jat">Orguss 02</title>
     <title type="syn" xml:lang="x-jat">Orguss2</title>
@@ -59678,7 +59680,6 @@
     <title type="official" xml:lang="fr">Log Horizon</title>
     <title type="official" xml:lang="ja">ログ・ホライズン</title>
     <title type="official" xml:lang="zh-Hans">记录的地平线</title>
-    <title type="syn" xml:lang="en">database</title>
   </anime>
   <anime aid="9678">
     <title type="main" xml:lang="x-jat">Futari wa Milky Holmes</title>
@@ -61088,6 +61089,7 @@
     <title type="official" xml:lang="ja">精霊使いの剣舞</title>
     <title type="official" xml:lang="zh-Hans">精灵使的剑舞</title>
     <title type="syn" xml:lang="ar">رقصة سيوف مستخدمي الارواح</title>
+    <title type="syn" xml:lang="x-jat">Seirei Tsukai no Kenbu</title>
   </anime>
   <anime aid="10000">
     <title type="main" xml:lang="x-jat">Heisei no Cinderella: Kiko-sama Monogatari</title>
@@ -63351,7 +63353,6 @@
     <title type="official" xml:lang="ja">ログ・ホライズン (2014)</title>
     <title type="official" xml:lang="nl">Log Horizon 2</title>
     <title type="official" xml:lang="zh-Hans">记录的地平线 (2014)</title>
-    <title type="syn" xml:lang="en">database 2</title>
     <title type="syn" xml:lang="en">Log Horizon II</title>
   </anime>
   <anime aid="10553">
@@ -70848,6 +70849,7 @@
   <anime aid="12306">
     <title type="main" xml:lang="x-jat">Imouto to Sono Yuujin ga Ero Sugite Ore no Kokan ga Yabai</title>
     <title type="official" xml:lang="ja">妹とその友人がエロすぎて俺の股間がヤバイ</title>
+    <title type="syn" xml:lang="en">My little sister and her friend are too erotic, my dick won`t go down!</title>
   </anime>
   <anime aid="12307">
     <title type="main" xml:lang="x-jat">Soul Buster: Shousei Ran</title>
@@ -72564,6 +72566,14 @@
     <title type="main" xml:lang="x-jat">Sonna Boku ga Suki</title>
     <title type="official" xml:lang="ja">そんなぼくがすき</title>
   </anime>
+  <anime aid="12754">
+    <title type="main" xml:lang="x-jat">Bishoujo Senshi Sailor Moon Crystal (Zokuhen)</title>
+    <title type="official" xml:lang="ja">美少女戦士セーラームーン Crystal (続編)</title>
+  </anime>
+  <anime aid="12755">
+    <title type="main" xml:lang="x-jat">Zo Zo Zo Zombie-kun</title>
+    <title type="official" xml:lang="ja">ゾゾゾ ゾンビーくん</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Tue Jan 24 03:00:17 2017 (10023 anime, 52518 titles) -->
+<!-- Created: Thu Jan 26 03:00:19 2017 (10025 anime, 52524 titles) -->
