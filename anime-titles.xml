@@ -68784,8 +68784,8 @@
     <title type="official" xml:lang="ja">私たち, らくろじ部!</title>
   </anime>
   <anime aid="11782">
-    <title type="main" xml:lang="x-jat">Blame! (Kari)</title>
-    <title type="official" xml:lang="ja">BLAME! (仮)</title>
+    <title type="main" xml:lang="x-jat">Blame! (2017)</title>
+    <title type="official" xml:lang="ja">BLAME! (2017)</title>
   </anime>
   <anime aid="11783">
     <title type="main" xml:lang="x-jat">Tanaka-kun wa Itsumo Kedaruge</title>
@@ -71982,6 +71982,7 @@
   <anime aid="12603">
     <title type="main" xml:lang="x-jat">Death March kara Hajimaru Isekai Kyousoukyoku</title>
     <title type="official" xml:lang="ja">デスマーチからはじまる異世界狂想曲</title>
+    <title type="short" xml:lang="x-jat">Desumachi</title>
     <title type="syn" xml:lang="en">Death March to the Parallel World Rhapsody</title>
   </anime>
   <anime aid="12605">
@@ -72540,7 +72541,10 @@
   </anime>
   <anime aid="12747">
     <title type="main" xml:lang="x-zht">Xiyou ji Zhi da Sheng Gualai</title>
+    <title type="official" xml:lang="en">Monkey King: Hero Is Back</title>
     <title type="official" xml:lang="zh">西游记之大圣归来</title>
+    <title type="syn" xml:lang="en">CUG: King of Heroes</title>
+    <title type="syn" xml:lang="zh">Xi you ji zhi da sheng gui lai</title>
   </anime>
   <anime aid="12748">
     <title type="main" xml:lang="x-jat">Kenka no Ato wa</title>
@@ -72574,6 +72578,29 @@
     <title type="main" xml:lang="x-jat">Zo Zo Zo Zombie-kun</title>
     <title type="official" xml:lang="ja">ゾゾゾ ゾンビーくん</title>
   </anime>
+  <anime aid="12756">
+    <title type="main" xml:lang="x-jat">Sakura Internet</title>
+    <title type="official" xml:lang="ja">SAKURA internet</title>
+    <title type="syn" xml:lang="ja">さくらインターネット 新生</title>
+    <title type="syn" xml:lang="ja">さくらインターネット新生</title>
+    <title type="syn" xml:lang="x-jat">Sakura Internet Shinsei</title>
+  </anime>
+  <anime aid="12757">
+    <title type="main" xml:lang="x-jat">Gekijouban Mazinger Z</title>
+    <title type="official" xml:lang="ja">劇場版マジンガーZ</title>
+  </anime>
+  <anime aid="12758">
+    <title type="main" xml:lang="x-jat">Seiso de Majime na Kanojo ga, Saikyou Yaricir ni Kanyuu Saretara...? The Animation</title>
+    <title type="official" xml:lang="ja">清楚で真面目な彼女が, 最凶ヤリサーに勧誘されたら...? THE ANIMATION</title>
+  </anime>
+  <anime aid="12760">
+    <title type="main" xml:lang="x-jat">Souryo to Majiwaru Shikiyoku no Yoru ni...</title>
+    <title type="official" xml:lang="ja">僧侶と交わる色欲の夜に...</title>
+  </anime>
+  <anime aid="12761">
+    <title type="main" xml:lang="x-jat">Tsuki ga Kirei</title>
+    <title type="official" xml:lang="ja">月がきれい</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Thu Jan 26 03:00:19 2017 (10025 anime, 52524 titles) -->
+<!-- Created: Sat Jan 28 03:00:21 2017 (10030 anime, 52541 titles) -->
