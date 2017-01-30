@@ -149,6 +149,7 @@
     <title type="syn" xml:lang="en">Bastard! Destroyer of Darkness</title>
     <title type="syn" xml:lang="it">Bastard!! L`oscuro distruttore</title>
     <title type="syn" xml:lang="ja">バスタード!! 暗黒の破壊神</title>
+    <title type="syn" xml:lang="ru">Ублюдок!! Сокрушитель Тьмы</title>
     <title type="syn" xml:lang="zh-Hans">暗黑破坏神</title>
   </anime>
   <anime aid="11">
@@ -21582,7 +21583,7 @@
     <title type="main" xml:lang="x-jat">Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone</title>
     <title type="official" xml:lang="ar">فلونة</title>
     <title type="official" xml:lang="de">Familie Robinson</title>
-    <title type="official" xml:lang="en">Robinson Family Lost at Sea - Flone of the Marvelous Island</title>
+    <title type="official" xml:lang="en">Swiss Family Robinson</title>
     <title type="official" xml:lang="es">La familia Robinson</title>
     <title type="official" xml:lang="fa">خانواده دکتر اِرنِست</title>
     <title type="official" xml:lang="fr">Flo et les Robinson suisses</title>
@@ -21593,7 +21594,7 @@
     <title type="official" xml:lang="pt">A Família Robinson</title>
     <title type="official" xml:lang="ru">Флона на чудесном острове</title>
     <title type="syn" xml:lang="de">Die schweizer Familie Robinson</title>
-    <title type="syn" xml:lang="en">Swiss Family Robinson</title>
+    <title type="syn" xml:lang="en">Robinson Family Lost at Sea: Flone of the Marvelous Island</title>
     <title type="syn" xml:lang="x-jat">Fushigi na Shima no Flone</title>
   </anime>
   <anime aid="2303">
@@ -66678,8 +66679,9 @@
     <title type="official" xml:lang="ja">DD北斗の拳2 イチゴ味+</title>
   </anime>
   <anime aid="11290">
-    <title type="main" xml:lang="x-jat">Toshi Densetsu Series</title>
+    <title type="main" xml:lang="x-jat">Toshidensetsu Series</title>
     <title type="official" xml:lang="ja">都市伝説シリーズ</title>
+    <title type="syn" xml:lang="x-jat">Toshi Densetsu Series</title>
   </anime>
   <anime aid="11291">
     <title type="main" xml:lang="x-jat">Beyblade Burst</title>
@@ -67545,6 +67547,7 @@
     <title type="official" xml:lang="en">Minami Kamakura High School Girls Cycling Club</title>
     <title type="official" xml:lang="ja">南鎌倉高校女子自転車部</title>
     <title type="official" xml:lang="x-kot">남 가마쿠라고교 여자자전거부</title>
+    <title type="short" xml:lang="x-jat">Minakama</title>
   </anime>
   <anime aid="11493">
     <title type="main" xml:lang="x-jat">Terra Formars: Revenge</title>
@@ -70983,6 +70986,7 @@
   </anime>
   <anime aid="12338">
     <title type="main" xml:lang="en">Hifuu Club Activity Record - The Sealed Esoteric History</title>
+    <title type="official" xml:lang="ja">秘封活動記録</title>
     <title type="official" xml:lang="zh-Hant">馒头卡字幕组-秘封活动记录</title>
   </anime>
   <anime aid="12339">
@@ -72601,6 +72605,23 @@
     <title type="main" xml:lang="x-jat">Tsuki ga Kirei</title>
     <title type="official" xml:lang="ja">月がきれい</title>
   </anime>
+  <anime aid="12762">
+    <title type="main" xml:lang="x-jat">Keppeki Danshi! Aoyama-kun</title>
+    <title type="official" xml:lang="ja">潔癖男子! 青山くん</title>
+    <title type="syn" xml:lang="en">Cleanliness Boy! Aoyama-kun</title>
+  </anime>
+  <anime aid="12763">
+    <title type="main" xml:lang="x-jat">Dance with Devils: Fortuna</title>
+    <title type="official" xml:lang="ja">Dance with Devils -Fortuna-</title>
+  </anime>
+  <anime aid="12764">
+    <title type="main" xml:lang="x-jat">Macross (2018)</title>
+    <title type="official" xml:lang="ja">マクロス (2018)</title>
+  </anime>
+  <anime aid="12765">
+    <title type="main" xml:lang="x-jat">McDonald`s "Mirai no Watashi"-hen</title>
+    <title type="official" xml:lang="ja">マクドナルド「未来のワタシ」篇</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Sat Jan 28 03:00:21 2017 (10030 anime, 52541 titles) -->
+<!-- Created: Mon Jan 30 03:00:18 2017 (10034 anime, 52554 titles) -->
