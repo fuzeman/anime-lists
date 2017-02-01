@@ -39706,6 +39706,7 @@
   </anime>
   <anime aid="5553">
     <title type="main" xml:lang="x-jat">Watt Poe to Bokura no Ohanashi</title>
+    <title type="official" xml:lang="ar">بحيرة الحوت</title>
     <title type="official" xml:lang="fr">Watt Poe</title>
     <title type="official" xml:lang="ja">ワット・ポーとぼくらのお話</title>
   </anime>
@@ -62106,9 +62107,9 @@
   </anime>
   <anime aid="10246">
     <title type="main" xml:lang="x-kot">Card Wang Mix Master</title>
+    <title type="official" xml:lang="en">Mix Master: King of Cards</title>
     <title type="official" xml:lang="ko">카드왕 믹스 마스터</title>
     <title type="official" xml:lang="pt">Mix Master</title>
-    <title type="syn" xml:lang="en">Mix Master: King of Cards</title>
     <title type="syn" xml:lang="ja">カードおう ミックスマスター</title>
     <title type="syn" xml:lang="ja">カード王 ミックスマスター</title>
     <title type="syn" xml:lang="x-jat">Card Ou Mix Master</title>
@@ -62457,6 +62458,7 @@
   </anime>
   <anime aid="10329">
     <title type="main" xml:lang="x-jat">IS: Infinite Stratos 2 - World Purge Hen</title>
+    <title type="official" xml:lang="en">IS: Infinite Stratos 2 - World Purge</title>
     <title type="official" xml:lang="ja">IS&amp;lt;インフィニット・ストラトス&amp;gt; 2 ワールド・パージ編</title>
   </anime>
   <anime aid="10330">
@@ -69818,8 +69820,8 @@
     <title type="official" xml:lang="ja">猫も, オンダケ</title>
   </anime>
   <anime aid="12018">
-    <title type="main" xml:lang="x-jat">Luck and Logic 2</title>
-    <title type="official" xml:lang="ja">ラクエンロジック 2</title>
+    <title type="main" xml:lang="x-jat">Hina Logi: From Luck &amp; Logic</title>
+    <title type="official" xml:lang="ja">ひなろじ~from Luck &amp; Logic~</title>
   </anime>
   <anime aid="12019">
     <title type="main" xml:lang="x-jat">Cheer Danshi!!</title>
@@ -72622,6 +72624,65 @@
     <title type="main" xml:lang="x-jat">McDonald`s "Mirai no Watashi"-hen</title>
     <title type="official" xml:lang="ja">マクドナルド「未来のワタシ」篇</title>
   </anime>
+  <anime aid="12766">
+    <title type="main" xml:lang="x-jat">Future Card Buddyfight (2017)</title>
+    <title type="official" xml:lang="ja">フューチャーカード バディファイト (2017)</title>
+  </anime>
+  <anime aid="12767">
+    <title type="main" xml:lang="x-jat">Crayon Shin-chan Gaiden: Kazokuzure Ookami</title>
+    <title type="official" xml:lang="ja">クレヨンしんちゃん外伝 家族連れ狼</title>
+  </anime>
+  <anime aid="12768">
+    <title type="main" xml:lang="x-jat">Sowa Sowa Calendar</title>
+    <title type="official" xml:lang="ja">そわそわカレンダー</title>
+  </anime>
+  <anime aid="12769">
+    <title type="main" xml:lang="x-jat">Minami no Kuni kara Kita Tegami</title>
+    <title type="official" xml:lang="ja">南の国から来た手紙</title>
+  </anime>
+  <anime aid="12770">
+    <title type="main" xml:lang="x-jat">Hikaru Genji: Taiyou ga Ippai</title>
+    <title type="official" xml:lang="ja">光GENJI 太陽がいっぱい</title>
+  </anime>
+  <anime aid="12771">
+    <title type="main" xml:lang="x-jat">Metropolitan Museum</title>
+    <title type="official" xml:lang="ja">メトロポリタンミュージアム</title>
+  </anime>
+  <anime aid="12772">
+    <title type="main" xml:lang="x-jat">Popful Mail</title>
+    <title type="official" xml:lang="ja">ぽっぷるメイル</title>
+  </anime>
+  <anime aid="12773">
+    <title type="main" xml:lang="x-jat">Mizutori</title>
+    <title type="official" xml:lang="ja">水鳥</title>
+  </anime>
+  <anime aid="12774">
+    <title type="main" xml:lang="x-jat">Egao ni Dai Sekkin</title>
+    <title type="official" xml:lang="ja">笑顔に大接近</title>
+  </anime>
+  <anime aid="12775">
+    <title type="main" xml:lang="x-jat">Chiisana Kinomi</title>
+    <title type="official" xml:lang="ja">小さな木の実</title>
+  </anime>
+  <anime aid="12776">
+    <title type="main" xml:lang="x-kot">Haetnim wangjawa dalnim gongju</title>
+    <title type="official" xml:lang="ko">햇님 왕자와 달님 공주</title>
+  </anime>
+  <anime aid="12777">
+    <title type="main" xml:lang="en">The Queen of the Swallows</title>
+  </anime>
+  <anime aid="12778">
+    <title type="main" xml:lang="x-zht">Yaoguai Mingdan</title>
+    <title type="official" xml:lang="zh">妖怪名单</title>
+  </anime>
+  <anime aid="12779">
+    <title type="main" xml:lang="x-jat">Sagaken o Meguru Animation (2017)</title>
+    <title type="official" xml:lang="ja">佐賀県を巡るアニメーション (2017)</title>
+  </anime>
+  <anime aid="12781">
+    <title type="main" xml:lang="x-jat">Sanrio Danshi</title>
+    <title type="official" xml:lang="ja">サンリオ男子</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Mon Jan 30 03:00:18 2017 (10034 anime, 52554 titles) -->
+<!-- Created: Wed Feb  1 03:00:17 2017 (10049 anime, 52585 titles) -->
