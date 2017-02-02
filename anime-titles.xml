@@ -9619,6 +9619,7 @@
     <title type="official" xml:lang="ja">幽幻怪社</title>
     <title type="official" xml:lang="sv">Phantom Quest Corp.</title>
     <title type="short" xml:lang="en">PQC</title>
+    <title type="syn" xml:lang="ru">Компания по борьбе с духами</title>
   </anime>
   <anime aid="829">
     <title type="main" xml:lang="x-jat">Bible Black Gaiden</title>
@@ -72683,6 +72684,38 @@
     <title type="main" xml:lang="x-jat">Sanrio Danshi</title>
     <title type="official" xml:lang="ja">サンリオ男子</title>
   </anime>
+  <anime aid="12782">
+    <title type="main" xml:lang="x-jat">Message Song</title>
+    <title type="official" xml:lang="ja">メッセージ・ソング</title>
+  </anime>
+  <anime aid="12783">
+    <title type="main" xml:lang="x-jat">Ano Koro no Namida wa</title>
+    <title type="official" xml:lang="ja">あの頃のなみだは</title>
+  </anime>
+  <anime aid="12784">
+    <title type="main" xml:lang="x-jat">Otoshidama</title>
+    <title type="official" xml:lang="ja">お年玉</title>
+  </anime>
+  <anime aid="12785">
+    <title type="main" xml:lang="x-jat">Torikaekko Please</title>
+    <title type="official" xml:lang="ja">とりかえっこプリーズ</title>
+  </anime>
+  <anime aid="12786">
+    <title type="main" xml:lang="x-jat">Bokura Machi Bouzu!</title>
+    <title type="official" xml:lang="ja">ぼくらまちボウズ！</title>
+  </anime>
+  <anime aid="12787">
+    <title type="main" xml:lang="x-jat">Instant Music</title>
+    <title type="official" xml:lang="ja">インスタント ミュージック</title>
+  </anime>
+  <anime aid="12788">
+    <title type="main" xml:lang="x-jat">Rusty Nail</title>
+    <title type="official" xml:lang="ja">Rusty Nail</title>
+  </anime>
+  <anime aid="12789">
+    <title type="main" xml:lang="x-jat">Pikaia!!</title>
+    <title type="official" xml:lang="ja">ピカイア!!</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Wed Feb  1 03:00:17 2017 (10049 anime, 52585 titles) -->
+<!-- Created: Thu Feb  2 03:00:23 2017 (10057 anime, 52602 titles) -->
