@@ -129,13 +129,13 @@
   </anime>
   <anime aid="9">
     <title type="main" xml:lang="x-jat">Chiccha na Yuki Tsukai Sugar</title>
-    <title type="official" xml:lang="en">Sugar: A Little Snow Fairy</title>
+    <title type="official" xml:lang="en">A Little Snow Fairy Sugar</title>
     <title type="official" xml:lang="ja">ちっちゃな雪使いシュガー</title>
     <title type="short" xml:lang="en">ALSFS</title>
     <title type="short" xml:lang="en">TSFS</title>
     <title type="short" xml:lang="x-jat">sugar</title>
     <title type="syn" xml:lang="bg">Малката снежна фея Шугър</title>
-    <title type="syn" xml:lang="en">A Little Snow Fairy Sugar</title>
+    <title type="syn" xml:lang="en">Sugar: A Little Snow Fairy</title>
     <title type="syn" xml:lang="en">Tiny Little Snow Fairy Sugar</title>
     <title type="syn" xml:lang="en">Tiny Snow Fairy Sugar</title>
     <title type="syn" xml:lang="pt-BR">Fadinha de Neve Sugar</title>
@@ -10133,6 +10133,7 @@
   <anime aid="892">
     <title type="main" xml:lang="x-jat">Ai Tenshi Densetsu Wedding Peach DX</title>
     <title type="official" xml:lang="de">Wedding Peach DX</title>
+    <title type="official" xml:lang="en">Wedding Peach DX</title>
     <title type="official" xml:lang="ja">愛天使伝説 ウェディングピーチDX</title>
     <title type="official" xml:lang="ko">웨딩 피치 DX</title>
     <title type="short" xml:lang="x-jat">Wedding Peach Deluxe</title>
@@ -13056,6 +13057,7 @@
   </anime>
   <anime aid="1209">
     <title type="main" xml:lang="x-jat">Gun Frontier</title>
+    <title type="official" xml:lang="en">Gun Frontier</title>
     <title type="official" xml:lang="es-LA">Frontera sin ley</title>
     <title type="official" xml:lang="fr">Gun Frontier</title>
     <title type="official" xml:lang="ja">GUN FRONTIER</title>
@@ -17101,9 +17103,9 @@
   </anime>
   <anime aid="1731">
     <title type="main" xml:lang="x-jat">Spotlight</title>
+    <title type="official" xml:lang="en">Spotlight</title>
     <title type="official" xml:lang="ja">スポットライト</title>
     <title type="syn" xml:lang="en">Between the Realms of Desire &amp; Envy</title>
-    <title type="syn" xml:lang="en">Spotlight</title>
     <title type="syn" xml:lang="en">You`re My Treasure</title>
   </anime>
   <anime aid="1732">
@@ -17391,6 +17393,7 @@
   </anime>
   <anime aid="1773">
     <title type="main" xml:lang="x-jat">Eat-Man</title>
+    <title type="official" xml:lang="en">Eat-Man</title>
     <title type="official" xml:lang="fr">Eat-man</title>
     <title type="official" xml:lang="he">איטמן</title>
     <title type="official" xml:lang="it">Eat-Man</title>
@@ -24877,7 +24880,7 @@
   </anime>
   <anime aid="2784">
     <title type="main" xml:lang="x-jat">Tenjou Tenge (2005)</title>
-    <title type="official" xml:lang="en">Tenjou Tenge: Ultimate Fight</title>
+    <title type="official" xml:lang="en">Tenjho Tenge: Ultimate Fight</title>
     <title type="official" xml:lang="fr">Enfer et paradis - OAV</title>
     <title type="official" xml:lang="ja">天上天下 (2005)</title>
     <title type="short" xml:lang="x-jat">tenten ova</title>
@@ -26274,7 +26277,7 @@
     <title type="short" xml:lang="x-jat">Touch Movie 5</title>
   </anime>
   <anime aid="3064">
-    <title type="main" xml:lang="x-jat">Koume-chan ga Iku!</title>
+    <title type="main" xml:lang="x-jat">Koume-chan ga Iku!!</title>
     <title type="official" xml:lang="ja">小梅ちゃんが行く!!</title>
   </anime>
   <anime aid="3065">
@@ -48066,8 +48069,9 @@
   </anime>
   <anime aid="7300">
     <title type="main" xml:lang="x-jat">Chiccha na Yuki Tsukai Sugar Tokubetsu Hen</title>
-    <title type="official" xml:lang="en">Sugar: A Little Snow Fairy Special</title>
+    <title type="official" xml:lang="en">A Little Snow Fairy Sugar Special</title>
     <title type="official" xml:lang="ja">ちっちゃな雪使いシュガー 特別編</title>
+    <title type="syn" xml:lang="en">Sugar: A Little Snow Fairy Special</title>
     <title type="syn" xml:lang="en">Tiny Snow Fairy Sugar - Summer Special</title>
   </anime>
   <anime aid="7301">
@@ -51949,6 +51953,7 @@
     <title type="official" xml:lang="zh-Hans">幻想嘉年华</title>
     <title type="official" xml:lang="zh-Hant">幻想嘉年華</title>
     <title type="official" xml:lang="zh-x-nan">幻想嘉年華</title>
+    <title type="syn" xml:lang="en">Carnival Phantasm</title>
     <title type="syn" xml:lang="ja">カーニバル・ファンタズム</title>
   </anime>
   <anime aid="8103">
@@ -54353,6 +54358,7 @@
     <title type="main" xml:lang="x-jat">Amagami SS Plus</title>
     <title type="official" xml:lang="en">Amagami SS +Plus</title>
     <title type="official" xml:lang="ja">アマガミSS+ plus</title>
+    <title type="syn" xml:lang="en">Amagami SS+</title>
     <title type="syn" xml:lang="x-jat">Amagami SS+</title>
   </anime>
   <anime aid="8574">
@@ -58199,12 +58205,13 @@
   </anime>
   <anime aid="9387">
     <title type="main" xml:lang="x-jat">Nagi no Asukara</title>
-    <title type="official" xml:lang="en">Nagi-Asu: A Lull in the Sea</title>
+    <title type="official" xml:lang="en">A Lull in the Sea</title>
     <title type="official" xml:lang="fr">Nagi no Asukara</title>
     <title type="official" xml:lang="ja">凪のあすから</title>
     <title type="official" xml:lang="zh-Hans">来自风平浪静的明天</title>
     <title type="short" xml:lang="x-jat">nagiasu</title>
     <title type="syn" xml:lang="en">Earth color of a calm</title>
+    <title type="syn" xml:lang="en">Nagi-Asu: A Lull in the Sea</title>
   </anime>
   <anime aid="9388">
     <title type="main" xml:lang="x-jat">Unsweet: Netorare Ochita Onna-tachi</title>
@@ -62486,7 +62493,7 @@
   </anime>
   <anime aid="10351">
     <title type="main" xml:lang="x-jat">Hanayamata</title>
-    <title type="official" xml:lang="en">HaNaYaMaTa</title>
+    <title type="official" xml:lang="en">Hanayamata</title>
     <title type="official" xml:lang="fr">HaNaYaMaTa</title>
     <title type="official" xml:lang="ja">ハナヤマタ</title>
     <title type="syn" xml:lang="ja">花八岐</title>
@@ -65921,6 +65928,7 @@
   </anime>
   <anime aid="11121">
     <title type="main" xml:lang="x-jat">Triage X: Recollection XOXO</title>
+    <title type="official" xml:lang="en">Triage X: Recollection XOXO</title>
     <title type="official" xml:lang="ja">トリアージX RECOLLECTION XOXO</title>
   </anime>
   <anime aid="11122">
@@ -68560,6 +68568,7 @@
     <title type="main" xml:lang="x-jat">Fullmetal Panic! IV</title>
     <title type="official" xml:lang="ja">フルメタル・パニック! IV</title>
     <title type="short" xml:lang="en">fmp3</title>
+    <title type="short" xml:lang="x-jat">fmp 2017</title>
     <title type="short" xml:lang="x-jat">fmp IV</title>
     <title type="syn" xml:lang="en">fullmetal panic 2016</title>
     <title type="syn" xml:lang="ja">フルメタル・パニック! 4</title>
@@ -71238,6 +71247,7 @@
     <title type="main" xml:lang="x-jat">Akiba`s Trip The Animation</title>
     <title type="official" xml:lang="en">Akiba`s Trip the Animation</title>
     <title type="official" xml:lang="ja">AKIBA`S TRIP THE ANIMATION</title>
+    <title type="short" xml:lang="x-unk">Akiba`s Trip</title>
     <title type="syn" xml:lang="en">Akibas Trip the Animation</title>
   </anime>
   <anime aid="12413">
@@ -72718,4 +72728,4 @@
   </anime>
 </animetitles>
 
-<!-- Created: Thu Feb  2 03:00:23 2017 (10057 anime, 52602 titles) -->
+<!-- Created: Sat Feb  4 03:00:19 2017 (10057 anime, 52612 titles) -->
