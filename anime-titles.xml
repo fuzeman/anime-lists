@@ -2447,7 +2447,7 @@
     <title type="main" xml:lang="x-jat">Kyuuketsuki Miyu</title>
     <title type="official" xml:lang="ca">Miyu, la princesa vampir</title>
     <title type="official" xml:lang="de">Vampire Princess Miyu</title>
-    <title type="official" xml:lang="en">Vampire Princess Miyu (OVA)</title>
+    <title type="official" xml:lang="en">Vampire Princess Miyu</title>
     <title type="official" xml:lang="fr">Vampire princesse Miyu</title>
     <title type="official" xml:lang="ja">吸血姫美夕</title>
     <title type="official" xml:lang="pl">Vampire Princess</title>
@@ -2917,7 +2917,7 @@
   <anime aid="208">
     <title type="main" xml:lang="x-jat">El-Hazard: The Magnificent World</title>
     <title type="official" xml:lang="de">El Hazard</title>
-    <title type="official" xml:lang="en">El Hazard: The Magnificent World</title>
+    <title type="official" xml:lang="en">El-Hazard: The Magnificent World</title>
     <title type="official" xml:lang="fr">El Hazard - Le monde magnifique</title>
     <title type="official" xml:lang="it">El-Hazard: The Magnificent World</title>
     <title type="official" xml:lang="ja">EL-HAZARD The Magnificent World</title>
@@ -5309,7 +5309,7 @@
   </anime>
   <anime aid="391">
     <title type="main" xml:lang="x-jat">Kyuuketsuki Miyu (1997)</title>
-    <title type="official" xml:lang="en">Vampire Princess Miyu (TV)</title>
+    <title type="official" xml:lang="en">Vampire Princess Miyu (1997)</title>
     <title type="official" xml:lang="ja">吸血姫美夕 (1997)</title>
     <title type="short" xml:lang="x-jat">Miyu tv</title>
     <title type="syn" xml:lang="zh-Hans">吸血姬美夕</title>
@@ -11537,10 +11537,11 @@
   <anime aid="1032">
     <title type="main" xml:lang="x-jat">Dirty Pair: Project EDEN</title>
     <title type="official" xml:lang="de">Dirty Pair: Projekt E.D.E.N.</title>
-    <title type="official" xml:lang="en">Original Dirty Pair: Project EDEN</title>
+    <title type="official" xml:lang="en">Dirty Pair: Project Eden</title>
     <title type="official" xml:lang="fr">Dirty Pair - Projet Eden</title>
     <title type="official" xml:lang="ja">ダーティペア the Movie</title>
     <title type="syn" xml:lang="en">Dirty Pair Project E.D.E.N.</title>
+    <title type="syn" xml:lang="en">Original Dirty Pair: Project Eden</title>
     <title type="syn" xml:lang="x-jat">Project E.D.E.N.</title>
   </anime>
   <anime aid="1033">
@@ -12761,9 +12762,10 @@
   <anime aid="1174">
     <title type="main" xml:lang="x-jat">Dirty Pair: Bouryaku no 005-bin</title>
     <title type="official" xml:lang="de">Dirty Pair: Verschwörung um Flug 005</title>
-    <title type="official" xml:lang="en">Original Dirty Pair: Flight 005 Conspiracy</title>
+    <title type="official" xml:lang="en">Dirty Pair: Flight 005 Conspiracy</title>
     <title type="official" xml:lang="fr">Dirty Pair - Le complot du vol 005</title>
     <title type="official" xml:lang="ja">ダーティペア 謀略の005便</title>
+    <title type="syn" xml:lang="en">Original Dirty Pair: Flight 005 Conspiracy</title>
   </anime>
   <anime aid="1175">
     <title type="main" xml:lang="x-jat">Rankou Choukyou: Maid ni Natta Shoujo</title>
@@ -14400,9 +14402,10 @@
   <anime aid="1381">
     <title type="main" xml:lang="x-jat">WWWA Dirty Pair no Ooshoubu: Nolandia no Nazo</title>
     <title type="official" xml:lang="de">Dirty Pair: Affäre Nolandia</title>
-    <title type="official" xml:lang="en">Original Dirty Pair: Affair of Nolandia</title>
+    <title type="official" xml:lang="en">Dirty Pair: Affair of Nolandia</title>
     <title type="official" xml:lang="fr">Dirty Pair - L`affaire de Nolandia</title>
     <title type="official" xml:lang="ja">WWWAダーティペアの大勝負 ノーランディアの謎</title>
+    <title type="syn" xml:lang="en">Original Dirty Pair: Affair of Nolandia</title>
     <title type="syn" xml:lang="x-jat">WWWA Dirty Pair no Daishoubu: Nolandia no Nazo</title>
   </anime>
   <anime aid="1382">
@@ -16300,11 +16303,12 @@
   </anime>
   <anime aid="1612">
     <title type="main" xml:lang="x-jat">Shinkon Gattai Godannar!! Second Season</title>
-    <title type="official" xml:lang="en">Marriage of God &amp; Soul Godannar!! Second Season</title>
+    <title type="official" xml:lang="en">Marriage of God &amp; Soul Godannar!! (2004)</title>
     <title type="official" xml:lang="fr">Godannar!! (suite)</title>
     <title type="official" xml:lang="ja">神魂合体ゴーダンナー!!-SECOND SEASON-</title>
     <title type="short" xml:lang="x-jat">godannar2</title>
     <title type="short" xml:lang="x-jat">SGG S2</title>
+    <title type="syn" xml:lang="en">Marriage of God &amp; Soul Godannar!! Second Season</title>
     <title type="syn" xml:lang="en">Shinkon Gattai Godannar Second Season</title>
     <title type="syn" xml:lang="ko">신혼합체 고단나 2</title>
     <title type="syn" xml:lang="x-jat">Shinkon Gattai Godannar 2nd</title>
@@ -17132,7 +17136,7 @@
   </anime>
   <anime aid="1735">
     <title type="main" xml:lang="x-jat">Burn-up</title>
-    <title type="official" xml:lang="en">Burn up!</title>
+    <title type="official" xml:lang="en">Burn Up!</title>
     <title type="official" xml:lang="ja">バーンナップ</title>
     <title type="official" xml:lang="ru">Спецотряд Burn up (OVA)</title>
     <title type="short" xml:lang="x-jat">Burn Up</title>
@@ -23981,6 +23985,7 @@
   <anime aid="2655">
     <title type="main" xml:lang="x-jat">Cool Cool Bye</title>
     <title type="official" xml:lang="ja">クール・クール・バイ</title>
+    <title type="syn" xml:lang="ru">Архикрутое прощание</title>
   </anime>
   <anime aid="2656">
     <title type="main" xml:lang="x-jat">Afro Samurai</title>
@@ -31204,13 +31209,14 @@
   </anime>
   <anime aid="4067">
     <title type="main" xml:lang="x-jat">Joshikousei: Girl`s High</title>
-    <title type="official" xml:lang="en">Girl`s High School Students</title>
+    <title type="official" xml:lang="en">Girl`s High</title>
     <title type="official" xml:lang="fr">Girl`s High School</title>
     <title type="official" xml:lang="ja">女子高生 GIRL`S HIGH</title>
     <title type="official" xml:lang="ru">Старшеклассницы</title>
     <title type="short" xml:lang="en">hsg</title>
     <title type="syn" xml:lang="ar">طالبات الثانوية</title>
     <title type="syn" xml:lang="en">Girls High</title>
+    <title type="syn" xml:lang="en">Girl`s High School Students</title>
     <title type="syn" xml:lang="en">High School Girls</title>
     <title type="syn" xml:lang="fr">High School Girls</title>
     <title type="syn" xml:lang="ko">여고생</title>
@@ -31765,7 +31771,7 @@
   </anime>
   <anime aid="4146">
     <title type="main" xml:lang="x-jat">Zero no Tsukaima</title>
-    <title type="official" xml:lang="en">Familiar of Zero</title>
+    <title type="official" xml:lang="en">The Familiar of Zero</title>
     <title type="official" xml:lang="es">Magia de Zero</title>
     <title type="official" xml:lang="ja">ゼロの使い魔</title>
     <title type="official" xml:lang="ko">제로의 사역마</title>
@@ -31774,7 +31780,7 @@
     <title type="short" xml:lang="x-jat">zero</title>
     <title type="short" xml:lang="x-jat">zero1</title>
     <title type="short" xml:lang="x-jat">znt</title>
-    <title type="syn" xml:lang="en">The Familiar of Zero</title>
+    <title type="syn" xml:lang="en">Familiar of Zero</title>
     <title type="syn" xml:lang="es">El Familiar de Cero</title>
     <title type="syn" xml:lang="ru">Нулизин фамильяр</title>
     <title type="syn" xml:lang="ru">Подручный бездарной Луизы</title>
@@ -37251,6 +37257,7 @@
     <title type="official" xml:lang="ja">ラブ★コン</title>
     <title type="short" xml:lang="lt">LC</title>
     <title type="syn" xml:lang="bg">Любовен Комплекс</title>
+    <title type="syn" xml:lang="en">Lovely★Complex</title>
     <title type="syn" xml:lang="ja">LoveCom</title>
     <title type="syn" xml:lang="pl">Uroczy związek</title>
     <title type="syn" xml:lang="pt-BR">Lovely Complex</title>
@@ -41727,7 +41734,7 @@
   </anime>
   <anime aid="6041">
     <title type="main" xml:lang="x-jat">Gekijouban Bleach: Fade to Black Kimi no Na o Yobu</title>
-    <title type="official" xml:lang="en">Bleach The Movie 3: Fade to Black</title>
+    <title type="official" xml:lang="en">Bleach the Movie 3: Fade to Black</title>
     <title type="official" xml:lang="ja">劇場版 BLEACH Fade to Black 君の名を呼ぶ</title>
     <title type="short" xml:lang="en">Bleach Movie 3</title>
     <title type="syn" xml:lang="bg">Белина: Чезнеща в тъмнината</title>
@@ -55570,7 +55577,7 @@
   </anime>
   <anime aid="8827">
     <title type="main" xml:lang="x-jat">Hanasaku Iroha: Home Sweet Home</title>
-    <title type="official" xml:lang="en">Hanasaku Iroha The Movie: Home Sweet Home</title>
+    <title type="official" xml:lang="en">Hanasaku Iroha the Movie: Home Sweet Home</title>
     <title type="official" xml:lang="ja">花咲くいろは HOME SWEET HOME</title>
     <title type="syn" xml:lang="ja">劇場版 花咲くいろは HOME SWEET HOME</title>
     <title type="syn" xml:lang="x-jat">Gekijouban Hana-Saku Iroha: Home Sweet Home</title>
@@ -57707,7 +57714,7 @@
   </anime>
   <anime aid="9291">
     <title type="main" xml:lang="x-jat">Hayate no Gotoku! Can`t Take My Eyes Off You</title>
-    <title type="official" xml:lang="en">Hayate the Combat Butler! Can`t Take My Eyes Off You</title>
+    <title type="official" xml:lang="en">Hayate the Combat Butler: Can`t Take My Eyes Off You</title>
     <title type="official" xml:lang="ja">ハヤテのごとく! Hayate the combat butler: CAN`T TAKE MY EYES OFF YOU</title>
     <title type="short" xml:lang="x-jat">hng3</title>
   </anime>
@@ -57994,9 +58001,10 @@
   </anime>
   <anime aid="9341">
     <title type="main" xml:lang="x-jat">Hentai Ouji to Warawanai Neko.</title>
-    <title type="official" xml:lang="en">Henneko: Hentai Prince and the Stony Cat</title>
+    <title type="official" xml:lang="en">The "Hentai" Prince and the Stony Cat.</title>
     <title type="official" xml:lang="ja">変態王子と笑わない猫.</title>
     <title type="short" xml:lang="x-jat">Henneko</title>
+    <title type="syn" xml:lang="en">Henneko: Hentai Prince and the Stony Cat</title>
     <title type="syn" xml:lang="en">The Hentai Prince and the Stony Cat.</title>
   </anime>
   <anime aid="9342">
@@ -59003,11 +59011,12 @@
   </anime>
   <anime aid="9536">
     <title type="main" xml:lang="x-jat">Inari, Konkon, Koi Iroha.</title>
-    <title type="official" xml:lang="en">Inari, Konkon, Koi Iroha</title>
+    <title type="official" xml:lang="en">Inari Kon Kon</title>
     <title type="official" xml:lang="ja">いなり, こんこん, 恋いろは.</title>
     <title type="official" xml:lang="zh-Hans">狐仙的恋爱入门</title>
     <title type="short" xml:lang="ja">いなこん</title>
     <title type="short" xml:lang="x-jat">Inakon</title>
+    <title type="syn" xml:lang="en">Inari, Konkon, Koi Iroha</title>
     <title type="syn" xml:lang="x-jat">Inari Kon Kon</title>
   </anime>
   <anime aid="9537">
@@ -59240,7 +59249,7 @@
   </anime>
   <anime aid="9584">
     <title type="main" xml:lang="x-jat">Hayate no Gotoku! Cuties</title>
-    <title type="official" xml:lang="en">Hayate the Combat Butler! Cuties</title>
+    <title type="official" xml:lang="en">Hayate the Combat Butler: Cuties</title>
     <title type="official" xml:lang="ja">ハヤテのごとく! Hayate the combat butler Cuties</title>
   </anime>
   <anime aid="9585">
@@ -60854,12 +60863,11 @@
   </anime>
   <anime aid="9949">
     <title type="main" xml:lang="x-jat">Kakumeiki Valvrave (2013)</title>
-    <title type="official" xml:lang="en">Valvrave the Liberator (2)</title>
+    <title type="official" xml:lang="en">Valvrave the Liberator (2013)</title>
     <title type="official" xml:lang="ja">革命機ヴァルヴレイヴ Valvrave the Liberator (2013)</title>
     <title type="official" xml:lang="zh-Hans">革命机Valvrave 2</title>
     <title type="short" xml:lang="x-jat">Valvrave 2</title>
     <title type="syn" xml:lang="en">Valvrave the Liberator 2</title>
-    <title type="syn" xml:lang="en">Valvrave the Liberator (2013)</title>
   </anime>
   <anime aid="9950">
     <title type="main" xml:lang="x-jat">Gekijouban Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai</title>
@@ -62680,8 +62688,9 @@
   </anime>
   <anime aid="10391">
     <title type="main" xml:lang="x-jat">Inari, Konkon, Koi Iroha. Inari, Konkon, Semi Shigure.</title>
-    <title type="official" xml:lang="en">Inari, Kon Kon, Koi Iroha: Inari, Kon Kon, Cicada Chorus</title>
+    <title type="official" xml:lang="en">Inari Kon Kon: Cicada Chorus</title>
     <title type="official" xml:lang="ja">いなり, こんこん, 恋いろは. いなり, コンコン, 蝉しぐれ.</title>
+    <title type="syn" xml:lang="en">Inari, Kon Kon, Koi Iroha: Inari, Kon Kon, Cicada Chorus</title>
   </anime>
   <anime aid="10392">
     <title type="main" xml:lang="x-jat">Magi: Sinbad no Bouken</title>
@@ -62843,7 +62852,7 @@
   </anime>
   <anime aid="10421">
     <title type="main" xml:lang="x-jat">Sanzoku no Musume Ronja</title>
-    <title type="official" xml:lang="en">Ronja the Robber`s Daughter</title>
+    <title type="official" xml:lang="en">Ronja, the Robber`s Daughter</title>
     <title type="official" xml:lang="ja">山賊の娘ローニャ</title>
     <title type="official" xml:lang="sv">Ronja Rövardotter</title>
     <title type="syn" xml:lang="bg">Роня - дъщерята на разбойника</title>
@@ -68570,8 +68579,8 @@
     <title type="short" xml:lang="en">fmp3</title>
     <title type="short" xml:lang="x-jat">fmp 2017</title>
     <title type="short" xml:lang="x-jat">fmp IV</title>
-    <title type="syn" xml:lang="en">fullmetal panic 2016</title>
     <title type="syn" xml:lang="ja">フルメタル・パニック! 4</title>
+    <title type="syn" xml:lang="x-jat">fullmetal panic 2017</title>
     <title type="syn" xml:lang="x-jat">Fullmetal Panic! 4</title>
     <title type="syn" xml:lang="x-jat">Fullmetal Panic! Invisible Victory</title>
   </anime>
@@ -71129,6 +71138,7 @@
     <title type="main" xml:lang="x-jat">Demi-chan wa Kataritai</title>
     <title type="official" xml:lang="en">Interviews with Monster Girls</title>
     <title type="official" xml:lang="ja">亜人ちゃんは語りたい</title>
+    <title type="short" xml:lang="x-unk">demi-chan</title>
   </anime>
   <anime aid="12380">
     <title type="main" xml:lang="x-kot">Dalbitkungkwol</title>
@@ -72726,6 +72736,22 @@
     <title type="main" xml:lang="x-jat">Pikaia!!</title>
     <title type="official" xml:lang="ja">ピカイア!!</title>
   </anime>
+  <anime aid="12790">
+    <title type="main" xml:lang="x-jat">Touken Ranbu: Hanamaru 2</title>
+    <title type="official" xml:lang="ja">刀剣乱舞-花丸- 2</title>
+  </anime>
+  <anime aid="12791">
+    <title type="main" xml:lang="x-jat">Yi Kong Zhi Dian</title>
+    <title type="official" xml:lang="zh">翼空之巅</title>
+  </anime>
+  <anime aid="12792">
+    <title type="main" xml:lang="x-zht">Lei su deng shandian chong xian</title>
+    <title type="official" xml:lang="zh">雷速登闪电冲线</title>
+  </anime>
+  <anime aid="12793">
+    <title type="main" xml:lang="x-jat">Sore Ike! Anpanman: Buruburu no Takarasagashi Daibouken!</title>
+    <title type="official" xml:lang="ja">それいけ! アンパンマン ブルブルの宝探し大冒険!</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Sat Feb  4 03:00:19 2017 (10057 anime, 52612 titles) -->
+<!-- Created: Mon Feb  6 03:00:20 2017 (10061 anime, 52630 titles) -->
