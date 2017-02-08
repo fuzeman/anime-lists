@@ -9510,6 +9510,7 @@
   <anime aid="816">
     <title type="main" xml:lang="x-jat">Cosmo Warrior Zero</title>
     <title type="official" xml:lang="de">Cosmowarrior Zero</title>
+    <title type="official" xml:lang="en">Cosmo Warrior Zero</title>
     <title type="official" xml:lang="es-LA">Zero, El Guerrero Cósmico</title>
     <title type="official" xml:lang="fr">Cosmo Warrior Zero - La jeunesse d`Albator</title>
     <title type="official" xml:lang="ja">コスモウォーリアー零</title>
@@ -11817,6 +11818,7 @@
     <title type="short" xml:lang="x-jat">aya2</title>
     <title type="short" xml:lang="x-jat">ayae</title>
     <title type="short" xml:lang="x-jat">aya enishi</title>
+    <title type="syn" xml:lang="en">Ai Yori Aoshi: Enishi</title>
     <title type="syn" xml:lang="en">Bluer than Indigo ~Fate~</title>
     <title type="syn" xml:lang="it">Sempre più Blu 2</title>
     <title type="syn" xml:lang="ru">Все оттенки синевы ~ Судьба ~</title>
@@ -63795,6 +63797,7 @@
   </anime>
   <anime aid="10643">
     <title type="main" xml:lang="x-jat">Yowamushi Pedal: Grande Road</title>
+    <title type="official" xml:lang="en">Yowamushi Pedal: Grande Road</title>
     <title type="official" xml:lang="ja">弱虫ペダル GRANDE ROAD</title>
     <title type="short" xml:lang="x-jat">yowapeda 2</title>
     <title type="syn" xml:lang="bg">Плахият колоездач 2</title>
@@ -69935,6 +69938,7 @@
   <anime aid="12041">
     <title type="main" xml:lang="x-jat">Suki ni Naru Sono Shunkan o. Kokuhaku Jikkouiinkai</title>
     <title type="official" xml:lang="ja">好きになるその瞬間を. ~告白実行委員会~</title>
+    <title type="syn" xml:lang="en">The Moment You Fall in Love: Confess Your Love Committee</title>
   </anime>
   <anime aid="12042">
     <title type="main" xml:lang="x-jat">Dream-Fes!</title>
@@ -70803,6 +70807,7 @@
   <anime aid="12284">
     <title type="main" xml:lang="x-jat">Monster Strike The Movie: Hajimari no Basho e</title>
     <title type="official" xml:lang="ja">モンスターストライク THE MOVIE はじまりの場所へ</title>
+    <title type="syn" xml:lang="en">Monster Strike The Movie: Beginnings</title>
   </anime>
   <anime aid="12287">
     <title type="main" xml:lang="x-jat">Saiyuuki Reload Blast</title>
@@ -71234,6 +71239,7 @@
   </anime>
   <anime aid="12407">
     <title type="main" xml:lang="x-jat">Pocket Monsters Sun &amp; Moon</title>
+    <title type="official" xml:lang="en">Pokemon the Series: Sun &amp; Moon</title>
     <title type="official" xml:lang="ja">ポケットモンスター サン&amp;ムーン</title>
     <title type="short" xml:lang="ja">pmsm</title>
     <title type="syn" xml:lang="en">Pokemon: Sun &amp; Moon</title>
@@ -71957,6 +71963,7 @@
   <anime aid="12590">
     <title type="main" xml:lang="x-kot">Annyeong Jaduya</title>
     <title type="official" xml:lang="ko">안녕 자두야</title>
+    <title type="syn" xml:lang="x-kot">Annyeong Jadooya</title>
   </anime>
   <anime aid="12591">
     <title type="main" xml:lang="x-jat">Onaka no Ookina Ouji-sama</title>
@@ -72752,6 +72759,54 @@
     <title type="main" xml:lang="x-jat">Sore Ike! Anpanman: Buruburu no Takarasagashi Daibouken!</title>
     <title type="official" xml:lang="ja">それいけ! アンパンマン ブルブルの宝探し大冒険!</title>
   </anime>
+  <anime aid="12794">
+    <title type="main" xml:lang="x-kot">Annyeong Jaduya 2</title>
+    <title type="official" xml:lang="ko">안녕 자두야 2</title>
+    <title type="syn" xml:lang="x-kot">Annyeong Jadooya 2</title>
+  </anime>
+  <anime aid="12795">
+    <title type="main" xml:lang="x-kot">Annyeong Jaduya 3 Special</title>
+    <title type="official" xml:lang="ko">안녕 자두야 3 special</title>
+    <title type="syn" xml:lang="x-kot">Annyeong Jadooya 3 Special</title>
+  </anime>
+  <anime aid="12796">
+    <title type="main" xml:lang="x-kot">Geugjangpan Annyeong Jaduya</title>
+    <title type="official" xml:lang="ko">극장판 안녕 자두야</title>
+    <title type="syn" xml:lang="x-kot">Geugjangpan Annyeong Jadooya</title>
+  </anime>
+  <anime aid="12797">
+    <title type="main" xml:lang="x-jat">Servamp (Shinki Project)</title>
+    <title type="official" xml:lang="ja">SERVAMP (新規プロジェクト)</title>
+  </anime>
+  <anime aid="12798">
+    <title type="main" xml:lang="x-jat">Akai Jitensha</title>
+    <title type="official" xml:lang="ja">赤い自転車</title>
+  </anime>
+  <anime aid="12799">
+    <title type="main" xml:lang="x-jat">Quantum Leap</title>
+    <title type="official" xml:lang="ja">Quantum Leap</title>
+  </anime>
+  <anime aid="12800">
+    <title type="main" xml:lang="x-jat">Sign</title>
+    <title type="official" xml:lang="ja">Sign</title>
+  </anime>
+  <anime aid="12801">
+    <title type="main" xml:lang="x-jat">Mahou no Hiroba</title>
+    <title type="official" xml:lang="ja">魔法のひろば</title>
+  </anime>
+  <anime aid="12802">
+    <title type="main" xml:lang="x-jat">Mayonaka wa Junketsu</title>
+    <title type="official" xml:lang="ja">真夜中は純潔</title>
+  </anime>
+  <anime aid="12803">
+    <title type="main" xml:lang="x-jat">Aho Girl</title>
+    <title type="official" xml:lang="ja">アホガール</title>
+    <title type="syn" xml:lang="en">Ahogaru: Clueless Girl</title>
+  </anime>
+  <anime aid="12804">
+    <title type="main" xml:lang="x-jat">Makeru na!! Aku no Gundan!</title>
+    <title type="official" xml:lang="ja">まけるな!! あくのぐんだん！</title>
+  </anime>
 </animetitles>
 
-<!-- Created: Mon Feb  6 03:00:20 2017 (10061 anime, 52630 titles) -->
+<!-- Created: Wed Feb  8 03:00:21 2017 (10072 anime, 52663 titles) -->
