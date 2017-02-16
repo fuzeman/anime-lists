@@ -2588,8 +2588,8 @@
   <anime anidbid="680" tvdbid="180111" defaulttvdbseason="2">
     <name>Tenshi no Shippo Chu!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="2">;1-1+2;2-3+4;3-5;4-6;5-7+8;6-9+10;7-11;</mapping>
       <mapping anidbseason="0" tvdbseason="2">;1-12;</mapping>
+      <mapping anidbseason="1" tvdbseason="2">;1-1+2;2-3+4;3-5;4-6;5-7+8;6-9+10;7-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="681" tvdbid="72842" defaulttvdbseason="1">
@@ -3446,8 +3446,8 @@
   <anime anidbid="931" tvdbid="80054" defaulttvdbseason="0">
     <name>Taiho Shichau zo Special</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="1" start="12" end="19" offset="1"/>
       <mapping anidbseason="0" tvdbseason="0">;1-12;2-21;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="12" end="19" offset="1"/>
     </mapping-list>
   </anime>
   <anime anidbid="932" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt0301801">
@@ -5287,7 +5287,7 @@
     <name>Souryuuden</name>
   </anime>
   <anime anidbid="1534" tvdbid="83403" defaulttvdbseason="0" episodeoffset="2">
-    <name>Maetel Legend</name>83403
+    <name>Maetel Legend</name>
   </anime>
   <anime anidbid="1535" tvdbid="87111" defaulttvdbseason="1">
     <name>Uchuu no Senshi</name>
@@ -12618,8 +12618,8 @@
   <anime anidbid="4414" tvdbid="73749" defaulttvdbseason="0" imdbid="tt0856797">
     <name>Koukaku Kidoutai Stand Alone Complex: Solid State Society</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;2-33;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4415" tvdbid="82028" defaulttvdbseason="2">
@@ -15799,8 +15799,8 @@
   <anime anidbid="5783" tvdbid="80096" defaulttvdbseason="0" imdbid="tt1288461">
     <name>Gekijouban Tengen Toppa Gurren Lagann: Gurren Hen</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-21;2-22;3-22;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="5786" tvdbid="82807" defaulttvdbseason="1">
@@ -25141,8 +25141,8 @@
   <anime anidbid="9513" tvdbid="87491" defaulttvdbseason="0">
     <name>Vanquished Queens</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-29;2-30;3-31;4-32;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-33;2-34;3-35;4-36;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-29;2-30;3-31;4-32;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9514" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2013293">
@@ -26241,8 +26241,8 @@
   <anime anidbid="10008" tvdbid="262098" defaulttvdbseason="0" imdbid="tt5284414" tmdbid="357405" tmdbmid="357405">
     <name>Girls und Panzer Gekijouban</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-37;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-36;2-38;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-37;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10009" tvdbid="262098" defaulttvdbseason="0">
@@ -27646,8 +27646,8 @@
   <anime anidbid="10765" tvdbid="186911" defaulttvdbseason="0">
     <name>Hyakka Ryouran: Samurai After</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-20;2-21;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-22;2-23;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-20;2-21;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10766" tvdbid="284402" defaulttvdbseason="1">
