@@ -2343,7 +2343,7 @@
     <name>With You: Mitsumeteitai</name>
   </anime>
   <anime anidbid="606" tvdbid="81437" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>GEAR Senshi Dendou</name>
+    <name>Gear Fighter Dendou</name>
   </anime>
   <anime anidbid="607" tvdbid="79063" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Mahou Senshi Louie</name>
@@ -18873,7 +18873,7 @@
     <name>Yami o Mitsumeru Hane</name>
   </anime>
   <anime anidbid="6998" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="tt0425120" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Ibara Hime Mata wa Nemurihime</name>
+    <name>Ibara-hime Mata wa Nemurihime</name>
   </anime>
   <anime anidbid="6999" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="tt1743330" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Dojoji</name>
@@ -33922,7 +33922,7 @@
     <name>One Room</name>
   </anime>
   <anime anidbid="12551" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Room Mate: One Room Side M</name>
+    <name>Room Mate</name>
   </anime>
   <anime anidbid="12552" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Taimanin Asagi 3</name>
@@ -34531,7 +34531,7 @@
     <name>McDonald's "Mirai no Watashi"-hen</name>
   </anime>
   <anime anidbid="12766" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Future Card Buddyfight (2017)</name>
+    <name>Future Card Buddyfight Battsu</name>
   </anime>
   <anime anidbid="12767" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Crayon Shin-chan Gaiden: Kazokuzure Ookami</name>
@@ -34730,5 +34730,14 @@
   </anime>
   <anime anidbid="12833" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kaiji: 17 Steps</name>
+  </anime>
+  <anime anidbid="12834" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Kakegurui</name>
+  </anime>
+  <anime anidbid="12835" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Koi to Uso</name>
+  </anime>
+  <anime anidbid="12836" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Queen's Blade Unlimited</name>
   </anime>
 </anime-list>
