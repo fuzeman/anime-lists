@@ -3661,7 +3661,7 @@
     <name>Gekijouban Pocket Monsters: Celebi Toki o Koeta Deai</name>
   </anime>
   <anime anidbid="992" tvdbid="76703" defaulttvdbseason="0" episodeoffset="" imdbid="tt0266860" tmdbid="10991" tmdbmid="10991" tmdbsid="">
-    <name>Gekijouban Pocket Monsters: Kesshoutou no Teiou</name>
+    <name>Gekijouban Pocket Monsters: Kesshoutou no Teiou Entei</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-3;2-3;</mapping>
@@ -34728,9 +34728,6 @@
   <anime anidbid="12832" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ichinen Buri no The Animation</name>
   </anime>
-  <anime anidbid="12833" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kaiji: 17 Steps</name>
-  </anime>
   <anime anidbid="12834" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kakegurui</name>
   </anime>
@@ -34925,5 +34922,29 @@
   </anime>
   <anime anidbid="12899" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Marvel Future Avengers</name>
+  </anime>
+  <anime anidbid="12900" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Nobunaga no Shinobi: Ise Kanegasaki Hen</name>
+  </anime>
+  <anime anidbid="12901" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Fintan</name>
+  </anime>
+  <anime anidbid="12902" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Seupideuwang Beongae</name>
+  </anime>
+  <anime anidbid="12903" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Tokyo Sake Brewery</name>
+  </anime>
+  <anime anidbid="12904" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Shounen Ashibe: Go! Go! Goma-chan (2017)</name>
+  </anime>
+  <anime anidbid="12905" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Bonobono (2017)</name>
+  </anime>
+  <anime anidbid="12906" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Koi wa Ameagari no You ni</name>
+  </anime>
+  <anime anidbid="12907" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Unicorn no Kyupi</name>
   </anime>
 </anime-list>
