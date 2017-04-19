@@ -10594,15 +10594,15 @@
   </anime>
   <anime anidbid="3468" tvdbid="79895" defaulttvdbseason="1">
     <name>Gintama</name>
-    <supplemental-info>
-      <studio>Sunrise</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;4-3;</mapping>
       <mapping anidbseason="1" tvdbseason="2" start="50" end="99" offset="-49"/>
       <mapping anidbseason="1" tvdbseason="3" start="100" end="150" offset="-99"/>
       <mapping anidbseason="1" tvdbseason="4" start="151" end="201" offset="-150"/>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="3469" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0055760">
     <name>Aru Machi Kado no Monogatari</name>
@@ -28489,7 +28489,6 @@
   </anime>
   <anime anidbid="11221" tvdbid="281275" defaulttvdbseason="2">
     <name>Saenai Heroine no Sodatekata Flat</name>
-    <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
   </anime>
   <anime anidbid="11223" tvdbid="284133" defaulttvdbseason="2">
     <name>Shingeki no Bahamut: Virgin Soul</name>
