@@ -8965,7 +8965,7 @@
     <name>Barom One</name>
   </anime>
   <anime anidbid="2760" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Super Kid</name>
+    <name>Super Child</name>
   </anime>
   <anime anidbid="2761" tvdbid="76894" defaulttvdbseason="0" episodeoffset="" imdbid="tt0403703" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Yuu Gi Ou: Duel Monsters - Hikari no Pyramid</name>
@@ -34001,7 +34001,7 @@
     <name>Gijinka de Manabo!</name>
   </anime>
   <anime anidbid="12574" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Ao no Exorcist: Kyoto Fujouou Hen (2017)</name>
+    <name>Ao no Exorcist: Kyoto Fujouou Hen - Hebi to Doku</name>
   </anime>
   <anime anidbid="12575" tvdbid="271591" defaulttvdbseason="4" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Yami Shibai 4</name>
@@ -35634,5 +35634,17 @@
   </anime>
   <anime anidbid="13152" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Shoujo Kageki Revue Starlight</name>
+  </anime>
+  <anime anidbid="13153" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</name>
+  </anime>
+  <anime anidbid="13154" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ao no Exorcist: Spy Game</name>
+  </anime>
+  <anime anidbid="13155" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Seizei Gambare Mahou Shoujo Kurumi</name>
+  </anime>
+  <anime anidbid="13157" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Honoo no Haramase Oppai: Ero Appli Gakuen The Animation</name>
   </anime>
 </anime-list>
