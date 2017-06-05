@@ -13374,7 +13374,7 @@
     <name>Kakutou Ryouri Densetsu Bistro Recipe</name>
   </anime>
   <anime anidbid="4697" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Gakkyuu Ou Yamazaki</name>
+    <name>Gakkyuu-ou Yamazaki</name>
   </anime>
   <anime anidbid="4698" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tanoshii Willow Town</name>
@@ -32834,7 +32834,7 @@
     <name>Star Fox Zero: The Battle Begins</name>
   </anime>
   <anime anidbid="12091" tvdbid="318893" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kobayashi-san Chi no Maid Dragon</name>
+    <name>Kobayashi-san Chi no Maidragon</name>
   </anime>
   <anime anidbid="12092" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Onizushi</name>
@@ -35096,7 +35096,7 @@
     <name>Midori-chan: Nice to Meat you</name>
   </anime>
   <anime anidbid="12962" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Gekijouban Hibike! Euphonium 2</name>
+    <name>Gekijouban Hibike! Euphonium: Todoketai Melody</name>
   </anime>
   <anime anidbid="12963" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ponkotsu Quest: Maou to Haken no Mamono-tachi</name>
@@ -35775,5 +35775,23 @@
   </anime>
   <anime anidbid="13204" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>The Collected Animations of ICAF (2001-2006)</name>
+  </anime>
+  <anime anidbid="13205" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yama no Susume (2018)</name>
+  </anime>
+  <anime anidbid="13206" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yama no Susume: Omoide Present</name>
+  </anime>
+  <anime anidbid="13207" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gekijouban Hibike! Euphonium</name>
+  </anime>
+  <anime anidbid="13208" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Mandamgangho</name>
+  </anime>
+  <anime anidbid="13209" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gwahakmasuldan</name>
+  </anime>
+  <anime anidbid="13210" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Norasco</name>
   </anime>
 </anime-list>
