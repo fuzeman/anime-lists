@@ -10210,7 +10210,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="3317" tvdbid="76023" defaulttvdbseason="0" episodeoffset="" imdbid="tt0466551" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Tsubasa Chronicle: Tori Kago no Kuni no Himegimi</name>
+    <name>Gekijouban Tsubasa Chronicle: Tori Kago no Kuni no Himegimi</name>
   </anime>
   <anime anidbid="3318" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" imdbid="tt1020870" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Boku wa Imouto ni Koi o Suru</name>
@@ -24622,13 +24622,13 @@
     <name>Rui no Masaiban</name>
   </anime>
   <anime anidbid="8954" tvdbid="255898" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Qin Shiming Yue Zhi Bai Bu Fei Jian</name>
+    <name>Qin Shi Mingyue: Bai Bu Fei Jian</name>
   </anime>
   <anime anidbid="8955" tvdbid="255898" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Qin Shiming Yue Zhi Ye Jin Tianming</name>
+    <name>Qin Shi Mingyue: Ye Jin Tianming</name>
   </anime>
   <anime anidbid="8956" tvdbid="255898" defaulttvdbseason="3" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Qin Shiming Yue Zhi Zhu Zi Bai Jia</name>
+    <name>Qin Shi Mingyue: Zhu Zi Bai Jia</name>
   </anime>
   <anime anidbid="8957" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Eiga Jewelpet Sweets Dance Princess</name>
@@ -34142,7 +34142,7 @@
     <name>Wake Up, Girls! Shin Shou</name>
   </anime>
   <anime anidbid="12626" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Qin Shiming Yue 3D: Dianying Longteng Wanli</name>
+    <name>Qin Shi Mingyue 3D: Dianying Longteng Wanli</name>
   </anime>
   <anime anidbid="12628" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Hashiri Hajimeta bakari no Kimi ni</name>
@@ -35603,7 +35603,7 @@
     <name>War of the Worlds: Goliath</name>
   </anime>
   <anime anidbid="13144" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Puchim@s!! Petit Petit Idolm@ster (2018)</name>
+    <name>Puchimas! Petit Idolmaster (2018)</name>
   </anime>
   <anime anidbid="13145" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Karada Sagashi</name>
@@ -35901,5 +35901,8 @@
   </anime>
   <anime anidbid="13248" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Hajimete no Gal (2017)</name>
+  </anime>
+  <anime anidbid="13249" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Love Kome: We Love Rice (2017)</name>
   </anime>
 </anime-list>
