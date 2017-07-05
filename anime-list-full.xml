@@ -18711,9 +18711,6 @@
   <anime anidbid="6996" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Kiekaketa Monogatari-tachi no Tame ni</name>
   </anime>
-  <anime anidbid="6997" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
-    <name>Yami o Mitsumeru Hane</name>
-  </anime>
   <anime anidbid="6998" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0425120">
     <name>Ibara-hime Mata wa Nemurihime</name>
   </anime>
@@ -20786,9 +20783,6 @@
   <anime anidbid="7738" tvdbid="other" defaulttvdbseason="1">
     <name>Nougyou Musume!</name>
   </anime>
-  <anime anidbid="7739" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
-    <name>Sore Ike! Anpanman: Keito no Shiro no Christmas</name>
-  </anime>
   <anime anidbid="7740" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
     <name>Baikinman tai Baikinman!?</name>
     <mapping-list>
@@ -20870,14 +20864,8 @@
   <anime anidbid="7758" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
     <name>Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime</name>
   </anime>
-  <anime anidbid="7759" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
-    <name>Sore Ike! Anpanman: Kieta Jam Ojisan</name>
-  </anime>
   <anime anidbid="7760" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
     <name>Tekka no Maki-chan to Kin no Kamameshidon</name>
-  </anime>
-  <anime anidbid="7761" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
-    <name>Sore Ike! Anpanman: Yuuki to Honoo to Christmas</name>
   </anime>
   <anime anidbid="7763" tvdbid="73011" defaulttvdbseason="1">
     <name>IGPX: Immortal Grand Prix</name>
@@ -24251,7 +24239,7 @@
     <before>;1-14;2-15;3-16;</before>
   </anime>
   <anime anidbid="9140" tvdbid="tv special" defaulttvdbseason="1" tmdbid="85842" tmdbmid="85842">
-    <name>Watashi no Coffee Samurai: Jihanki Teki na Kareshi</name>
+    <name>Murim Ilgeomui Sasaenghwal</name>
   </anime>
   <anime anidbid="9142" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2193271">
     <name>Xi Yang Yang Yu Hui Tai Lang Zhi Kaixin Chuang Long Nian</name>

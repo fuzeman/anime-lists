@@ -18876,9 +18876,6 @@
   <anime anidbid="6996" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kiekaketa Monogatari-tachi no Tame ni</name>
   </anime>
-  <anime anidbid="6997" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Yami o Mitsumeru Hane</name>
-  </anime>
   <anime anidbid="6998" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="tt0425120" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ibara-hime Mata wa Nemurihime</name>
   </anime>
@@ -21086,9 +21083,6 @@
   <anime anidbid="7738" tvdbid="other" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Nougyou Musume!</name>
   </anime>
-  <anime anidbid="7739" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Sore Ike! Anpanman: Keito no Shiro no Christmas</name>
-  </anime>
   <anime anidbid="7740" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Baikinman tai Baikinman!?</name>
     <mapping-list>
@@ -21170,14 +21164,8 @@
   <anime anidbid="7758" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi-hime</name>
   </anime>
-  <anime anidbid="7759" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Sore Ike! Anpanman: Kieta Jam Ojisan</name>
-  </anime>
   <anime anidbid="7760" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tekka no Maki-chan to Kin no Kamameshidon</name>
-  </anime>
-  <anime anidbid="7761" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Sore Ike! Anpanman: Yuuki to Honoo to Christmas</name>
   </anime>
   <anime anidbid="7763" tvdbid="73011" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>IGPX: Immortal Grand Prix</name>
@@ -25124,7 +25112,7 @@
     <name>Kubire 3 Shimai</name>
   </anime>
   <anime anidbid="9140" tvdbid="tv special" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="85842" tmdbmid="85842" tmdbsid="">
-    <name>Watashi no Coffee Samurai: Jihanki Teki na Kareshi</name>
+    <name>Murim Ilgeomui Sasaenghwal</name>
   </anime>
   <anime anidbid="9142" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="tt2193271" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Xi Yang Yang Yu Hui Tai Lang Zhi Kaixin Chuang Long Nian</name>
@@ -35845,9 +35833,6 @@
   <anime anidbid="13228" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Eiga Doraemon: Nobita no Takarajima</name>
   </anime>
-  <anime anidbid="13229" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>RWBY</name>
-  </anime>
   <anime anidbid="13230" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Taimashin</name>
   </anime>
@@ -35864,7 +35849,7 @@
     <name>Sushi Ninja</name>
   </anime>
   <anime anidbid="13235" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Jianzhen da heshang</name>
+    <name>Jianzhen Da he shang</name>
   </anime>
   <anime anidbid="13236" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Illustration Animation: Kitsune and Neeko</name>
@@ -35915,7 +35900,7 @@
     <name>Miira no Kaikata</name>
   </anime>
   <anime anidbid="13253" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>INKO COLORS</name>
+    <name>Inko Colours</name>
   </anime>
   <anime anidbid="13254" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Project D</name>
@@ -35927,7 +35912,7 @@
     <name>Shoujo Shuumatsu Ryokou</name>
   </anime>
   <anime anidbid="13257" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Uchuu Yori mo Tooi Basho: A Story That Leads to the Antarctica</name>
+    <name>Uchuu Yori mo Tooi Basho</name>
   </anime>
   <anime anidbid="13258" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>FLCL 3</name>
