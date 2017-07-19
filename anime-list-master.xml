@@ -29169,7 +29169,7 @@
     <name>Elite Jack!!</name>
   </anime>
   <anime anidbid="10725" tvdbid="283942" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Akatsuki no Yona: The Girl Standing in the Blush of Dawn</name>
+    <name>Akatsuki no Yona</name>
   </anime>
   <anime anidbid="10726" tvdbid="272697" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gekijouban Kyoukai no Kanata: I'll Be Here</name>
@@ -36012,5 +36012,11 @@
   </anime>
   <anime anidbid="13288" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kidou Senshi Gundam: Thunderbolt - Bandit Flower</name>
+  </anime>
+  <anime anidbid="13289" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Splatoon</name>
+  </anime>
+  <anime anidbid="13290" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Qin Shiming Yue Zhi: Junlin Tianxia</name>
   </anime>
 </anime-list>
