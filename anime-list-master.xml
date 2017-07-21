@@ -23582,9 +23582,6 @@
       <mapping anidbseason="1" tvdbseason="0">;1-12;2-13;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="8598" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Shimanchu Mirika TV</name>
-  </anime>
   <anime anidbid="8599" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="tt1583243" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ecophan</name>
   </anime>
@@ -34328,7 +34325,7 @@
     <name>Wa Wa Wa Wappi-chan</name>
   </anime>
   <anime anidbid="12691" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Saiki Kusuo no Sainan 2</name>
+    <name>Saiki Kusuo no Sainan (2018)</name>
   </anime>
   <anime anidbid="12692" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Hei Mao Jing Zhang</name>
@@ -36018,5 +36015,20 @@
   </anime>
   <anime anidbid="13290" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Qin Shiming Yue Zhi: Junlin Tianxia</name>
+  </anime>
+  <anime anidbid="13291" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Basilisk: Ouka Ninpou Chou</name>
+  </anime>
+  <anime anidbid="13292" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Baja no Studio</name>
+  </anime>
+  <anime anidbid="13293" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Otaku ni Koi wa Muzukashii</name>
+  </anime>
+  <anime anidbid="13294" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Onyankopon</name>
+  </anime>
+  <anime anidbid="13295" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Fairy Tail (2018)</name>
   </anime>
 </anime-list>
