@@ -9791,7 +9791,7 @@
     <name>Juudou Sanka</name>
   </anime>
   <anime anidbid="3111" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Chargeman Ken</name>
+    <name>Chargeman Ken!</name>
   </anime>
   <anime anidbid="3112" tvdbid="81965" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>TANK S.W.A.T. 01</name>
@@ -36030,5 +36030,8 @@
   </anime>
   <anime anidbid="13295" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Fairy Tail (2018)</name>
+  </anime>
+  <anime anidbid="13296" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Harukana Receive</name>
   </anime>
 </anime-list>
