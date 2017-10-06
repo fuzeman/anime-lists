@@ -17290,7 +17290,7 @@
     <name>Nyan Koi!</name>
   </anime>
   <anime anidbid="6431" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="tt1488591" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Eiga Layton Kyouju to Eien no Utahime</name>
+    <name>Eiga Layton-kyouju to Eien no Utahime</name>
   </anime>
   <anime anidbid="6432" tvdbid="72454" defaulttvdbseason="0" episodeoffset="" imdbid="tt1397219" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Lupin Sansei vs Meitantei Conan</name>
@@ -36065,7 +36065,7 @@
     <name>Kono Subarashii Sekai ni Shukufuku o! (Shin Anime)</name>
   </anime>
   <anime anidbid="13311" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Dia Horizon (Hi)</name>
+    <name>Dia Horizon (Kabu)</name>
   </anime>
   <anime anidbid="13312" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Sora to Umi no Aida</name>
@@ -36600,5 +36600,20 @@
   </anime>
   <anime anidbid="13497" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Layton-kyouju</name>
+  </anime>
+  <anime anidbid="13498" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ulysses</name>
+  </anime>
+  <anime anidbid="13499" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Tokyo Ghoul:Re</name>
+  </anime>
+  <anime anidbid="13500" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Beatless</name>
+  </anime>
+  <anime anidbid="13501" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Kiniitta Nakani Ikinari Nakadashi OK na Resort Tou</name>
+  </anime>
+  <anime anidbid="13502" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Rokuhoudou Yotsuiro-Biyori</name>
   </anime>
 </anime-list>
