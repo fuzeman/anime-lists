@@ -36410,7 +36410,7 @@
     <name>A5</name>
   </anime>
   <anime anidbid="13434" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Hinamatsuri</name>
+    <name>Hinamatsuri (2018)</name>
   </anime>
   <anime anidbid="13435" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Hinamatsuri (1993)</name>
@@ -36611,7 +36611,7 @@
     <name>Beatless</name>
   </anime>
   <anime anidbid="13501" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kiniitta Nakani Ikinari Nakadashi OK na Resort Tou</name>
+    <name>Kiniitta Chitsu ni Ikinari Nakadashi OK na Resort-tou</name>
   </anime>
   <anime anidbid="13502" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Rokuhoudou Yotsuiro-Biyori</name>
@@ -36721,9 +36721,6 @@
   <anime anidbid="13540" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Souten no Ken: Regenesis</name>
   </anime>
-  <anime anidbid="13541" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kiniitta Chitsu ni Ikinari Nakadashi OK na Resort Shima</name>
-  </anime>
   <anime anidbid="13542" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Super Mario no Shouboutai</name>
   </anime>
@@ -36741,5 +36738,8 @@
   </anime>
   <anime anidbid="13548" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Free! (2018)</name>
+  </anime>
+  <anime anidbid="13549" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yuuwaku Office Lover 2</name>
   </anime>
 </anime-list>
