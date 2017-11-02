@@ -18002,12 +18002,6 @@
       <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="7756" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
-    <name>Sore Ike! Anpanman: Anpanman to Kaizoku Lobster</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
-  </anime>
   <anime anidbid="7757" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
     <name>Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisoba Panman</name>
   </anime>

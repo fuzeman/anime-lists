@@ -16775,9 +16775,6 @@
   <anime anidbid="6204" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Mori no Senshi Bonolon</name>
   </anime>
-  <anime anidbid="6205" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Little Penguin</name>
-  </anime>
   <anime anidbid="6206" tvdbid="unknown" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Sugar Bunnies Chocolate!</name>
   </anime>
@@ -21150,12 +21147,6 @@
     <name>Anpanman to Happy Otanjoubi</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
-    </mapping-list>
-  </anime>
-  <anime anidbid="7756" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Sore Ike! Anpanman: Anpanman to Kaizoku Lobster</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7757" tvdbid="167921" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
@@ -33956,7 +33947,7 @@
     <name>Quanzhi Gaoshou</name>
   </anime>
   <anime anidbid="12562" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Isekai Izakaya "Nobu"</name>
+    <name>Isekai Izakaya: Koto Aitheria no Izakaya Nobu</name>
   </anime>
   <anime anidbid="12563" tvdbid="325198" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Frame Arms Girl</name>
@@ -34301,7 +34292,7 @@
     <name>UQ Holder! Mahou Sensei Negima! 2 (2017)</name>
   </anime>
   <anime anidbid="12684" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>6HP Six Hearts Princess Pink or Black</name>
+    <name>6 Heart Princess</name>
   </anime>
   <anime anidbid="12685" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Drifters (2017)</name>
@@ -34967,7 +34958,7 @@
     <name>Yume Kakeru Kougen: Kiyosato no Chichi Paul Rusch</name>
   </anime>
   <anime anidbid="12919" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Eureka Seven AO Final Episode: One More Time - Lord Don't Slow Me Down</name>
+    <name>Eureka Seven Ao: Final Episode - One More Time - Lord Don't Slow Me Down</name>
   </anime>
   <anime anidbid="12920" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Zhandou Wang Zhi Jufeng Zhan Hun</name>
@@ -35851,9 +35842,6 @@
   <anime anidbid="13235" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Jianzhen Da he shang</name>
   </anime>
-  <anime anidbid="13236" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Illustration Animation: Kitsune and Neeko</name>
-  </anime>
   <anime anidbid="13237" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gin no Guardian (2018)</name>
   </anime>
@@ -36122,13 +36110,13 @@
     <name>Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun</name>
   </anime>
   <anime anidbid="13334" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Boruto</name>
+    <name>Boruto Narutimate Storm Ver.</name>
   </anime>
   <anime anidbid="13335" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ou-sama Game The Animation</name>
   </anime>
   <anime anidbid="13336" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Houshin Engi</name>
+    <name>Hakyuu Houshin Engi</name>
   </anime>
   <anime anidbid="13337" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Golden Kamuy</name>
@@ -36269,7 +36257,7 @@
     <name>Robotex</name>
   </anime>
   <anime anidbid="13387" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Tottoko Hamutarou: Anime Dechu!</name>
+    <name>Tottoko Hamtarou: Anime Dechu!</name>
   </anime>
   <anime anidbid="13388" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Succuba Mist Story The Animation</name>
@@ -36382,9 +36370,6 @@
   <anime anidbid="13424" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Mahou Shoujo Site</name>
   </anime>
-  <anime anidbid="13425" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta</name>
-  </anime>
   <anime anidbid="13426" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Uchuu Senkan Tiramisu</name>
   </anime>
@@ -36413,7 +36398,7 @@
     <name>Hinamatsuri (2018)</name>
   </anime>
   <anime anidbid="13435" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Hinamatsuri (1993)</name>
+    <name>Hinamatsuri</name>
   </anime>
   <anime anidbid="13436" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Blade Runner: Black Out 2022</name>
@@ -36741,5 +36726,14 @@
   </anime>
   <anime anidbid="13549" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Yuuwaku Office Lover 2</name>
+  </anime>
+  <anime anidbid="13550" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>OVA Youkoso! Sukebe Elf no Mori e</name>
+  </anime>
+  <anime anidbid="13551" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Do S na Seitokaichou-sama ga M Note ni Shihai Saremashita</name>
+  </anime>
+  <anime anidbid="13552" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yuragi-sou no Yuuna-san</name>
   </anime>
 </anime-list>

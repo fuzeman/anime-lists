@@ -16685,9 +16685,6 @@
   <anime anidbid="6204" tvdbid="unknown" defaulttvdbseason="1">
     <name>Mori no Senshi Bonolon</name>
   </anime>
-  <anime anidbid="6205" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Little Penguin</name>
-  </anime>
   <anime anidbid="6206" tvdbid="unknown" defaulttvdbseason="2">
     <name>Sugar Bunnies Chocolate!</name>
   </anime>
@@ -20850,12 +20847,6 @@
     <name>Anpanman to Happy Otanjoubi</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
-    </mapping-list>
-  </anime>
-  <anime anidbid="7756" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
-    <name>Sore Ike! Anpanman: Anpanman to Kaizoku Lobster</name>
-    <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="7757" tvdbid="167921" defaulttvdbseason="0" imdbid="unknown">
