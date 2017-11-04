@@ -23919,9 +23919,6 @@
   <anime anidbid="8722" tvdbid="256182" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>High Score</name>
   </anime>
-  <anime anidbid="8723" tvdbid="unknown" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Bonobono Plus</name>
-  </anime>
   <anime anidbid="8724" tvdbid="128411" defaulttvdbseason="0" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Majime ni Fumajime Kaiketsu Zorori Uchuu Tanken Taisakusen</name>
     <mapping-list>
@@ -29332,7 +29329,7 @@
     <name>The Rolling Girls</name>
   </anime>
   <anime anidbid="10785" tvdbid="284601" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Wake Up Girl Zoo!</name>
+    <name>Wake Up, Girl Zoo!</name>
   </anime>
   <anime anidbid="10786" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ginga Jinpuu Jinraiger</name>
@@ -32174,7 +32171,7 @@
     <name>Berserk</name>
   </anime>
   <anime anidbid="11852" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Wake Up, Miyagi! Fure-Ai Project in Taiwan</name>
+    <name>Wake Up, Girls! no Miyagi PR Yarasete Kudasai!</name>
   </anime>
   <anime anidbid="11854" tvdbid="303867" defaulttvdbseason="0" episodeoffset="2" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kono Subarashii Sekai ni Shukufuku o! Kono Subarashii Choker ni Shukufuku o!</name>
@@ -33548,7 +33545,7 @@
     <name>Pokemon Generations</name>
   </anime>
   <anime anidbid="12410" tvdbid="327035" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>100% Pascal-sensei</name>
+    <name>100% Pascal-sensei (2017)</name>
   </anime>
   <anime anidbid="12411" tvdbid="319456" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Akiba's Trip The Animation</name>
@@ -34911,9 +34908,6 @@
   </anime>
   <anime anidbid="12902" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Seupideuwang Beongae</name>
-  </anime>
-  <anime anidbid="12903" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Tokyo Sake Brewery</name>
   </anime>
   <anime anidbid="12904" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Shounen Ashibe: Go! Go! Goma-chan (2017)</name>
@@ -36307,9 +36301,6 @@
   <anime anidbid="13403" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gekijouban Tokimeki Restaurant: Miracle 6</name>
   </anime>
-  <anime anidbid="13404" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Mahoujin Guruguru Petit Anime Theater</name>
-  </anime>
   <anime anidbid="13405" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Eiga Daisuki Pompo-san</name>
   </anime>
@@ -36679,9 +36670,6 @@
   <anime anidbid="13531" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Yakiniku-ten Sengoku</name>
   </anime>
-  <anime anidbid="13532" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kurisutarujueru</name>
-  </anime>
   <anime anidbid="13533" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Date a Live (Shinsaku)</name>
   </anime>
@@ -36735,5 +36723,29 @@
   </anime>
   <anime anidbid="13552" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Yuragi-sou no Yuuna-san</name>
+  </anime>
+  <anime anidbid="13553" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Eiga Shimajirou: Mahou no Shima no Daibouken</name>
+  </anime>
+  <anime anidbid="13554" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Wake Up, Girl Zoo! Miyagi PR de Go!</name>
+  </anime>
+  <anime anidbid="13555" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Wake Up, Girl Zoo! Taiwan de Go!</name>
+  </anime>
+  <anime anidbid="13556" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Real Eroge Situation! The Animation</name>
+  </anime>
+  <anime anidbid="13557" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken</name>
+  </anime>
+  <anime anidbid="13558" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Virtua Fighter Costomize Clip</name>
+  </anime>
+  <anime anidbid="13559" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Mame Neko</name>
+  </anime>
+  <anime anidbid="13560" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>100% Pascal-sensei</name>
   </anime>
 </anime-list>
