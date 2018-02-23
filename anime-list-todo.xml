@@ -5942,7 +5942,7 @@
     <name>The Zero Century</name>
   </anime>
   <anime anidbid="13266" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Lupin Sansei: Part V</name>
+    <name>Lupin Sansei: Part 5</name>
   </anime>
   <anime anidbid="13267" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Himitsukessha Taka no Tsume DO</name>
@@ -6767,7 +6767,7 @@
     <name>Xi You Ji</name>
   </anime>
   <anime anidbid="13563" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Gekijouban Hiragana Danshi</name>
+    <name>Gekijouban Hiragana Danshi: Jo</name>
   </anime>
   <anime anidbid="13564" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kakuriyo no Yadomeshi</name>
@@ -7561,5 +7561,11 @@
   <anime anidbid="13836" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Oshie to Tabi Suru Otoko</name>
   </anime>
+  <anime anidbid="13837" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Neko Neko Nihonshi (2018)</name>
+  </anime>
+  <anime anidbid="13838" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Shounen Ashibe: Go! Go! Goma-chan (2018)</name>
+  </anime>
 </anime-list>
-<!--2514 titles remaining-->
+<!--2516 titles remaining-->
