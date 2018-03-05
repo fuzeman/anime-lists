@@ -9122,7 +9122,7 @@
     <name>Turn A Gundam I: Chikyuukou</name>
   </anime>
   <anime anidbid="2814" tvdbid="85230" defaulttvdbseason="0" episodeoffset="" imdbid="tt0204704" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Uchuu Senkan Yamato (Gekijouban)</name>
+    <name>Uchuu Senkan Yamato (1977)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-1;2-1;3-1;</mapping>
     </mapping-list>
@@ -32444,7 +32444,7 @@
     <name>Xiong Chu Mo Zhi Duo Bao Qibing</name>
   </anime>
   <anime anidbid="11959" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Senki Zesshou Symphogear 5</name>
+    <name>Senki Zesshou Symphogear XV</name>
   </anime>
   <anime anidbid="11960" tvdbid="277063" defaulttvdbseason="3" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Future Card Buddyfight DDD</name>
@@ -36836,7 +36836,7 @@
     <name>Meitantei Conan: Zero no Shikkounin</name>
   </anime>
   <anime anidbid="13606" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Gekijouban Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu</name>
+    <name>Eiga Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu</name>
   </anime>
   <anime anidbid="13607" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (2018)</name>
@@ -37560,5 +37560,41 @@
   </anime>
   <anime anidbid="13855" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Usagi no Mathew</name>
+  </anime>
+  <anime anidbid="13856" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ikezu</name>
+  </anime>
+  <anime anidbid="13857" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ghost Messenger Geugjangpan</name>
+  </anime>
+  <anime anidbid="13858" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Neko Konogoro</name>
+  </anime>
+  <anime anidbid="13859" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Idolmaster Cinderella Girls Gekijou (2018)</name>
+  </anime>
+  <anime anidbid="13860" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Project HAL</name>
+  </anime>
+  <anime anidbid="13861" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Kirin the Noop</name>
+  </anime>
+  <anime anidbid="13862" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Kingsglaive: FFXV Fan Kansha Tokubetsu Movie</name>
+  </anime>
+  <anime anidbid="13863" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Korogashi-ya no Pun</name>
+  </anime>
+  <anime anidbid="13864" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>UFO Nitsukamatta Kodomo-tachi</name>
+  </anime>
+  <anime anidbid="13865" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Suna Asobi</name>
+  </anime>
+  <anime anidbid="13866" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Sam to Chip no wa Hachamecha Dai Race</name>
+  </anime>
+  <anime anidbid="13867" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Munyeodo</name>
   </anime>
 </anime-list>
