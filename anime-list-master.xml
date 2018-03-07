@@ -13936,7 +13936,7 @@
     <name>Zero no Tsukaima: Futatsuki no Kishi</name>
   </anime>
   <anime anidbid="4916" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>GR -Giant Robo-</name>
+    <name>GR: Giant Robo</name>
   </anime>
   <anime anidbid="4917" tvdbid="80554" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Hayate no Gotoku!</name>
@@ -37596,5 +37596,14 @@
   </anime>
   <anime anidbid="13867" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Munyeodo</name>
+  </anime>
+  <anime anidbid="13868" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yao Shen Ji 2</name>
+  </anime>
+  <anime anidbid="13869" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Sarazanmai</name>
+  </anime>
+  <anime anidbid="13870" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Chara to Otama Jakushi Shima</name>
   </anime>
 </anime-list>
