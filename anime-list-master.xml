@@ -33662,8 +33662,8 @@
   <anime anidbid="12439" tvdbid="294002" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gekijouban Soushuuhen Overlord</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-10;2-11;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-12;2-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-10;2-11;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12440" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -37742,10 +37742,13 @@
   <anime anidbid="13894" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Psycho-Pass: Sinners of the System</name>
   </anime>
-  <anime anidbid="13895" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Ano Musume Secret</name>
-  </anime>
   <anime anidbid="13896" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Hyakuren no Haou to Seiyaku no Valkyria</name>
+  </anime>
+  <anime anidbid="13897" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ladyspo</name>
+  </anime>
+  <anime anidbid="13898" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Karakuri Circus</name>
   </anime>
 </anime-list>
