@@ -3212,7 +3212,7 @@
     <name>Island</name>
   </anime>
   <anime anidbid="12023" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>FLCL 2</name>
+    <name>FLCL Progressive</name>
   </anime>
   <anime anidbid="12024" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Asa Da yo! Kai Shain</name>
@@ -5612,7 +5612,7 @@
     <name>Angolmois: Genkou Kassenki</name>
   </anime>
   <anime anidbid="13258" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>FLCL 3</name>
+    <name>FLCL Alternative</name>
   </anime>
   <anime anidbid="13259" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Darling in the Franxx</name>
@@ -7363,9 +7363,6 @@
   <anime anidbid="13907" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ganbare! Kozou no Koutsuuanzen Patroul Tai</name>
   </anime>
-  <anime anidbid="13908" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Rara Maji</name>
-  </anime>
   <anime anidbid="13909" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Lalala Lala-chan (2018)</name>
   </anime>
@@ -7483,5 +7480,29 @@
   <anime anidbid="13948" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Babylon</name>
   </anime>
+  <anime anidbid="13950" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Quanzhi Gaoshou: Tebie Pian</name>
+  </anime>
+  <anime anidbid="13951" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Yousei Tin Tin</name>
+  </anime>
+  <anime anidbid="13952" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Han-Gyaku-Sei Million Arthur</name>
+  </anime>
+  <anime anidbid="13953" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Oretacha Youkai Ningen G</name>
+  </anime>
+  <anime anidbid="13954" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Teio Koryaku</name>
+  </anime>
+  <anime anidbid="13955" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Mannaka no Rikkun</name>
+  </anime>
+  <anime anidbid="13956" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Akanesasu Shoujo</name>
+  </anime>
+  <anime anidbid="13957" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Robot Girls Neo</name>
+  </anime>
 </anime-list>
-<!--2488 titles remaining-->
+<!--2495 titles remaining-->
