@@ -12040,9 +12040,6 @@
   <anime anidbid="4182" tvdbid="movie" defaulttvdbseason="1" imdbid="unknown">
     <name>Ajin Senshi</name>
   </anime>
-  <anime anidbid="4183" tvdbid="unknown" defaulttvdbseason="0" imdbid="unknown">
-    <name>Gensei Shugoshin P-hyoro Ikka</name>
-  </anime>
   <anime anidbid="4184" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0829089">
     <name>5-tou ni Naritai.</name>
   </anime>
@@ -22990,7 +22987,7 @@
     <name>Poyopoyo Kansatsu Nikki</name>
   </anime>
   <anime anidbid="8680" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Gensei Shugoshin P-hyoro Ikka OVA</name>
+    <name>Gensei Shugoshin P-hyoro Ikka</name>
   </anime>
   <anime anidbid="8681" tvdbid="257765" defaulttvdbseason="1">
     <name>Kuroko no Baske</name>
