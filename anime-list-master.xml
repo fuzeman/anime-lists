@@ -9828,7 +9828,7 @@
     <name>Black Jack: Heian Sento</name>
   </anime>
   <anime anidbid="3120" tvdbid="74739" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kaleido Star: Good da yo! Goood!!</name>
+    <name>Kaleido Star: Good Da yo! Goood!!</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-3;</mapping>
     </mapping-list>
@@ -38317,5 +38317,14 @@
   </anime>
   <anime anidbid="14090" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>To the Moon</name>
+  </anime>
+  <anime anidbid="14091" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Chikyuugai Shounen Shoujo</name>
+  </anime>
+  <anime anidbid="14092" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Uchuu no Hou: Reimei Hen</name>
+  </anime>
+  <anime anidbid="14093" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Nidome no Jinsei o Isekai de</name>
   </anime>
 </anime-list>
