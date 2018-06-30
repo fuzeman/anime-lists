@@ -5927,7 +5927,7 @@
     <name>Banana Fish</name>
   </anime>
   <anime anidbid="13538" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Tsurune</name>
+    <name>Tsurune: Kazemai Koukou Kyuudou Bu</name>
   </anime>
   <anime anidbid="13539" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tsukumogami Kashimasu</name>
@@ -7630,5 +7630,8 @@
   <anime anidbid="14189" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Saiki Kusuo no Sainan (Shinsaku Anime)</name>
   </anime>
+  <anime anidbid="14190" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Beatless Final Stage</name>
+  </anime>
 </anime-list>
-<!--2537 titles remaining-->
+<!--2538 titles remaining-->
