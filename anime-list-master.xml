@@ -29302,7 +29302,7 @@
     <name>Mahou Shoujo Ore</name>
   </anime>
   <anime anidbid="10771" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Sakura Capusule</name>
+    <name>Sakura Capsule</name>
   </anime>
   <anime anidbid="10773" tvdbid="304316" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Shouwa Genroku Rakugo Shinjuu</name>
@@ -38626,5 +38626,11 @@
   </anime>
   <anime anidbid="14213" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Domestic na Kanojo</name>
+  </anime>
+  <anime anidbid="14214" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>OVA Kansen Sodom</name>
+  </anime>
+  <anime anidbid="14215" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gekijouban Pocket Monsters: Mewtwo no Gyakushuu Evolution</name>
   </anime>
 </anime-list>
