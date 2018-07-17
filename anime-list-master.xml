@@ -15960,7 +15960,7 @@
   <anime anidbid="5815" tvdbid="79879" defaulttvdbseason="3" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kyou kara Maou! (2008)</name>
   </anime>
-  <anime anidbid="5816" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="5816" tvdbid="333830" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Genki Bakuhatsu Ganbaruger</name>
   </anime>
   <anime anidbid="5817" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -25916,7 +25916,7 @@
   <anime anidbid="9453" tvdbid="102261" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Nekomonogatari (Kuro): Tsubasa Family</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;2-3;3-4;4-5;5-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9454" tvdbid="267754" defaulttvdbseason="0" episodeoffset="" imdbid="tt2431934" tmdbid="" tmdbmid="" tmdbsid="">
@@ -31890,6 +31890,11 @@
   </anime>
   <anime anidbid="11731" tvdbid="78914" defaulttvdbseason="4" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Fullmetal Panic! Invisible Victory</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="4">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="4" start="5" end="12" offset="1"/>
+    </mapping-list>
+    <before>;1-5;</before>
   </anime>
   <anime anidbid="11733" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Alice in Dreamland</name>
@@ -32665,7 +32670,7 @@
   <anime anidbid="12022" tvdbid="305101" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Super Lovers (2017)</name>
   </anime>
-  <anime anidbid="12023" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="12023" tvdbid="78878" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>FLCL Progressive</name>
   </anime>
   <anime anidbid="12024" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -32929,7 +32934,7 @@
   <anime anidbid="12117" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Onara Gorou</name>
   </anime>
-  <anime anidbid="12118" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="12118" tvdbid="278818" defaulttvdbseason="0" episodeoffset="" imdbid="tt7625514" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gochuumon wa Usagi Desuka?? Dear My Sister</name>
   </anime>
   <anime anidbid="12119" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -34025,7 +34030,7 @@
   <anime anidbid="12567" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="477776" tmdbmid="477776" tmdbsid="">
     <name>Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch</name>
   </anime>
-  <anime anidbid="12569" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="12569" tvdbid="348742" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Baki (2018)</name>
   </anime>
   <anime anidbid="12570" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -35960,7 +35965,7 @@
   <anime anidbid="13257" tvdbid="337623" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Sora yori mo Tooi Basho</name>
   </anime>
-  <anime anidbid="13258" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13258" tvdbid="movie" defaulttvdbseason="0" episodeoffset="" imdbid="tt7112162" tmdbid="" tmdbmid="" tmdbsid="">
     <name>FLCL Alternative</name>
   </anime>
   <anime anidbid="13259" tvdbid="337017" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -36626,7 +36631,7 @@
   <anime anidbid="13495" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>B-Project: Zecchou Emotion</name>
   </anime>
-  <anime anidbid="13496" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13496" tvdbid="335952" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Road to You: Kimi e to Tsuzuku Michi</name>
   </anime>
   <anime anidbid="13497" tvdbid="343054" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -36737,7 +36742,7 @@
   <anime anidbid="13535" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Pittanko!! Nekozakana</name>
   </anime>
-  <anime anidbid="13536" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13536" tvdbid="343384" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Banana Fish</name>
   </anime>
   <anime anidbid="13537" tvdbid="342181" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -37283,7 +37288,7 @@
   <anime anidbid="13733" tvdbid="345377" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>PazuDora</name>
   </anime>
-  <anime anidbid="13734" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13734" tvdbid="343913" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Grand Blue</name>
   </anime>
   <anime anidbid="13735" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -38303,7 +38308,7 @@
   <anime anidbid="14100" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Naka no Hito Genome [Jikkyouchuu]</name>
   </anime>
-  <anime anidbid="14101" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="14101" tvdbid="web" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="526094" tmdbmid="526094" tmdbsid="">
     <name>Kado: Beyond Information</name>
   </anime>
   <anime anidbid="14102" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">

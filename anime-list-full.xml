@@ -15876,7 +15876,7 @@
   <anime anidbid="5815" tvdbid="79879" defaulttvdbseason="3">
     <name>Kyou kara Maou! (2008)</name>
   </anime>
-  <anime anidbid="5816" tvdbid="unknown" defaulttvdbseason="1">
+  <anime anidbid="5816" tvdbid="333830" defaulttvdbseason="1">
     <name>Genki Bakuhatsu Ganbaruger</name>
   </anime>
   <anime anidbid="5817" tvdbid="unknown" defaulttvdbseason="1">
@@ -24950,7 +24950,7 @@
   <anime anidbid="9453" tvdbid="102261" defaulttvdbseason="0">
     <name>Nekomonogatari (Kuro): Tsubasa Family</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;3-5;4-6;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-0;2-3;3-4;4-5;5-6;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="9454" tvdbid="267754" defaulttvdbseason="0" imdbid="tt2431934">
@@ -29058,6 +29058,11 @@
   </anime>
   <anime anidbid="11731" tvdbid="78914" defaulttvdbseason="4">
     <name>Fullmetal Panic! Invisible Victory</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="4">;1-5;</mapping>
+      <mapping anidbseason="1" tvdbseason="4" start="5" end="12" offset="1"/>
+    </mapping-list>
+    <before>;1-5;</before>
   </anime>
   <anime anidbid="11734" tvdbid="262954" defaulttvdbseason="3">
     <name>JoJo no Kimyou na Bouken: Diamond wa Kudakenai</name>
@@ -29515,6 +29520,9 @@
   <anime anidbid="12022" tvdbid="305101" defaulttvdbseason="0">
     <name>Super Lovers (2017)</name>
   </anime>
+  <anime anidbid="12023" tvdbid="78878" defaulttvdbseason="2">
+    <name>FLCL Progressive</name>
+  </anime>
   <anime anidbid="12027" tvdbid="327574" defaulttvdbseason="1">
     <name>Katsugeki: Touken Ranbu</name>
   </anime>
@@ -29646,6 +29654,9 @@
   </anime>
   <anime anidbid="12116" tvdbid="319357" defaulttvdbseason="1">
     <name>Kubikiri Cycle: Aoiro Savant to Zaregotozukai</name>
+  </anime>
+  <anime anidbid="12118" tvdbid="278818" defaulttvdbseason="0" imdbid="tt7625514">
+    <name>Gochuumon wa Usagi Desuka?? Dear My Sister</name>
   </anime>
   <anime anidbid="12121" tvdbid="272129" defaulttvdbseason="0" episodeoffset="2">
     <name>Strike the Blood II</name>
@@ -30091,6 +30102,9 @@
   </anime>
   <anime anidbid="12567" tvdbid="movie" defaulttvdbseason="1" tmdbid="477776" tmdbmid="477776">
     <name>Gekijou Soushuuhen Code Geass: Hangyaku no Lelouch</name>
+  </anime>
+  <anime anidbid="12569" tvdbid="348742" defaulttvdbseason="1">
+    <name>Baki (2018)</name>
   </anime>
   <anime anidbid="12571" tvdbid="289886" defaulttvdbseason="2">
     <name>Kekkai Sensen &amp; Beyond</name>
@@ -30617,6 +30631,9 @@
   <anime anidbid="13257" tvdbid="337623" defaulttvdbseason="1">
     <name>Sora yori mo Tooi Basho</name>
   </anime>
+  <anime anidbid="13258" tvdbid="movie" defaulttvdbseason="0" imdbid="tt7112162">
+    <name>FLCL Alternative</name>
+  </anime>
   <anime anidbid="13259" tvdbid="337017" defaulttvdbseason="1">
     <name>Darling in the Franxx</name>
   </anime>
@@ -30791,6 +30808,9 @@
   <anime anidbid="13494" tvdbid="335815" defaulttvdbseason="1">
     <name>Sword Art Online Alternative: Gun Gale Online</name>
   </anime>
+  <anime anidbid="13496" tvdbid="335952" defaulttvdbseason="1">
+    <name>Road to You: Kimi e to Tsuzuku Michi</name>
+  </anime>
   <anime anidbid="13497" tvdbid="343054" defaulttvdbseason="1">
     <name>Layton Mystery Tanteisha: Katri no Nazotoki File</name>
   </anime>
@@ -30832,6 +30852,9 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="13536" tvdbid="343384" defaulttvdbseason="1">
+    <name>Banana Fish</name>
   </anime>
   <anime anidbid="13537" tvdbid="342181" defaulttvdbseason="1">
     <name>Piano no Mori (2018)</name>
@@ -30905,6 +30928,9 @@
   <anime anidbid="13733" tvdbid="345377" defaulttvdbseason="1">
     <name>PazuDora</name>
   </anime>
+  <anime anidbid="13734" tvdbid="343913" defaulttvdbseason="1">
+    <name>Grand Blue</name>
+  </anime>
   <anime anidbid="13740" tvdbid="315092" defaulttvdbseason="3">
     <name>Nobunaga no Shinobi: Anegawa Ishiyama Hen</name>
   </anime>
@@ -30946,5 +30972,8 @@
   </anime>
   <anime anidbid="13914" tvdbid="325374" defaulttvdbseason="2">
     <name>Duel Masters!</name>
+  </anime>
+  <anime anidbid="14101" tvdbid="web" defaulttvdbseason="1" tmdbid="526094" tmdbmid="526094">
+    <name>Kado: Beyond Information</name>
   </anime>
 </anime-list>
