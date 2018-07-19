@@ -34046,7 +34046,7 @@
     <name>Gijinka de Manabo!</name>
   </anime>
   <anime anidbid="12574" tvdbid="248035" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Ao no Exorcist: Kyoto Fujouou Hen - Hebi to Doku</name>
+    <name>Ao no Exorcist: Kyoto Fujouou Hen OVA</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
     </mapping-list>
@@ -38658,5 +38658,8 @@
   </anime>
   <anime anidbid="14222" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Mori no Andou</name>
+  </anime>
+  <anime anidbid="14223" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Youkoso Japari Park</name>
   </anime>
 </anime-list>
