@@ -7678,7 +7678,7 @@
     <name>Tatakae!! Ramenman (1988)</name>
   </anime>
   <anime anidbid="2320" tvdbid="75838" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Beck</name>
+    <name>Beck: Mongolian Chop Squad</name>
   </anime>
   <anime anidbid="2321" tvdbid="71361" defaulttvdbseason="0" episodeoffset="" imdbid="tt0473658" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Inuyasha: Guren no Houraijima</name>
@@ -38707,5 +38707,8 @@
   </anime>
   <anime anidbid="14232" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Endro~!</name>
+  </anime>
+  <anime anidbid="14233" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Kono Sekai no (Sarani Ikutsumo no) Katasumi ni</name>
   </anime>
 </anime-list>
