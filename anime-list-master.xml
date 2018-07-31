@@ -35121,6 +35121,9 @@
   </anime>
   <anime anidbid="12952" tvdbid="294002" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Overlord II</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="13" offset="13"/>
+    </mapping-list>
   </anime>
   <anime anidbid="12953" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Eiga Kaiketsu Zorori: ZZ no Himitsu</name>
@@ -35149,8 +35152,11 @@
   <anime anidbid="12961" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Midori-chan: Nice to Meat You</name>
   </anime>
-  <anime anidbid="12962" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="12962" tvdbid="289884" defaulttvdbseason="0" episodeoffset="" imdbid="tt6973828" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gekijouban Hibike! Euphonium: Todoketai Melody</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="12963" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ponkotsu Quest: Maou to Haken no Mamono-tachi</name>
@@ -35740,8 +35746,11 @@
   <anime anidbid="13175" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Entotsu Machi no Poupelle</name>
   </anime>
-  <anime anidbid="13176" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13176" tvdbid="261862" defaulttvdbseason="0" episodeoffset="" imdbid="tt6915208" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Eiga Chuunibyou demo Koi ga Shitai! Take on Me</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-31;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13177" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Chizu no Nai Bouken</name>
@@ -35923,7 +35932,7 @@
   <anime anidbid="13240" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Blame! (Sequel)</name>
   </anime>
-  <anime anidbid="13241" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13241" tvdbid="267440" defaulttvdbseason="3" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Shingeki no Kyojin Season 3</name>
   </anime>
   <anime anidbid="13242" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -35947,7 +35956,7 @@
   <anime anidbid="13249" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Love Kome: We Love Rice Nikisaku</name>
   </anime>
-  <anime anidbid="13250" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13250" tvdbid="337350" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Chio-chan no Tsuugakuro</name>
   </anime>
   <anime anidbid="13251" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -36629,8 +36638,11 @@
   <anime anidbid="13490" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Oshushi Da yo</name>
   </anime>
-  <anime anidbid="13491" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13491" tvdbid="289884" defaulttvdbseason="0" episodeoffset="" imdbid="tt7089878" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Liz to Aoi Tori</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-18;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13492" tvdbid="341432" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tada-kun wa Koi o Shinai</name>
@@ -36764,7 +36776,7 @@
   <anime anidbid="13538" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tsurune: Kazemai Koukou Kyuudou Bu</name>
   </anime>
-  <anime anidbid="13539" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13539" tvdbid="347295" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Tsukumogami Kashimasu</name>
   </anime>
   <anime anidbid="13540" tvdbid="85192" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -36785,8 +36797,11 @@
   <anime anidbid="13545" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kimitachi wa Dou Ikiru ka</name>
   </anime>
-  <anime anidbid="13546" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13546" tvdbid="267440" defaulttvdbseason="0" episodeoffset="" imdbid="tt7941892" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gekijouban Shingeki no Kyojin Season 2: Kakusei no Houkou</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-23;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="13548" tvdbid="270065" defaulttvdbseason="3" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Free! Dive to the Future</name>
@@ -38074,6 +38089,9 @@
   </anime>
   <anime anidbid="14008" tvdbid="294002" defaulttvdbseason="3" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Overlord III</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="26"/>
+    </mapping-list>
   </anime>
   <anime anidbid="14009" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Patisserie no Monster</name>
@@ -38360,7 +38378,7 @@
   <anime anidbid="14111" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen</name>
   </anime>
-  <anime anidbid="14112" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="14112" tvdbid="349640" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?</name>
   </anime>
   <anime anidbid="14113" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
