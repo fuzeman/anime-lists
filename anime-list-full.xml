@@ -27840,6 +27840,9 @@
   <anime anidbid="10855" tvdbid="281947" defaulttvdbseason="2">
     <name>Shounen Hollywood: Holly Stage for 50</name>
   </anime>
+  <anime anidbid="10858" tvdbid="339072" defaulttvdbseason="1">
+    <name>Sword Gai The Animation</name>
+  </anime>
   <anime anidbid="10859" tvdbid="275670" defaulttvdbseason="2">
     <name>Nisekoi:</name>
     <mapping-list>
@@ -28088,7 +28091,7 @@
   <anime anidbid="10954" tvdbid="278157" defaulttvdbseason="0">
     <name>Haikyuu!! (2014)</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;2-3;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10955" tvdbid="289744" defaulttvdbseason="1">
@@ -28244,10 +28247,10 @@
   <anime anidbid="11039" tvdbid="311537" defaulttvdbseason="1">
     <name>Taboo Tattoo</name>
   </anime>
-  <anime anidbid="11040" tvdbid="278157" defaulttvdbseason="0">
+  <anime anidbid="11040" tvdbid="278157" defaulttvdbseason="0" tmdbid="347183,347186" tmdbmid="347183,347186">
     <name>Gekijouban Haikyuu!!</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-3;2-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;2-4;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11041" tvdbid="movie" defaulttvdbseason="1" imdbid="tt4637028">
@@ -28508,8 +28511,12 @@
   <anime anidbid="11203" tvdbid="283947" defaulttvdbseason="2">
     <name>Ansatsu Kyoushitsu (2016)</name>
   </anime>
-  <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1">
+  <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1" episodeoffset="-1">
     <name>Dies Irae</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-2;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="11209" tvdbid="305101" defaulttvdbseason="1">
     <name>Super Lovers</name>
@@ -29460,6 +29467,9 @@
   <anime anidbid="11979" tvdbid="316814" defaulttvdbseason="1">
     <name>Watashi ga Motete Dou Sunda</name>
   </anime>
+  <anime anidbid="11980" tvdbid="278329" defaulttvdbseason="0" episodeoffset="7" imdbid="tt6580380">
+    <name>Gekijouban Mahouka Koukou no Rettousei: Hoshi o Yobu Shoujo</name>
+  </anime>
   <anime anidbid="11981" tvdbid="319410" defaulttvdbseason="1">
     <name>Eromanga-sensei</name>
   </anime>
@@ -30139,7 +30149,7 @@
   <anime anidbid="12574" tvdbid="248035" defaulttvdbseason="0">
     <name>Ao no Exorcist: Kyoto Fujouou Hen OVA</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;2-14;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="12575" tvdbid="271591" defaulttvdbseason="4">
@@ -30469,6 +30479,12 @@
       <mapping anidbseason="1" tvdbseason="0">;1-17;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="12982" tvdbid="278157" defaulttvdbseason="0" tmdbid="461762,461763" tmdbmid="461762,461763">
+    <name>Gekijouban Soushuuhen Haikyuu!!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-6;2-7;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12985" tvdbid="329828" defaulttvdbseason="1">
     <name>Clione no Akari</name>
   </anime>
@@ -30709,6 +30725,9 @@
   <anime anidbid="13259" tvdbid="337017" defaulttvdbseason="1">
     <name>Darling in the Franxx</name>
   </anime>
+  <anime anidbid="13262" tvdbid="movie" defaulttvdbseason="1" imdbid="tt7339826">
+    <name>Sayonara no Asa ni Yakusoku no Hana o Kazarou</name>
+  </anime>
   <anime anidbid="13263" tvdbid="79895" defaulttvdbseason="9">
     <name>Gintama. (2017)</name>
     <mapping-list>
@@ -30790,6 +30809,9 @@
   </anime>
   <anime anidbid="13331" tvdbid="344315" defaulttvdbseason="1">
     <name>Persona 5 the Animation</name>
+  </anime>
+  <anime anidbid="13332" tvdbid="278157" defaulttvdbseason="0" episodeoffset="4">
+    <name>Haikyuu!! Tokushuu! Haru-kou Volley ni Kaketa Seishun</name>
   </anime>
   <anime anidbid="13335" tvdbid="332981" defaulttvdbseason="1">
     <name>Ousama Game: The Animation</name>
@@ -31130,9 +31152,6 @@
   <anime anidbid="13897" tvdbid="345232" defaulttvdbseason="1">
     <name>Ladyspo</name>
   </anime>
-  <anime anidbid="13902" tvdbid="339072" defaulttvdbseason="1">
-    <name>Sword Gai</name>
-  </anime>
   <anime anidbid="13904" tvdbid="348601" defaulttvdbseason="1">
     <name>Kyoto Teramachi Sanjou no Holmes</name>
   </anime>
@@ -31169,6 +31188,9 @@
   <anime anidbid="13995" tvdbid="340518" defaulttvdbseason="2">
     <name>Hataraku Onii-san! No 2!</name>
   </anime>
+  <anime anidbid="14000" tvdbid="339072" defaulttvdbseason="2">
+    <name>Sword Gai: The Animation Part II</name>
+  </anime>
   <anime anidbid="14002" tvdbid="349459" defaulttvdbseason="1">
     <name>Shin'ya! Tensai Bakabon</name>
   </anime>
@@ -31204,5 +31226,11 @@
   </anime>
   <anime anidbid="14112" tvdbid="349640" defaulttvdbseason="1">
     <name>Joshi Ochi! 2-kai kara Onnanoko ga... Futte Kita!?</name>
+  </anime>
+  <anime anidbid="14195" tvdbid="321690" defaulttvdbseason="1" episodeoffset="11">
+    <name>Dies Irae (2018)</name>
+  </anime>
+  <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0">
+    <name>Nekopara: Koneko no Hi no Yakusoku</name>
   </anime>
 </anime-list>
