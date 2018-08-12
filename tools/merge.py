@@ -40,7 +40,7 @@ def main():
 	# Find changes between base and remote
 	print('Finding change(s)...')
 	
-	changes = list(diff(base, remote))
+	changes = list(resolve(base, local, remote))
 
 	# Apply changes to local
 	print('Applying %d change(s)...' % (len(changes),))
@@ -54,6 +54,27 @@ def main():
 		merged_path, local,
 		unix=unix
 	)
+
+def resolve(base, local, remote):
+	for op, path, value in diff(base, remote):
+		if op == 'remove' and path == 'anime-list.anime':
+			value = list(on_anime_removed(base, local, remote, value))
+
+		# Ignore empty changes
+		if not value:
+			continue
+
+		# Yield change
+		yield op, path, value
+
+def on_anime_removed(base, local, remote, items):
+	for key, value in items:
+		# Ignore items that have been already removed
+		if key not in local['anime-list']['anime']:
+			continue
+
+		# Yield removed item
+		yield key, value
 
 
 if __name__ == '__main__':
