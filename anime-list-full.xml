@@ -11268,7 +11268,7 @@
     <name>Deko Boko Friends</name>
   </anime>
   <anime anidbid="3693" tvdbid="unknown" defaulttvdbseason="1">
-    <name>Dokkan! Robotendon</name>
+    <name>Dokkan! Robo Tendon</name>
   </anime>
   <anime anidbid="3694" tvdbid="movie" defaulttvdbseason="1" imdbid="tt2140617">
     <name>Tsuru ni Notte: Tomoko no Bouken</name>
@@ -28514,8 +28514,8 @@
   <anime anidbid="11204" tvdbid="321690" defaulttvdbseason="1" episodeoffset="-1">
     <name>Dies Irae</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;5-0;6-0;7-0;8-0;9-0;10-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="11209" tvdbid="305101" defaulttvdbseason="1">
