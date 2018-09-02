@@ -3259,6 +3259,9 @@
   </anime>
   <anime anidbid="880" tvdbid="79237" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Grappler Baki: Saidai Tournament Hen</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="2">;1-24;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="881" tvdbid="109001" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Shin Getter Robo Tai Neo Getter Robo</name>
@@ -5714,8 +5717,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="1677" tvdbid="79879" defaulttvdbseason="a" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="1677" tvdbid="79879" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kyou kara Maou!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="2" start="40" end="78" offset="-39"/>
+    </mapping-list>
   </anime>
   <anime anidbid="1678" tvdbid="unknown" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ikkyuu-san</name>
@@ -22595,9 +22601,6 @@
   </anime>
   <anime anidbid="8265" tvdbid="252474" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Maken-ki!</name>
-    <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
-    </mapping-list>
   </anime>
   <anime anidbid="8266" tvdbid="248018" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Softenni!</name>
@@ -23459,6 +23462,9 @@
   </anime>
   <anime anidbid="8566" tvdbid="252474" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Maken-ki!: Natsu Da! Mizugi Da! Gasshuku Da!</name>
+    <mapping-list>
+      <mapping anidbseason="1" tvdbseason="0">;1-7;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="8567" tvdbid="247788" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Sekaiichi Hatsukoi 2</name>
@@ -25807,6 +25813,9 @@
   </anime>
   <anime anidbid="9406" tvdbid="252474" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Maken-ki! Two</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="5" offset="8"/>
+    </mapping-list>
   </anime>
   <anime anidbid="9409" tvdbid="254653" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>High School DxD New: Gekkou Koutei no Excalibur</name>
@@ -27317,10 +27326,11 @@
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="9977" tvdbid="278626" defaulttvdbseason="1" episodeoffset="-1" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="9977" tvdbid="278626" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Fate/Stay Night: Unlimited Blade Works (2014)</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+      <mapping anidbseason="1" tvdbseason="1" start="2" end="13" offset="-1"/>
     </mapping-list>
   </anime>
   <anime anidbid="9979" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -34019,7 +34029,7 @@
   <anime anidbid="12559" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>The Snack World: Hitogirai no Renny</name>
   </anime>
-  <anime anidbid="12560" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="12560" tvdbid="326270" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Quanzhi Gaoshou</name>
   </anime>
   <anime anidbid="12562" tvdbid="344974" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -35738,7 +35748,7 @@
   <anime anidbid="13170" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Oide yo! Mizuryuu Kei Land</name>
   </anime>
-  <anime anidbid="13171" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13171" tvdbid="328670" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Quanzhi Fashi</name>
   </anime>
   <anime anidbid="13172" tvdbid="337622" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -36582,7 +36592,7 @@
   <anime anidbid="13468" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ze Tian Ji Di San Ji</name>
   </anime>
-  <anime anidbid="13469" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13469" tvdbid="328670" defaulttvdbseason="2" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Quanzhi Fashi 2</name>
   </anime>
   <anime anidbid="13470" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -37656,7 +37666,7 @@
   <anime anidbid="13845" tvdbid="347578" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Zoids Wild</name>
   </anime>
-  <anime anidbid="13846" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13846" tvdbid="movie" defaulttvdbseason="1" episodeoffset="" imdbid="tt8176578" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Shikioriori</name>
   </anime>
   <anime anidbid="13847" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -37848,7 +37858,7 @@
   <anime anidbid="13915" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Bean Bandit</name>
   </anime>
-  <anime anidbid="13916" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13916" tvdbid="347467" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Muhyo to Roji no Mahouritsu Soudan Jimusho</name>
   </anime>
   <anime anidbid="13917" tvdbid="79895" defaulttvdbseason="10" episodeoffset="12" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -37944,7 +37954,7 @@
   <anime anidbid="13948" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Babylon</name>
   </anime>
-  <anime anidbid="13950" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+  <anime anidbid="13950" tvdbid="326270" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Quanzhi Gaoshou: Tebie Pian</name>
   </anime>
   <anime anidbid="13951" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -38097,7 +38107,7 @@
   <anime anidbid="14008" tvdbid="294002" defaulttvdbseason="3" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Overlord III</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="0" start="1" end="4" offset="26"/>
+      <mapping anidbseason="0" tvdbseason="0" start="1" end="8" offset="26"/>
     </mapping-list>
   </anime>
   <anime anidbid="14009" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
