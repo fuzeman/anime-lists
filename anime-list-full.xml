@@ -8705,7 +8705,7 @@
     <name>Girls Bravo: Second Season</name>
   </anime>
   <anime anidbid="2680" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Kanzen Mushusei: Sorezore no Houkago</name>
+    <name>Kanzen Mushuusei: Sorezore no Houkago</name>
   </anime>
   <anime anidbid="2681" tvdbid="hentai" defaulttvdbseason="1">
     <name>Mogitate Marina-chan</name>
@@ -18062,9 +18062,6 @@
       <mapping anidbseason="0" tvdbseason="0">;13-1;</mapping>
     </mapping-list>
   </anime>
-  <anime anidbid="6775" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Injuu Seisen XX</name>
-  </anime>
   <anime anidbid="6777" tvdbid="93281" defaulttvdbseason="2">
     <name>Tentai Senshi Sunred 2</name>
   </anime>
@@ -26989,7 +26986,7 @@
     <name>Soredemo Sekai wa Utsukushii</name>
   </anime>
   <anime anidbid="10397" tvdbid="275611" defaulttvdbseason="0">
-    <name>Witch Craft Works (2015)</name>
+    <name>Witch Craft Works: Takamiya-kun to Imouto no Warudakumi</name>
   </anime>
   <anime anidbid="10398" tvdbid="278158" defaulttvdbseason="1">
     <name>Inugami-san to Nekoyama-san</name>
