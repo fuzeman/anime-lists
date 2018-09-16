@@ -23071,8 +23071,8 @@
   <anime anidbid="8701" tvdbid="87841" defaulttvdbseason="2">
     <name>Saki: Achiga Hen - Episode of Side-A</name>
     <mapping-list>
-      <mapping anidbseason="0" tvdbseason="2">;1-13;2-14;3-15;4-16;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;5-8;</mapping>
+      <mapping anidbseason="0" tvdbseason="2">;1-13;2-14;3-15;4-16;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8702" tvdbid="web" defaulttvdbseason="1">
