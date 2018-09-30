@@ -13140,9 +13140,6 @@
   <anime anidbid="4611" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Gendai Kibunroku Kaii Monogatari</name>
   </anime>
-  <anime anidbid="4612" tvdbid="OVA" defaulttvdbseason="1" episodeoffset="" imdbid="unknown" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Zakuro Yashiki La Grenadiere</name>
-  </anime>
   <anime anidbid="4614" tvdbid="hentai" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Ijoku</name>
   </anime>
@@ -34622,7 +34619,7 @@
     <name>Dance with Devils: Fortuna</name>
   </anime>
   <anime anidbid="12764" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Macross (2018)</name>
+    <name>Macross (Shin Series)</name>
   </anime>
   <anime anidbid="12766" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Future Card Buddyfight Batzz</name>
@@ -36483,7 +36480,7 @@
     <name>Lan Mo De Hua</name>
   </anime>
   <anime anidbid="13430" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Re: Zero kara Hajimeru Isekai Seikatsu - Memory Snow</name>
+    <name>Re: Zero kara Hajimeru Isekai Seikatsu (2018)</name>
   </anime>
   <anime anidbid="13431" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Glamorous Heroes</name>
@@ -36918,7 +36915,7 @@
     <name>Yin Shun Daoshi Chuan</name>
   </anime>
   <anime anidbid="13580" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Eromanga-sensei (2018)</name>
+    <name>Eromanga-sensei (2019)</name>
   </anime>
   <anime anidbid="13581" tvdbid="342010" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>3D Kanojo: Real Girl</name>
@@ -38621,9 +38618,6 @@
   <anime anidbid="14189" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Saiki Kusuo no Sainan (Shinsaku Anime)</name>
   </anime>
-  <anime anidbid="14190" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Beatless Final Stage</name>
-  </anime>
   <anime anidbid="14191" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Yin Yang Shi: Ping An Wu Yu</name>
   </anime>
@@ -39249,9 +39243,54 @@
     <name>Otaku ni Koi wa Muzukashii: Youth</name>
   </anime>
   <anime anidbid="14406" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Majimoji Rurumo (Shinsaku Anime)</name>
+    <name>Majimoji Rurumo (2019)</name>
   </anime>
   <anime anidbid="14407" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Aigan Kaijuu</name>
+  </anime>
+  <anime anidbid="14408" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gekijouban Macross Delta</name>
+  </anime>
+  <anime anidbid="14409" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Lost Song (Shinsaku)</name>
+  </anime>
+  <anime anidbid="14410" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Chuubyou Gekihatsu Boy</name>
+  </anime>
+  <anime anidbid="14411" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Senjuushi: Kijuushi-tachi no Happy Birthday!</name>
+  </anime>
+  <anime anidbid="14412" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Otona no Bouguya-san</name>
+  </anime>
+  <anime anidbid="14413" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Nande Koko ni Sensei ga!?</name>
+  </anime>
+  <anime anidbid="14414" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Chuusotsu Worker kara Hajimeru Koukou Seikatsu</name>
+  </anime>
+  <anime anidbid="14415" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Free! (2020)</name>
+  </anime>
+  <anime anidbid="14416" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Boku no Hero Academia 4</name>
+  </anime>
+  <anime anidbid="14417" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ichinichi Gaishutsuroku Hanchou</name>
+  </anime>
+  <anime anidbid="14418" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>High Score Girl (2019)</name>
+  </anime>
+  <anime anidbid="14419" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Daifuku-kun @ Kin Tele</name>
+  </anime>
+  <anime anidbid="14420" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ikkitousen: Western Wolves</name>
+  </anime>
+  <anime anidbid="14421" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Persona 5 the Animation: Dark Sun...</name>
+  </anime>
+  <anime anidbid="14422" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Mirakuru Garuzu Fesutibaru</name>
   </anime>
 </anime-list>
