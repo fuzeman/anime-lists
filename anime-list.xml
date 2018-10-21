@@ -6643,7 +6643,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="2153" tvdbid="78500" defaulttvdbseason="0" imdbid="tt0112513">
-    <name>Bishoujo Senshi Sailor Moon Super S - Sailor 9 Senshi Shuuketsu! Black-Dream-Hole no Kiseki</name>
+    <name>Bishoujo Senshi Sailor Moon Super S: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-9;2-0;3-0;</mapping>
       <mapping anidbseason="1" tvdbseason="0">;1-8;</mapping>
@@ -28114,7 +28114,7 @@
     <name>Dies Irae (2018)</name>
   </anime>
   <anime anidbid="14198" tvdbid="351953" defaulttvdbseason="1">
-    <name>Zombieland Saga</name>
+    <name>Zombie Land Saga</name>
   </anime>
   <anime anidbid="14206" tvdbid="335088" defaulttvdbseason="0">
     <name>Nekopara: Koneko no Hi no Yakusoku</name>
