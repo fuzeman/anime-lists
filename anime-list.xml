@@ -10987,10 +10987,10 @@
   <anime anidbid="4385" tvdbid="202291" defaulttvdbseason="1">
     <name>Saint October</name>
   </anime>
-  <anime anidbid="4388" tvdbid="78962" defaulttvdbseason="0" imdbid="tt0994794">
+  <anime anidbid="4388" tvdbid="78962" defaulttvdbseason="0" episodeoffset="3" imdbid="tt0994794">
     <name>Gekijouban Shakugan no Shana</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+      <mapping anidbseason="0" tvdbseason="0">;1-6;2-0;3-0;4-0;6-0;7-0;205-5;206-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4390" tvdbid="music video" defaulttvdbseason="1">
@@ -13922,6 +13922,9 @@
   </anime>
   <anime anidbid="5975" tvdbid="83322" defaulttvdbseason="1">
     <name>Toaru Majutsu no Index</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;3-0;4-0;5-0;6-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="5976" tvdbid="83588" defaulttvdbseason="1">
     <name>Yozakura Quartet</name>
@@ -17635,6 +17638,9 @@
   </anime>
   <anime anidbid="7599" tvdbid="83322" defaulttvdbseason="2">
     <name>Toaru Majutsu no Index II</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;3-0;4-0;</mapping>
+    </mapping-list>
   </anime>
   <anime anidbid="7600" tvdbid="OVA" defaulttvdbseason="1">
     <name>Twinkle Nora Rock Me!</name>
@@ -20046,11 +20052,10 @@
   <anime anidbid="8693" tvdbid="music video" defaulttvdbseason="1">
     <name>Nexus</name>
   </anime>
-  <anime anidbid="8694" tvdbid="83322" defaulttvdbseason="0" imdbid="tt3163844">
+  <anime anidbid="8694" tvdbid="83322" defaulttvdbseason="0" episodeoffset="4" imdbid="tt3163844">
     <name>Gekijouban Toaru Majutsu no Index: Endymion no Kiseki</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-6;</mapping>
-      <mapping anidbseason="1" tvdbseason="0">;1-5;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="8695" tvdbid="83348" defaulttvdbseason="2">
@@ -28060,7 +28065,7 @@
   <anime anidbid="14053" tvdbid="348065" defaulttvdbseason="1">
     <name>Yagate Kimi ni Naru</name>
   </anime>
-  <anime anidbid="14059" tvdbid="281249" defaulttvdbseason="4">
+  <anime anidbid="14059" tvdbid="281249" defaulttvdbseason="3" episodeoffset="12">
     <name>Tokyo Ghoul:Re (2018)</name>
   </anime>
   <anime anidbid="14068" tvdbid="352683" defaulttvdbseason="1">
