@@ -8864,7 +8864,7 @@
     <name>Yayoi</name>
   </anime>
   <anime anidbid="2731" tvdbid="72845" defaulttvdbseason="0">
-    <name>Akihabara Dennou-gumi: 2011 Nen no Natsuyasumi</name>
+    <name>Akihabara Dennou-gumi: 2011-nen no Natsuyasumi</name>
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
@@ -11346,7 +11346,7 @@
     <name>Yoi Ko</name>
   </anime>
   <anime anidbid="3955" tvdbid="tv special" defaulttvdbseason="1" imdbid="tt2140179">
-    <name>Natsufuku no Shoujo-tachi: Hiroshima, Shouwa 20 Nen 8 Gatsu Muika</name>
+    <name>Natsufuku no Shoujo-tachi: Hiroshima, Shouwa 20-nen 8-gatsu Muika</name>
   </anime>
   <anime anidbid="3956" tvdbid="150641" defaulttvdbseason="0" imdbid="unknown">
     <name>Hoero! Bun Bun (1987)</name>
