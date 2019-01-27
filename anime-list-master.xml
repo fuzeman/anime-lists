@@ -6093,13 +6093,13 @@
   </anime>
   <anime anidbid="1806" tvdbid="81110" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Soukyuu no Fafner: Dead Aggressor</name>
-    <supplemental-info>
-      <studio>Xebec</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
       <mapping anidbseason="0" tvdbseason="1">;3-25;4-26;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Xebec</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="1807" tvdbid="103791" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Densetsu Kyojin Ideon</name>
@@ -12092,8 +12092,8 @@
   <anime anidbid="4170" tvdbid="74890" defaulttvdbseason="0" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4172" tvdbid="83619" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -29861,8 +29861,8 @@
   <anime anidbid="10961" tvdbid="79824" defaulttvdbseason="0" episodeoffset="" imdbid="tt4618398" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Boruto: Naruto the Movie</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10962" tvdbid="309531" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
@@ -38189,7 +38189,7 @@
     <name>Joubuna Tire!</name>
   </anime>
   <anime anidbid="14024" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Koi to Uso (2018)</name>
+    <name>Koi to Uso: Isshou no Koi / Koi no Kimochi</name>
   </anime>
   <anime anidbid="14025" tvdbid="352681" defaulttvdbseason="1" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Beelzebub-jou no Oki ni Mesu Mama.</name>
@@ -39891,5 +39891,29 @@
   </anime>
   <anime anidbid="14622" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Mutafukaz</name>
+  </anime>
+  <anime anidbid="14623" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Jashin-chan Dropkick 2</name>
+  </anime>
+  <anime anidbid="14624" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Hamaneko</name>
+  </anime>
+  <anime anidbid="14625" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Megane no Megami</name>
+  </anime>
+  <anime anidbid="14626" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Dragon Ball Super (Shinsaku)</name>
+  </anime>
+  <anime anidbid="14627" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Fairy Gone</name>
+  </anime>
+  <anime anidbid="14628" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Tales of the Rays: Everlasting Destiny</name>
+  </anime>
+  <anime anidbid="14629" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Ano Danchi no Tsuma-tachi wa... The Animation</name>
+  </anime>
+  <anime anidbid="14630" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Machikado Mazoku</name>
   </anime>
 </anime-list>

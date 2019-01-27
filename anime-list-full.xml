@@ -6087,13 +6087,13 @@
   </anime>
   <anime anidbid="1806" tvdbid="81110" defaulttvdbseason="1">
     <name>Soukyuu no Fafner: Dead Aggressor</name>
-    <supplemental-info>
-      <studio>Xebec</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-3;</mapping>
       <mapping anidbseason="0" tvdbseason="1">;3-25;4-26;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Xebec</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="1807" tvdbid="103791" defaulttvdbseason="1">
     <name>Densetsu Kyojin Ideon</name>
@@ -12029,8 +12029,8 @@
   <anime anidbid="4170" tvdbid="74890" defaulttvdbseason="0">
     <name>Kidou Senshi Gundam SEED Destiny Final Plus: Erabareta Mirai</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-2;2-2;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="4172" tvdbid="83619" defaulttvdbseason="1">
@@ -28157,8 +28157,8 @@
   <anime anidbid="10961" tvdbid="79824" defaulttvdbseason="0" imdbid="tt4618398">
     <name>Boruto: Naruto the Movie</name>
     <mapping-list>
-      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-14;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;1-13;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="10962" tvdbid="309531" defaulttvdbseason="1">
