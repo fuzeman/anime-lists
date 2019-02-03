@@ -245,12 +245,12 @@
   </anime>
   <anime anidbid="51" tvdbid="70861" defaulttvdbseason="0">
     <name>Love Hina Christmas Special: Silent Eve</name>
-    <supplemental-info>
-      <studio>XEBEC</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>XEBEC</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="52" tvdbid="70861" defaulttvdbseason="0" episodeoffset="1">
     <name>Love Hina Haru Special: Kimi Sakura Chiru Nakare!!</name>
@@ -20329,12 +20329,12 @@
   </anime>
   <anime anidbid="7565" tvdbid="70350" defaulttvdbseason="0" episodeoffset="4" imdbid="tt0860907">
     <name>Evangelion Shin Gekijouban: Q</name>
-    <supplemental-info>
-      <studio>Studio Khara</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Studio Khara</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="7566" tvdbid="hentai" defaulttvdbseason="1">
     <name>Rei Zero</name>
