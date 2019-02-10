@@ -227,12 +227,12 @@
   </anime>
   <anime anidbid="47" tvdbid="78953" defaulttvdbseason="1">
     <name>Scryed</name>
-    <supplemental-info>
-      <studio>Sunrise</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="48" tvdbid="79445" defaulttvdbseason="1">
     <name>Ippatsu Kikimusume</name>
@@ -370,12 +370,12 @@
   </anime>
   <anime anidbid="77" tvdbid="73038" defaulttvdbseason="1">
     <name>Choujikuu Yousai Macross</name>
-    <supplemental-info>
-      <studio>Anime Friend</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Anime Friend</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="78" tvdbid="movie" defaulttvdbseason="1" imdbid="tt0293416">
     <name>Metropolis</name>
@@ -496,13 +496,13 @@
   </anime>
   <anime anidbid="104" tvdbid="82023" defaulttvdbseason="1">
     <name>Hoshi no Koe</name>
-    <supplemental-info>
-      <studio>CoMix Wave</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="2" offset="1"/>
       <mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>CoMix Wave</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="105" tvdbid="82319" defaulttvdbseason="0">
     <name>R.O.D: Read or Die</name>
@@ -750,12 +750,12 @@
   </anime>
   <anime anidbid="169" tvdbid="78777" defaulttvdbseason="1">
     <name>Lodoss-tou Senki</name>
-    <supplemental-info>
-      <studio>Madhouse</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Madhouse</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="170" tvdbid="78909" defaulttvdbseason="1">
     <name>Kidou Tenshi Angelic Layer</name>
@@ -813,12 +813,12 @@
   </anime>
   <anime anidbid="184" tvdbid="77248" defaulttvdbseason="1">
     <name>Tenkuu no Escaflowne</name>
-    <supplemental-info>
-      <studio>Sunrise</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0" start="1" end="7" offset="2"/>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="185" tvdbid="81073" defaulttvdbseason="1">
     <name>Top o Nerae! Gunbuster</name>
@@ -4639,12 +4639,12 @@
   </anime>
   <anime anidbid="1297" tvdbid="84025" defaulttvdbseason="1">
     <name>Maria-sama ga Miteru</name>
-    <supplemental-info>
-      <studio>Studio Deen</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;8-0;9-0;10-0;11-0;12-0;13-0;14-0;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Studio Deen</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="1298" tvdbid="221491" defaulttvdbseason="1">
     <name>Sentimental Journey</name>
@@ -5428,12 +5428,12 @@
   </anime>
   <anime anidbid="1554" tvdbid="83020" defaulttvdbseason="1">
     <name>Mai-HiME</name>
-    <supplemental-info>
-      <studio>Sunrise</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;21-23;22-21;23-22;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="1555" tvdbid="75873" defaulttvdbseason="1">
     <name>Hanaukyou Maid Tai: La Verite</name>
@@ -12666,12 +12666,12 @@
   </anime>
   <anime anidbid="5080" tvdbid="245451" defaulttvdbseason="0" episodeoffset="2" imdbid="tt1043842">
     <name>Appleseed Saga Ex Machina</name>
-    <supplemental-info>
-      <studio>Digital Frontier</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;3-0;4-0;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Digital Frontier</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="5081" tvdbid="81153" defaulttvdbseason="1">
     <name>Ginga Patrol PJ</name>
@@ -19495,12 +19495,12 @@
   </anime>
   <anime anidbid="8342" tvdbid="78953" defaulttvdbseason="0" imdbid="unknown">
     <name>Scryed Alteration</name>
-    <supplemental-info>
-      <studio>Sunrise</studio>
-    </supplemental-info>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;2-0;</mapping>
     </mapping-list>
+    <supplemental-info>
+      <studio>Sunrise</studio>
+    </supplemental-info>
   </anime>
   <anime anidbid="8343" tvdbid="OVA" defaulttvdbseason="1">
     <name>The Epic of Zektbach</name>
