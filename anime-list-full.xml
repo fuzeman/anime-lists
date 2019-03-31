@@ -23369,7 +23369,7 @@
     <name>Houkago Nyan Nyan</name>
   </anime>
   <anime anidbid="8731" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Lovely Day</name>
+    <name>Lovely Day: Boku to Kanojo no Nanokakan</name>
   </anime>
   <anime anidbid="8732" tvdbid="71279" defaulttvdbseason="0" episodeoffset="2">
     <name>Musekinin Kanchou Tylor (1995)</name>
@@ -29021,7 +29021,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="11370" tvdbid="305089" defaulttvdbseason="1">
-    <name>Re: Zero kara Hajimeru Isekai Seikatsu</name>
+    <name>Re:Zero kara Hajimeru Isekai Seikatsu</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
       <mapping anidbseason="0" tvdbseason="0" start="2" end="26" offset="-1"/>
