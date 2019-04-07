@@ -19987,7 +19987,7 @@
     <name>Hunter x Hunter (2011)</name>
   </anime>
   <anime anidbid="8551" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Vampire</name>
+    <name>Vampire (2011)</name>
   </anime>
   <anime anidbid="8552" tvdbid="254664" defaulttvdbseason="1">
     <name>Kill Me Baby</name>
@@ -23026,7 +23026,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="9875" tvdbid="272074" defaulttvdbseason="1">
-    <name>Kill La Kill</name>
+    <name>Kill la Kill</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-2;</mapping>
     </mapping-list>
@@ -24194,7 +24194,7 @@
     <name>Yariman Fudousan</name>
   </anime>
   <anime anidbid="10461" tvdbid="hentai" defaulttvdbseason="1">
-    <name>Mahou Shoujo wa Kiss Shite Kawaru</name>
+    <name>Mahou Shoujo wa Kiss Shite Kawaru: Aite ga Kare Igai no Hito Da Nante......</name>
   </anime>
   <anime anidbid="10462" tvdbid="279042" defaulttvdbseason="1">
     <name>Abarenbou Rikishi!! Matsutarou</name>
@@ -27108,6 +27108,12 @@
   <anime anidbid="12429" tvdbid="301165" defaulttvdbseason="2">
     <name>Rewrite 2nd Season</name>
   </anime>
+  <anime anidbid="12430" tvdbid="293088" defaulttvdbseason="2">
+    <name>One Punch Man (2019)</name>
+    <mapping-list>
+      <mapping anidbseason="0" tvdbseason="0">;1-8;</mapping>
+    </mapping-list>
+  </anime>
   <anime anidbid="12433" tvdbid="320003" defaulttvdbseason="1">
     <name>Nyanko Days</name>
   </anime>
@@ -28568,6 +28574,9 @@
   <anime anidbid="14290" tvdbid="350052" defaulttvdbseason="2">
     <name>Seizei Ganbare! Mahou Shoujo Kurumi (2018)</name>
   </anime>
+  <anime anidbid="14308" tvdbid="360593" defaulttvdbseason="1">
+    <name>Chou Kadou Girl 1/6</name>
+  </anime>
   <anime anidbid="14327" tvdbid="352192" defaulttvdbseason="1">
     <name>Inazuma Eleven: Orion no Kokuin</name>
   </anime>
@@ -28600,5 +28609,8 @@
     <mapping-list>
       <mapping anidbseason="1" tvdbseason="0">;1-9;2-9;3-9;</mapping>
     </mapping-list>
+  </anime>
+  <anime anidbid="14733" tvdbid="352327" defaulttvdbseason="2">
+    <name>Wei, Kan Jian Er Duo La! (2019)</name>
   </anime>
 </anime-list>
