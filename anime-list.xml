@@ -27403,6 +27403,9 @@
       <mapping anidbseason="0" tvdbseason="0">;1-0;</mapping>
     </mapping-list>
   </anime>
+  <anime anidbid="12693" tvdbid="359955" defaulttvdbseason="1">
+    <name>Kono Yo no Hate de Koi o Utau Shoujo Yu-no</name>
+  </anime>
   <anime anidbid="12694" tvdbid="332162" defaulttvdbseason="1">
     <name>Blend S</name>
   </anime>
@@ -28361,6 +28364,9 @@
   <anime anidbid="13890" tvdbid="349993" defaulttvdbseason="1">
     <name>Ingress the Animation</name>
   </anime>
+  <anime anidbid="13893" tvdbid="354154" defaulttvdbseason="1">
+    <name>Carole &amp; Tuesday</name>
+  </anime>
   <anime anidbid="13896" tvdbid="347294" defaulttvdbseason="1">
     <name>Hyakuren no Haou to Seiyaku no Valkyria</name>
   </anime>
@@ -28450,6 +28456,9 @@
   </anime>
   <anime anidbid="13979" tvdbid="352684" defaulttvdbseason="1">
     <name>Dakaretai Otoko 1-i ni Odosarete Imasu.</name>
+  </anime>
+  <anime anidbid="13989" tvdbid="358411" defaulttvdbseason="1">
+    <name>Hitoribocchi no Marumaru Seikatsu</name>
   </anime>
   <anime anidbid="13991" tvdbid="337936" defaulttvdbseason="0">
     <name>Karakai Jouzu no Takagi-san: Water Slider</name>
@@ -28565,6 +28574,9 @@
   <anime anidbid="14241" tvdbid="353244" defaulttvdbseason="1">
     <name>Okoshiyasu, Chitose-chan</name>
   </anime>
+  <anime anidbid="14242" tvdbid="359832" defaulttvdbseason="1">
+    <name>Hachigatsu no Cinderella Nine</name>
+  </anime>
   <anime anidbid="14247" tvdbid="355966" defaulttvdbseason="1">
     <name>Go-Toubun no Hanayome</name>
   </anime>
@@ -28592,8 +28604,14 @@
   <anime anidbid="14389" tvdbid="353242" defaulttvdbseason="1">
     <name>Devidol!</name>
   </anime>
+  <anime anidbid="14390" tvdbid="359014" defaulttvdbseason="1">
+    <name>Joshi Kausei</name>
+  </anime>
   <anime anidbid="14412" tvdbid="353608" defaulttvdbseason="1">
     <name>Otona no Bouguya-san</name>
+  </anime>
+  <anime anidbid="14413" tvdbid="361310" defaulttvdbseason="1">
+    <name>Nande Koko ni Sensei ga!?</name>
   </anime>
   <anime anidbid="14418" tvdbid="346673" defaulttvdbseason="0">
     <name>High Score Girl: Extra Stage</name>
@@ -28603,6 +28621,12 @@
   </anime>
   <anime anidbid="14447" tvdbid="354675" defaulttvdbseason="1">
     <name>Egao no Daika</name>
+  </anime>
+  <anime anidbid="14490" tvdbid="357488" defaulttvdbseason="1">
+    <name>Fruits Basket (2019)</name>
+  </anime>
+  <anime anidbid="14514" tvdbid="360579" defaulttvdbseason="1">
+    <name>Sewayaki Kitsune no Senko-san</name>
   </anime>
   <anime anidbid="14579" tvdbid="278626" defaulttvdbseason="0">
     <name>Manga de Wakaru! Fate/Grand Order</name>
