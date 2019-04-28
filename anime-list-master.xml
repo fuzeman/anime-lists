@@ -29770,7 +29770,7 @@
     </mapping-list>
   </anime>
   <anime anidbid="10861" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kuiba III</name>
+    <name>Kuiba III: Zhanshen Jueqi</name>
   </anime>
   <anime anidbid="10862" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Mak Dau Dang Dang Ban wo Xin</name>
@@ -37995,7 +37995,7 @@
     <name>Suna Asobi</name>
   </anime>
   <anime anidbid="13866" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Sam to Chip no wa Hachamecha Dai Race</name>
+    <name>Sam to Chip no Hachamecha Dai Race</name>
   </anime>
   <anime anidbid="13867" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Munyeodo</name>
@@ -40059,7 +40059,7 @@
     <name>Kawauso Labo</name>
   </anime>
   <anime anidbid="14601" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Gekijouban Free! Dive to the Future</name>
+    <name>Gekijouban Free! Road to the World - Yume</name>
   </anime>
   <anime anidbid="14602" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Kyokou Suiri</name>
@@ -40182,10 +40182,10 @@
     <name>Cider no You ni Kotoba ga Wakiagaru</name>
   </anime>
   <anime anidbid="14643" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kuiba IV: Mei Ling Luo</name>
+    <name>Kuiba IV: Mei Lingluo</name>
   </anime>
   <anime anidbid="14644" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Kuiba V: Chong Tian Shuo</name>
+    <name>Kuiba V: Chongtian Shuo</name>
   </anime>
   <anime anidbid="14645" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Xing Chen Bian</name>
@@ -40760,9 +40760,6 @@
   <anime anidbid="14840" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou</name>
   </anime>
-  <anime anidbid="14842" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Reddo Tatoru: Aru Shima no Monogatari</name>
-  </anime>
   <anime anidbid="14843" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Juicy Jungle</name>
   </anime>
@@ -40802,9 +40799,6 @@
   <anime anidbid="14855" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Si Hai Jing Qi</name>
   </anime>
-  <anime anidbid="14856" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
-    <name>Goblin Slayer: Bouken Kiroku Youshi</name>
-  </anime>
   <anime anidbid="14857" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Chokotto Anime Kemono Friends 3</name>
   </anime>
@@ -40813,5 +40807,101 @@
   </anime>
   <anime anidbid="14860" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
     <name>Xie Wang Zhui Qi</name>
+  </anime>
+  <anime anidbid="14861" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Kuiba Yao Xia Zhuan</name>
+  </anime>
+  <anime anidbid="14862" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Weiqi Shaonian 2</name>
+  </anime>
+  <anime anidbid="14863" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Jing Hua Yuan</name>
+  </anime>
+  <anime anidbid="14864" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Sui Tang Ying Xiong Zhuan</name>
+  </anime>
+  <anime anidbid="14865" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Shi'er Shengxiao</name>
+  </anime>
+  <anime anidbid="14866" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Zigu Yingxiong Chu Shaonian</name>
+  </anime>
+  <anime anidbid="14867" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Zhanguo FAN</name>
+  </anime>
+  <anime anidbid="14868" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Du Dang Man</name>
+  </anime>
+  <anime anidbid="14869" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Xiong Bing Lian Zhi Zhu Tian Jianglin</name>
+  </anime>
+  <anime anidbid="14870" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>AOTU Shijie Di San Ji</name>
+  </anime>
+  <anime anidbid="14871" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Wan Gu Xian Qiong III</name>
+  </anime>
+  <anime anidbid="14872" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Bai Gui You Er Yuan Di 2 Ji</name>
+  </anime>
+  <anime anidbid="14873" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Qing Wa Wang Zi Li Xian Ji</name>
+  </anime>
+  <anime anidbid="14874" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Dou Po Cang Qiong: Tebie Pian 2 - Sha Zhi Lan Ge</name>
+  </anime>
+  <anime anidbid="14875" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Flowering Heart 2</name>
+  </anime>
+  <anime anidbid="14876" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Bai She: Yuan Qi</name>
+  </anime>
+  <anime anidbid="14877" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gang Tie Fei Long Zhi Zai Jian Ao Te Man</name>
+  </anime>
+  <anime anidbid="14878" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gang Tie Fei Long Zhi Ao Te Man Jue Qi</name>
+  </anime>
+  <anime anidbid="14879" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Xiong Chumo: Yuanshi Shida</name>
+  </anime>
+  <anime anidbid="14880" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Can Wa Yu Tianchi Guaishou Zhi Ruixue Zhao Fengnian</name>
+  </anime>
+  <anime anidbid="14881" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gongfu Si Xia</name>
+  </anime>
+  <anime anidbid="14882" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Gongfu Si Xia: Yong Chuang Digong</name>
+  </anime>
+  <anime anidbid="14883" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Omoi, Omoware, Furi, Furare</name>
+  </anime>
+  <anime anidbid="14884" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Mahou Shoujuu Sherbert</name>
+  </anime>
+  <anime anidbid="14885" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Hana no Zundamaru: Junk</name>
+  </anime>
+  <anime anidbid="14886" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Meitantei Conan (2020)</name>
+  </anime>
+  <anime anidbid="14887" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Shishigari</name>
+  </anime>
+  <anime anidbid="14888" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>San Guo Yan Yi</name>
+  </anime>
+  <anime anidbid="14889" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Saezuru Tori wa Habatakanai: The Clouds Gather</name>
+  </anime>
+  <anime anidbid="14890" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Nanatsu no Taizai: Eiyuu-tachi wa Hashagu</name>
+  </anime>
+  <anime anidbid="14891" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Dou Po Cang Qiong: Q Ban Xiao Juchang</name>
+  </anime>
+  <anime anidbid="14892" tvdbid="" defaulttvdbseason="" episodeoffset="" imdbid="" tmdbid="" tmdbmid="" tmdbsid="">
+    <name>Dou Po Cang Qiong - Q Ban Xiao Juchang 2</name>
   </anime>
 </anime-list>
